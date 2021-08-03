@@ -1,0 +1,743 @@
+,year,team,league,total_transfers_in,total_transfer_out,total_spend,total_earned,average_fee_spend,average_fee_earned,max_fee_spend,min_fee_spend,avg_season_spi,most_purchased_position,position_max_spend,position_min_spend,avg_spend_striker,avg_spend_centre_back,avg_spend_centre_mid,avg_spend_goalkeeper,avg_spend_left_winger,avg_spend_right_winger,avg_spend_def_midfield,avg_spend_left_back,avg_spend_right_back,avg_spend_att_midfield
+0,2016,1.FSV Mainz 05,German Bundesliga,10,5,26.284,23.135,2.6284,4.627000000000001,5.85,11.25,68.02999999999999,Striker,Attacking Midfield,Left-Back,4.05,0.45,1.93,2.25,2.7,3.15,4.5,0.054,0.0,0.0
+1,2016,AC Milan,Italian Serie A,7,7,26.599999999999994,22.640000000000004,3.7999999999999994,3.234285714285715,8.6,11.7,67.48,Central Midfield,Left Winger,Centre-Back,8.55,8.6,3.825,0.0,0.63,0.45,0.0,0.0,0.0,0.72
+2,2016,ACF Fiorentina,Italian Serie A,10,10,14.156999999999998,27.950000000000003,1.4156999999999997,2.7950000000000004,3.15,20.7,68.68000000000002,Centre-Back,Left-Back,Centre-Back,0.0,2.025,0.45,1.2735,0.45,0.0,0.0,0.9,2.61,1.5750000000000002
+3,2016,AFC Bournemouth,English Premier League,7,6,36.626,21.320999999999998,5.232285714285714,3.5534999999999997,16.2,10.8,60.88,Central Midfield,Right Winger,Central Midfield,5.85,2.07,4.21,0.846,0.0,16.2,0.0,3.24,0.0,0.0
+4,2016,AS Monaco,French Ligue 1,5,6,45.45,16.605,9.09,2.7675,13.5,7.2,78.38,Left-Back,Right-Back,Left-Back,0.0,9.9,2.7,0.0,0.0,0.0,0.0,9.675,13.5,0.0
+5,2016,AS Nancy-Lorraine,French Ligue 1,3,3,2.0700000000000003,9.81,0.6900000000000001,3.27,1.35,4.86,47.96,Goalkeeper,Centre-Back,Centre-Back,0.0,0.27,0.0,0.45,0.0,0.0,1.35,0.0,0.0,0.0
+6,2016,AS Roma,Italian Serie A,16,14,92.34,67.88900000000001,5.77125,4.849214285714287,16.74,28.8,78.48999999999997,Centre-Back,Defensive Midfield,Striker,6.075,2.9699999999999998,16.74,7.2,9.899999999999999,7.875,0.0,2.475,0.9,0.0
+7,2016,AS Saint-Étienne,French Ligue 1,2,3,6.300000000000001,2.0250000000000004,3.1500000000000004,0.6750000000000002,3.6,0.9,63.65,Central Midfield,Central Midfield,Centre-Back,0.0,2.7,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,2016,Arsenal FC,English Premier League,6,3,101.736,9.32,16.956,3.106666666666667,40.5,4.5,81.98,Centre-Back,Defensive Midfield,Left-Back,18.0,19.8,0.0,0.0,3.6,0.0,40.5,0.036,0.0,0.0
+9,2016,Atalanta BC,Italian Serie A,9,7,12.906,37.196999999999996,1.4340000000000002,5.313857142857143,6.03,17.1,65.67,Centre-Back,Centre-Back,Centre-Back,6.03,0.585,0.36,0.765,2.25,0.63,0.0,0.0,0.936,0.0
+10,2016,Atlético Madrid,Spanish La Liga,5,6,71.1,39.33,14.219999999999999,6.555,27.0,16.2,88.13,Right-Back,Striker,Goalkeeper,27.0,0.0,0.0,0.72,6.48,0.0,0.0,0.0,14.4,22.5
+11,2016,Bayer 04 Leverkusen,German Bundesliga,7,7,54.09,21.329999999999995,7.727142857142858,3.0471428571428563,18.9,13.5,77.29999999999998,Defensive Midfield,Centre-Back,Right-Back,18.0,18.9,0.0,0.45,12.15,0.0,2.0700000000000003,0.0,0.45,0.0
+12,2016,Bayern Munich,German Bundesliga,2,5,63.0,47.07,31.5,9.414,31.5,19.8,93.72000000000001,Central Midfield,Central Midfield,Attacking Midfield,0.0,31.5,31.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,2016,Bologna FC 1909,Italian Serie A,11,3,28.17,15.28,2.560909090909091,5.093333333333333,5.76,13.05,53.179999999999986,Central Midfield,Defensive Midfield,Centre-Back,1.17,0.18,3.69,0.0,2.34,5.76,2.0250000000000004,0.0,0.0,1.26
+14,2016,Borussia Dortmund,German Bundesliga,9,6,108.99999999999999,99.89999999999999,12.111111111111109,16.65,27.0,37.8,87.38000000000002,Central Midfield,Attacking Midfield,Centre-Back,7.74,7.2,7.09,0.0,18.9,11.14,0.0,0.0,0.0,19.8
+15,2016,Borussia Mönchengladbach,German Bundesliga,5,2,34.43,40.59,6.886,20.295,13.5,40.5,72.52999999999999,Centre-Back,Defensive Midfield,Attacking Midfield,1.13,9.0,1.8,0.0,0.0,0.0,13.5,0.0,0.0,0.0
+16,2016,Burnley FC,English Premier League,6,1,41.03999999999999,1.08,6.839999999999999,1.08,13.59,1.08,57.72000000000001,Central Midfield,Left Winger,Striker,0.0,0.0,9.18,1.17,13.59,2.7,5.22,0.0,0.0,0.0
+17,2016,CA Osasuna,Spanish La Liga,2,1,1.98,3.38,0.99,3.38,1.53,3.38,52.68,Central Midfield,Central Midfield,Central Midfield,1.53,0.0,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,2016,CD Leganés,Spanish La Liga,6,1,4.905,0.18,0.8175,0.18,2.25,0.18,66.33,Striker,Central Midfield,Goalkeeper,0.72,0.0,2.25,0.135,0.0,0.0,0.18,0.9,0.0,0.0
+19,2016,Cagliari Calcio,Italian Serie A,4,7,8.316,10.193,2.079,1.4561428571428572,4.05,4.5,53.71000000000001,Central Midfield,Central Midfield,Goalkeeper,0.0,0.0,4.05,0.135,0.531,0.0,0.0,0.0,3.6,0.0
+20,2016,Celta de Vigo,Spanish La Liga,4,2,7.5600000000000005,17.82,1.8900000000000001,8.91,5.4,16.2,72.27,Left Winger,Left Winger,Right-Back,0.0,0.0,0.0,0.0,3.1500000000000004,1.08,0.0,0.0,0.18,0.0
+21,2016,Chelsea FC,English Premier League,4,12,119.52,98.01,29.88,8.1675,35.1,54.0,84.54,Central Midfield,Attacking Midfield,Left-Back,35.1,31.5,32.22,0.0,0.0,0.0,0.0,20.7,0.0,0.0
+22,2016,Chievo Verona,Italian Serie A,5,5,11.320000000000002,5.652,2.2640000000000002,1.1304,5.54,3.6,55.83,Central Midfield,Centre-Back,Left Winger,0.54,5.54,1.17,0.0,3.6,0.0,0.0,0.0,0.47,0.0
+23,2016,Crystal Palace,English Premier League,9,4,91.16999999999999,45.18000000000001,10.129999999999999,11.295000000000002,28.08,26.01,58.51,Striker,Striker,Striker,9.69,6.3,0.0,0.0,12.42,14.04,13.59,9.45,0.0,0.0
+24,2016,Deportivo Alavés,Spanish La Liga,5,0,5.695000000000001,0.0,1.1390000000000002,0.0,2.86,0.0,66.59,Central Midfield,Defensive Midfield,Central Midfield,0.36,0.36,0.315,0.0,1.8,0.0,2.86,0.0,0.0,0.0
+25,2016,Deportivo de La Coruña,Spanish La Liga,3,1,6.3,18.0,2.1,18.0,5.13,18.0,67.63,Goalkeeper,Striker,Goalkeeper,5.13,0.72,0.0,0.45,0.0,0.0,0.0,0.0,0.0,0.0
+26,2016,Dijon FCO,French Ligue 1,4,1,2.835,1.13,0.70875,1.13,1.35,1.13,53.94,Central Midfield,Right Winger,Central Midfield,0.0,0.9,0.225,0.0,0.0,1.35,0.0,0.36,0.0,0.0
+27,2016,EA Guingamp,French Ligue 1,0,1,0.0,2.25,0.0,2.25,0.0,2.25,58.16,-1,Goalkeeper,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+28,2016,Eintracht Frankfurt,German Bundesliga,5,6,3.42,10.845,0.6839999999999999,1.8075,1.08,3.15,69.81999999999998,Central Midfield,Centre-Back,Central Midfield,0.0,0.9,0.09,0.0,0.0,0.45,0.9,1.08,0.0,0.0
+29,2016,Everton FC,English Premier League,7,4,77.39999999999999,54.72,11.057142857142855,13.68,26.01,50.04,70.05999999999999,Defensive Midfield,Centre-Back,Left Winger,1.62,12.6,0.0,0.9,16.965,0.0,14.175,0.0,0.0,0.0
+30,2016,FC Augsburg,German Bundesliga,6,6,21.330000000000002,13.545,3.555,2.2575,9.45,5.4,63.970000000000006,Centre-Back,Centre-Back,Striker,3.6,5.175,1.35,0.0,1.35,0.0,0.0,0.0,4.68,0.0
+31,2016,FC Barcelona,Spanish La Liga,6,5,112.28,30.419999999999998,18.713333333333335,6.084,33.3,16.2,96.04,Central Midfield,Central Midfield,Left Winger,27.0,22.5,33.3,11.7,0.0,0.0,0.0,14.85,0.0,2.93
+32,2016,FC Crotone,Italian Serie A,9,5,5.355,6.9750000000000005,0.5950000000000001,1.395,0.9,3.6,47.09000000000002,Striker,Centre-Back,Right Winger,0.8325,0.8325,0.45,0.225,0.0,0.36,0.63,0.0,0.0,0.0
+33,2016,FC Empoli,Italian Serie A,4,3,6.300000000000001,13.5,1.5750000000000002,4.5,2.07,9.0,45.32999999999999,Central Midfield,Centre-Back,Central Midfield,0.0,0.0,1.215,0.0,0.0,0.0,0.0,0.0,0.0,1.935
+34,2016,FC Girondins Bordeaux,French Ligue 1,5,3,10.670000000000002,2.34,2.1340000000000003,0.7799999999999999,2.7,1.35,61.53,Central Midfield,Central Midfield,Defensive Midfield,0.0,0.9,2.7,2.25,2.25,2.57,0.0,0.0,0.0,0.0
+35,2016,FC Ingolstadt 04,German Bundesliga,4,5,7.155000000000001,4.095,1.7887500000000003,0.819,3.15,2.25,57.95000000000001,Right-Back,Centre-Back,Striker,0.0,3.15,0.0,0.855,0.0,1.35,0.0,0.0,1.8,0.0
+36,2016,FC Lorient,French Ligue 1,6,3,7.740000000000001,28.935000000000002,1.2900000000000003,9.645000000000001,1.8,18.0,46.85,Centre-Back,Central Midfield,Left Winger,0.0,1.5750000000000002,1.8,0.0,0.81,0.0,0.9,0.0,1.08,0.0
+37,2016,FC Metz,French Ligue 1,1,1,0.36,0.698,0.36,0.698,0.36,0.698,49.72,Centre-Back,Central Midfield,Centre-Back,0.0,0.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+38,2016,FC Nantes,French Ligue 1,4,4,4.5,2.3810000000000002,1.125,0.5952500000000001,1.8,0.806,54.67,Striker,Striker,Left Winger,1.8,1.17,0.0,0.0,0.54,0.0,0.0,0.99,0.0,0.0
+39,2016,FC Schalke 04,German Bundesliga,7,7,38.970000000000006,55.17,5.567142857142858,7.881428571428572,23.85,46.8,72.64999999999999,Striker,Left Winger,Right Winger,12.600000000000001,7.2,0.0,0.0,0.0,1.26,0.0,0.45,3.6,0.0
+40,2016,FC Toulouse,French Ligue 1,5,2,11.7,9.0,2.34,4.5,5.4,8.55,58.52999999999999,Striker,Striker,Centre-Back,3.375,2.52,0.0,0.0,0.0,1.8,0.63,0.0,0.0,0.0
+41,2016,Genoa CFC,Italian Serie A,13,7,24.48,45.269999999999996,1.883076923076923,6.467142857142856,5.22,16.2,56.589999999999996,Left-Back,Striker,Central Midfield,4.59,0.945,0.18,0.0,0.63,0.0,0.0,3.375,0.0,2.25
+42,2016,Granada CF,Spanish La Liga,5,4,10.415000000000001,28.44,2.083,7.11,3.62,13.5,49.62,Right Winger,Left Winger,Goalkeeper,3.62,1.62,0.0,0.9,0.0,2.1375,0.0,0.0,0.0,0.0
+43,2016,Hamburger SV,German Bundesliga,10,7,39.555,7.335,3.9555,1.0478571428571428,12.6,4.23,60.52000000000001,Striker,Left Winger,Left Winger,2.385,1.0350000000000001,0.0,0.72,6.6825,0.0,8.28,5.85,0.0,4.5
+44,2016,Hertha BSC,German Bundesliga,2,4,6.029999999999999,4.5,3.0149999999999997,1.125,3.78,2.7,70.56,Right Winger,Attacking Midfield,Central Midfield,0.0,0.0,0.0,0.0,0.0,2.25,0.0,0.0,0.0,3.78
+45,2016,Hull City,English Premier League,9,3,36.0,26.009999999999998,4.0,8.67,13.86,10.8,47.6,Central Midfield,Central Midfield,Left Winger,1.08,1.17,9.315,3.69,4.14,0.0,0.0,0.0,0.9,2.25
+46,2016,Inter Milan,Italian Serie A,12,7,143.6,16.65,11.966666666666667,2.3785714285714286,36.0,5.22,74.3,Striker,Central Midfield,Striker,11.080000000000002,9.63,18.9,0.0,0.0,19.8,4.5,8.235,0.0,0.0
+47,2016,Juventus FC,Italian Serie A,9,17,176.22,159.237,19.58,9.366882352941175,81.0,94.5,84.71000000000001,Defensive Midfield,Central Midfield,Striker,81.0,9.9,0.0,0.0,20.7,5.4,14.940000000000003,0.0,4.5,0.0
+48,2016,LOSC Lille,French Ligue 1,6,7,18.63,42.300000000000004,3.105,6.042857142857144,6.3,16.83,60.0,Centre-Back,Left Winger,Central Midfield,4.05,2.475,0.18,0.0,0.0,6.3,0.0,0.0,0.0,3.15
+49,2016,Leicester City,English Premier League,6,6,82.44000000000001,59.449999999999996,13.740000000000002,9.908333333333333,27.45,32.22,62.820000000000014,Defensive Midfield,Central Midfield,Centre-Back,27.45,0.0,0.0,3.15,17.55,0.0,14.895,0.0,0.0,4.5
+50,2016,Liverpool FC,English Premier League,4,9,71.91,76.842,17.9775,8.538,37.08,28.08,81.13000000000001,Central Midfield,Left Winger,Goalkeeper,0.0,4.5,24.75,5.58,37.08,0.0,0.0,0.0,0.0,0.0
+51,2016,Manchester City,English Premier League,10,5,193.50000000000003,31.82,19.35,6.364,50.04,12.15,86.02,Left Winger,Centre-Back,Centre-Back,28.8,25.11,24.3,10.215,22.650000000000002,0.0,0.0,1.8,0.0,0.0
+52,2016,Manchester United,English Premier League,3,5,166.5,42.53,55.5,8.506,94.5,20.7,81.02,Centre-Back,Central Midfield,Striker,0.0,34.2,94.5,0.0,0.0,0.0,0.0,0.0,0.0,37.8
+53,2016,Middlesbrough FC,English Premier League,8,4,43.16,12.149999999999999,5.395,3.0374999999999996,9.45,5.31,53.01,Right-Back,Defensive Midfield,Right-Back,6.3,0.0,4.68,0.0,4.5,7.43,9.45,0.0,2.25,0.0
+54,2016,Montpellier HSC,French Ligue 1,4,4,5.76,14.759999999999998,1.44,3.6899999999999995,1.53,8.1,58.65,Left Winger,Central Midfield,Defensive Midfield,0.0,1.35,0.0,0.0,1.53,0.0,0.0,0.0,1.35,0.0
+55,2016,Málaga CF,Spanish La Liga,6,0,11.282,0.0,1.8803333333333334,0.0,4.5,0.0,70.83,Centre-Back,Right Winger,Centre-Back,3.6,0.93,0.0,0.392,0.0,4.5,0.0,0.0,0.0,0.0
+56,2016,OGC Nice,French Ligue 1,7,2,13.729999999999999,14.219999999999999,1.9614285714285713,7.109999999999999,4.5,13.95,63.02000000000001,Central Midfield,Defensive Midfield,Left-Back,0.0,1.35,3.375,0.0,0.0,1.35,0.0,1.8,1.13,0.0
+57,2016,Olympique Lyon,French Ligue 1,3,3,25.740000000000002,24.57,8.58,8.19,14.4,22.5,73.17,Left Winger,Centre-Back,Centre-Back,3.69,7.65,0.0,0.0,14.4,0.0,0.0,0.0,0.0,0.0
+58,2016,Olympique Marseille,French Ligue 1,6,9,45.00000000000001,74.61,7.500000000000001,8.29,26.37,35.1,62.549999999999976,Attacking Midfield,Striker,Right Winger,0.0,0.0,8.1,0.0,26.37,0.0,1.35,0.0,1.08,4.05
+59,2016,Paris Saint-Germain,French Ligue 1,6,4,121.05,53.82000000000001,20.175,13.455000000000002,32.4,31.5,86.22,Left Winger,Attacking Midfield,Left Winger,0.0,0.0,9.0,0.0,24.75,0.0,24.75,0.0,5.4,32.4
+60,2016,RB Leipzig,German Bundesliga,8,1,70.61,0.09,8.82625,0.09,26.78,0.09,75.15,Centre-Back,Central Midfield,Centre-Back,12.6,4.95,26.78,1.53,0.0,13.68,0.0,5.4,0.72,0.0
+61,2016,RCD Espanyol Barcelona,Spanish La Liga,7,4,16.560000000000002,5.3999999999999995,2.365714285714286,1.3499999999999999,6.3,3.6,70.19000000000001,Defensive Midfield,Right Winger,Left Winger,1.8,0.0,0.0,2.7,0.18,6.3,2.25,0.0,0.0,1.08
+62,2016,Real Betis Balompié,Spanish La Liga,7,1,18.81,7.2,2.687142857142857,7.2,6.75,7.2,68.21,Central Midfield,Defensive Midfield,Centre-Back,6.75,1.71,2.28,0.0,0.0,0.0,0.0,1.8,0.0,0.0
+63,2016,Real Madrid,Spanish La Liga,1,5,27.0,33.75,27.0,6.75,27.0,22.5,92.49,Striker,Striker,Defensive Midfield,27.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+64,2016,Real Sociedad,Spanish La Liga,3,2,16.2,9.9,5.3999999999999995,4.95,6.3,6.3,76.15,Right Winger,Striker,Striker,5.4,0.0,0.0,6.3,0.0,4.5,0.0,0.0,0.0,0.0
+65,2016,SC Bastia,French Ligue 1,1,4,0.225,6.3,0.225,1.575,0.225,2.25,49.42,Right Winger,Left Winger,Right Winger,0.0,0.0,0.0,0.0,0.0,0.225,0.0,0.0,0.0,0.0
+66,2016,SC Freiburg,German Bundesliga,8,4,15.095,4.635,1.886875,1.15875,7.13,2.52,66.41999999999999,Central Midfield,Centre-Back,Striker,0.0,4.105,1.5750000000000002,0.9,0.0,1.08,0.8775000000000001,0.0,0.0,0.0
+67,2016,SCO Angers,French Ligue 1,6,2,4.68,3.96,0.7799999999999999,1.98,1.44,3.6,55.52,Striker,Centre-Back,Left Winger,1.17,0.0,0.0,0.9,0.27,0.0,0.585,0.0,0.0,0.0
+68,2016,SD Eibar,Spanish La Liga,6,1,7.739999999999999,4.5,1.2899999999999998,4.5,2.88,4.5,70.05,Centre-Back,Right Winger,Right-Back,2.88,1.11,0.0,0.0,1.35,0.0,0.0,0.0,0.18,0.0
+69,2016,SM Caen,French Ligue 1,3,2,3.825,9.9,1.2750000000000001,4.95,2.25,7.2,53.17,Right Winger,Striker,Defensive Midfield,2.25,0.0,0.0,0.0,0.0,0.9,0.675,0.0,0.0,0.0
+70,2016,SS Lazio,Italian Serie A,7,6,29.435000000000006,25.83,4.205000000000001,4.305,8.51,19.8,71.09000000000002,Centre-Back,Right Winger,Centre-Back,8.51,4.125,1.35,0.0,0.0,0.0,0.0,3.6,0.0,3.6
+71,2016,SSC Napoli,Italian Serie A,9,9,89.18100000000001,105.12499999999999,9.909,11.680555555555554,28.8,81.0,79.11999999999999,Central Midfield,Striker,Striker,22.5,6.75,7.875,0.0,0.9405000000000001,0.0,13.05,0.0,0.0,0.0
+72,2016,SV Darmstadt 98,German Bundesliga,7,4,3.6900000000000004,4.68,0.5271428571428572,1.17,1.8,2.52,48.95,Centre-Back,Striker,Left-Back,0.9675,0.465,0.0,0.315,0.0,0.0,0.0,0.045,0.0,0.0
+73,2016,SV Werder Bremen,German Bundesliga,7,11,21.330000000000002,24.48,3.0471428571428576,2.2254545454545456,6.75,11.25,64.19,Centre-Back,Centre-Back,Right-Back,6.75,1.44,1.8,0.0,3.15,4.5,0.0,0.0,2.25,0.0
+74,2016,Sevilla FC,Spanish La Liga,12,9,73.53,82.31,6.1275,9.145555555555555,16.38,27.0,81.34999999999998,Striker,Striker,Central Midfield,9.209999999999999,3.555,1.62,0.0,0.0,2.9250000000000003,1.8,0.0,0.0,9.840000000000002
+75,2016,Southampton FC,English Premier League,5,5,62.00999999999999,76.55000000000001,12.401999999999997,15.310000000000002,16.83,37.08,68.05999999999999,Left Winger,Left Winger,Goalkeeper,15.3,0.0,13.5,4.23,14.489999999999998,0.0,0.0,0.0,0.0,0.0
+76,2016,Sporting Gijón,Spanish La Liga,3,0,0.8999999999999999,0.0,0.3,0.0,0.45,0.0,57.60999999999999,Goalkeeper,Striker,Goalkeeper,0.45,0.27,0.0,0.18,0.0,0.0,0.0,0.0,0.0,0.0
+77,2016,Stade Rennais FC,French Ligue 1,2,8,2.043,31.77,1.0215,3.97125,1.8,13.5,55.09000000000001,Left-Back,Right Winger,Left-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0215,0.0,0.0
+78,2016,Stoke City,English Premier League,7,2,34.903,3.42,4.986142857142857,1.71,13.95,2.07,61.39,Striker,Central Midfield,Centre-Back,7.3149999999999995,0.2365,13.95,1.35,4.5,0.0,0.0,0.0,0.0,0.0
+79,2016,Sunderland AFC,English Premier League,7,7,37.72,21.4,5.388571428571429,3.057142857142857,18.0,9.45,49.40999999999998,Central Midfield,Central Midfield,Centre-Back,0.0,8.55,10.125,1.35,0.0,0.0,4.73,1.8,1.04,0.0
+80,2016,Swansea City,English Premier League,9,4,52.29,44.37,5.81,11.0925,16.2,21.69,57.22000000000001,Striker,Left Winger,Centre-Back,8.909999999999998,3.78,4.859999999999999,0.0,0.0,4.14,0.0,4.14,0.0,0.0
+81,2016,TSG 1899 Hoffenheim,German Bundesliga,7,10,24.694,33.3,3.5277142857142856,3.3299999999999996,9.9,18.0,72.73,Central Midfield,Striker,Goalkeeper,6.21,1.71,4.365,0.124,0.0,0.0,0.0,0.0,0.0,0.0
+82,2016,Torino FC,Italian Serie A,10,9,25.63,23.790000000000003,2.5629999999999997,2.6433333333333335,8.1,9.9,64.09999999999998,Centre-Back,Centre-Back,Centre-Back,0.0,0.8933333333333334,1.0350000000000001,0.0,0.0,5.4,2.115,0.0,3.15,8.1
+83,2016,Tottenham Hotspur,English Premier League,5,6,75.14999999999999,47.07,15.029999999999998,7.845,31.5,13.86,79.20000000000002,Central Midfield,Central Midfield,Goalkeeper,19.8,0.0,31.5,0.99,9.9,0.0,12.96,0.0,0.0,0.0
+84,2016,UC Sampdoria,Italian Serie A,16,16,35.69,72.638,2.230625,4.539875,7.2,16.38,58.12,Striker,Striker,Central Midfield,2.15,0.9,3.5400000000000005,2.07,0.0,0.0,2.025,0.0,1.98,2.295
+85,2016,UD Las Palmas,Spanish La Liga,3,1,2.6100000000000003,0.18,0.8700000000000001,0.18,1.8,0.18,67.36,Right Winger,Centre-Back,Striker,0.0,1.8,0.0,0.0,0.0,0.36,0.0,0.0,0.0,0.45
+86,2016,US Palermo,Italian Serie A,7,7,7.63,26.33,1.09,3.761428571428571,2.97,15.12,43.42,Striker,Attacking Midfield,Right Winger,0.585,1.35,2.97,0.0,0.0,0.27,0.63,1.24,0.0,0.0
+87,2016,US Sassuolo,Italian Serie A,8,4,24.758000000000003,26.82,3.0947500000000003,6.705,7.29,14.4,58.12,Striker,Right-Back,Striker,1.236,3.375,5.4,0.0,1.61,7.29,0.0,0.0,0.0,0.0
+88,2016,Udinese Calcio,Italian Serie A,6,8,17.099999999999998,29.00745,2.8499999999999996,3.62593125,4.05,14.4,56.519999999999996,Striker,Central Midfield,Goalkeeper,4.05,0.0,3.15,0.0,0.0,2.7,0.0,0.45,0.0,2.7
+89,2016,Valencia CF,Spanish La Liga,4,7,32.4,103.41000000000001,8.1,14.772857142857145,21.6,36.9,73.20000000000002,Central Midfield,Centre-Back,Left Winger,1.8,21.6,1.35,0.0,7.65,0.0,0.0,0.0,0.0,0.0
+90,2016,VfL Wolfsburg,German Bundesliga,12,9,72.94500000000001,85.01,6.07875,9.445555555555556,11.7,32.4,71.13000000000002,Striker,Attacking Midfield,Centre-Back,2.265,5.85,11.25,0.0,6.75,4.5,2.7,0.0,0.0,11.25
+91,2016,Villarreal CF,Spanish La Liga,7,5,50.36,60.53,7.194285714285714,12.106,12.38,34.2,79.47000000000001,Left Winger,Centre-Back,Striker,2.7,3.6,12.38,0.0,9.0,6.48,7.2,0.0,0.0,0.0
+92,2016,Watford FC,English Premier League,10,8,63.41499999999999,52.29,6.341499999999999,6.53625,13.5,20.97,58.97,Striker,Striker,Striker,2.851666666666667,4.93,0.0,0.0,13.5,0.0,5.67,0.0,8.01,12.15
+93,2016,West Bromwich Albion,English Premier League,4,5,34.11,24.278,8.5275,4.8556,13.68,12.51,59.95000000000001,Right-Back,Left Winger,Central Midfield,0.0,0.0,0.0,0.0,13.68,5.85,10.35,0.0,4.23,0.0
+94,2016,West Ham United,English Premier League,9,2,75.15,36.9,8.350000000000001,18.45,21.69,26.37,61.53999999999999,Striker,Left Winger,Right Winger,4.365,8.28,5.76,0.0,21.69,6.75,0.0,6.39,0.0,10.8
+95,2017,1.FSV Mainz 05,German Bundesliga,5,6,14.9,22.365000000000002,2.98,3.7275000000000005,4.5,15.3,63.77,Striker,Striker,Left Winger,2.5,4.5,0.0,0.0,2.7,0.0,0.0,0.0,0.0,2.7
+96,2017,AC Milan,Italian Serie A,11,12,175.03199999999998,30.884999999999998,15.911999999999999,2.57375,37.8,10.8,70.79999999999998,Striker,Centre-Back,Striker,19.35,27.0,7.2,0.882,0.45,0.0,17.73,13.5,21.6,20.97
+97,2017,ACF Fiorentina,Italian Serie A,20,14,71.19,83.64200000000001,3.5595,5.9744285714285725,15.3,36.0,68.31,Central Midfield,Right Winger,Right-Back,4.95,3.4424999999999994,4.752000000000001,0.0,0.9,0.0,2.7,2.25,1.98,3.15
+98,2017,ADO Den Haag,Dutch Eredivisie,0,1,0.0,0.038,0.0,0.038,0.0,0.038,33.37,-1,Left Winger,Left Winger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+99,2017,AFC Bournemouth,English Premier League,2,0,30.869999999999997,0.0,15.434999999999999,0.0,20.52,0.0,56.14,Goalkeeper,Centre-Back,Goalkeeper,0.0,20.52,0.0,10.35,0.0,0.0,0.0,0.0,0.0,0.0
+100,2017,AS Monaco,French Ligue 1,8,9,110.16,179.55,13.77,19.950000000000003,27.0,51.75,76.28,Central Midfield,Left-Back,Right Winger,14.129999999999999,13.5,14.85,0.0,18.0,2.7,0.0,0.0,0.0,0.0
+101,2017,AS Roma,Italian Serie A,12,14,82.04,139.51,6.836666666666667,9.965,14.4,37.8,79.69,Centre-Back,Right Winger,Defensive Midfield,4.5,5.07,9.0,0.0,0.0,12.83,4.5,3.4499999999999997,12.825,0.0
+102,2017,AS Saint-Étienne,French Ligue 1,5,5,17.369999999999997,13.95,3.4739999999999993,2.79,9.0,8.1,55.61999999999999,Left-Back,Striker,Striker,9.0,0.0,0.0,0.0,0.9,0.0,4.5,1.4849999999999999,0.0,0.0
+103,2017,AZ Alkmaar,Dutch Eredivisie,3,3,5.130000000000001,10.8,1.7100000000000002,3.6,1.98,5.4,52.49,Central Midfield,Left-Back,Central Midfield,1.35,0.0,1.98,0.0,1.8,0.0,0.0,0.0,0.0,0.0
+104,2017,Ajax Amsterdam,Dutch Eredivisie,7,5,23.630000000000003,73.07999999999998,3.375714285714286,14.615999999999996,7.29,36.0,69.99,Right-Back,Centre-Back,Goalkeeper,0.0,4.545,0.0,0.63,0.0,0.0,0.0,3.6,4.12,2.07
+105,2017,Amiens SC,French Ligue 1,4,2,5.9670000000000005,7.2,1.4917500000000001,3.6,3.15,5.4,44.300000000000004,Central Midfield,Right Winger,Centre-Back,3.15,0.117,1.8,0.0,0.9,0.0,0.0,0.0,0.0,0.0
+106,2017,Amkar Perm,Russian Premier Liga,0,1,0.0,0.45,0.0,0.45,0.0,0.45,48.23,-1,Defensive Midfield,Defensive Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+107,2017,Anzhi Makhachkala,Russian Premier Liga,2,1,0.635,0.9,0.3175,0.9,0.36,0.9,43.68,Right Winger,Left-Back,Right Winger,0.0,0.0,0.36,0.0,0.0,0.275,0.0,0.0,0.0,0.0
+108,2017,Arsenal FC,English Premier League,4,8,137.57,142.2,34.3925,17.775,57.38,34.2,80.49,Striker,Striker,Centre-Back,52.540000000000006,1.89,0.0,0.0,0.0,0.0,0.0,0.0,0.0,30.6
+109,2017,Arsenal Tula,Russian Premier Liga,1,1,0.108,0.18,0.108,0.18,0.108,0.18,48.14,Striker,Goalkeeper,Striker,0.108,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+110,2017,Aston Villa,English League Championship,2,5,2.52,16.05,1.26,3.21,1.53,6.3,45.959999999999994,Right-Back,Central Midfield,Right-Back,0.0,0.0,0.0,0.0,0.0,0.0,1.53,0.0,0.99,0.0
+111,2017,Atalanta BC,Italian Serie A,11,9,49.61,77.43400000000001,4.51,8.603777777777779,12.15,27.99,73.66000000000001,Striker,Centre-Back,Central Midfield,3.6200000000000006,4.05,1.49,4.5,0.0,0.0,12.15,3.1050000000000004,5.175,0.0
+112,2017,Athletic Bilbao,Spanish La Liga,1,1,28.8,58.5,28.8,58.5,28.8,58.5,72.79,Centre-Back,Centre-Back,Centre-Back,0.0,28.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+113,2017,Atlético Madrid,Spanish La Liga,2,9,91.8,75.14999999999999,45.9,8.35,59.4,21.6,83.89,Left Winger,Striker,Striker,59.4,0.0,0.0,0.0,32.4,0.0,0.0,0.0,0.0,0.0
+114,2017,Barnsley FC,English League Championship,10,2,5.747,4.316,0.5747,2.158,0.99,3.6,29.959999999999994,Central Midfield,Centre-Back,Right-Back,0.8325,0.4576666666666666,0.684,0.0,0.0,0.0,0.0,0.0,0.207,0.45
+115,2017,Bayer 04 Leverkusen,German Bundesliga,4,9,50.4,82.71,12.6,9.19,21.6,20.97,76.55999999999997,Centre-Back,Striker,Centre-Back,21.6,13.5,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+116,2017,Bayern Munich,German Bundesliga,6,5,104.85000000000001,29.025,17.475,5.805,37.35,15.03,92.64,Central Midfield,Central Midfield,Central Midfield,11.7,18.0,37.35,0.0,18.9,7.2,0.0,0.0,0.0,11.7
+117,2017,Belenenses SAD,Portuguese Liga,0,2,0.0,3.42,0.0,1.71,0.0,3.15,39.54,-1,Centre-Back,Defensive Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+118,2017,Benevento Calcio,Italian Serie A,17,3,20.782,3.582,1.2224705882352942,1.194,3.6,3.15,42.269999999999996,Striker,Centre-Back,Centre-Back,1.1025,1.7325,0.9600000000000001,0.88,0.0,0.45,0.0,2.52,0.916,0.0
+119,2017,Birmingham City,English League Championship,5,2,15.899999999999999,4.23,3.1799999999999997,2.115,5.85,2.88,30.150000000000002,Centre-Back,Right Winger,Left Winger,0.0,2.77,1.58,0.0,0.0,5.85,0.0,0.0,2.93,0.0
+120,2017,Boavista FC,Portuguese Liga,0,1,0.0,0.45,0.0,0.45,0.0,0.45,40.28,-1,Centre-Back,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+121,2017,Bologna FC 1909,Italian Serie A,6,0,11.7,0.0,1.95,0.0,3.6,0.0,55.88999999999999,Centre-Back,Central Midfield,Centre-Back,0.0,1.4625000000000001,3.6,0.0,0.0,0.0,0.0,0.0,0.0,2.25
+122,2017,Bolton Wanderers,English League Championship,0,2,0.0,6.197,0.0,3.0985,0.0,6.12,28.56,-1,Striker,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+123,2017,Borussia Dortmund,German Bundesliga,9,10,98.85,246.56,10.983333333333333,24.656,22.5,124.2,82.81999999999998,Striker,Right Winger,Left Winger,9.675,15.075000000000001,10.8,0.0,0.0,14.775,0.0,0.0,6.3,2.7
+124,2017,Borussia Mönchengladbach,German Bundesliga,5,7,33.525,27.972,6.705,3.996,15.3,10.8,70.03999999999999,Central Midfield,Centre-Back,Central Midfield,1.8,15.3,0.225,0.0,5.4,0.0,10.8,0.0,0.0,0.0
+125,2017,Brentford FC,English League Championship,4,6,5.49,13.66,1.3725,2.276666666666667,1.8,5.85,42.45,Striker,Right Winger,Striker,1.8,0.0,0.0,0.0,0.0,0.0,0.9,0.0,0.99,0.0
+126,2017,Brighton & Hove Albion,English Premier League,11,1,60.300000000000004,0.36,5.481818181818182,0.36,15.3,0.36,51.12,Central Midfield,Striker,Right-Back,8.1,0.0,6.4799999999999995,5.4,13.5,0.0,0.0,4.05,2.475,1.62
+127,2017,Bristol City,English League Championship,4,1,12.090000000000002,2.97,3.0225000000000004,2.97,5.4,2.97,39.41,Central Midfield,Striker,Central Midfield,5.4,3.9,0.99,0.0,1.8,0.0,0.0,0.0,0.0,0.0
+128,2017,Burnley FC,English Premier League,6,3,32.166,45.0,5.361,15.0,14.76,25.65,60.45000000000001,Striker,Centre-Back,Right-Back,9.81,0.0,0.0,0.0,0.0,1.7999999999999998,8.19,0.0,0.756,0.0
+129,2017,Burton Albion,English League Championship,2,1,0.918,1.94,0.459,1.94,0.513,1.94,25.790000000000003,Central Midfield,Central Midfield,Central Midfield,0.513,0.0,0.405,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+130,2017,CD Feirense,Portuguese Liga,0,1,0.0,0.9,0.0,0.9,0.0,0.9,37.15,-1,Goalkeeper,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+131,2017,CD Leganés,Spanish La Liga,3,1,5.49,0.117,1.83,0.117,2.7,0.117,68.55,Centre-Back,Centre-Back,Defensive Midfield,0.0,2.475,0.0,0.0,0.0,0.0,0.0,0.0,0.54,0.0
+132,2017,CD Tondela,Portuguese Liga,1,0,0.09,0.0,0.09,0.0,0.09,0.0,38.95,Striker,Striker,Striker,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+133,2017,CS Marítimo,Portuguese Liga,1,3,0.045,3.1959999999999997,0.045,1.0653333333333332,0.045,1.8,41.61,Striker,Centre-Back,Striker,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+134,2017,CSKA Moscow,Russian Premier Liga,1,1,0.45,1.62,0.45,1.62,0.45,1.62,71.0,Defensive Midfield,Striker,Defensive Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0
+135,2017,Cagliari Calcio,Italian Serie A,10,9,27.976999999999997,17.887999999999998,2.7977,1.9875555555555553,8.82,8.1,53.87,Striker,Striker,Striker,3.639,6.66,1.8,0.0,0.0,2.07,2.03,1.7999999999999998,0.9,0.0
+136,2017,Cardiff City,English League Championship,4,2,11.402999999999999,2.39,2.8507499999999997,1.195,6.12,1.35,46.71,Striker,Striker,Striker,2.8507499999999997,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+137,2017,Celta de Vigo,Spanish La Liga,5,3,23.849999999999998,11.879999999999999,4.77,3.9599999999999995,11.7,9.0,70.03,Central Midfield,Right Winger,Left Winger,3.6,0.0,3.15,0.0,0.0,11.7,4.5,0.9,0.0,0.0
+138,2017,Chelsea FC,English Premier League,9,11,234.45,180.54,26.049999999999997,16.41272727272727,59.4,59.4,82.51,Central Midfield,Striker,Striker,37.35,17.01,24.615,0.0,0.0,0.0,36.0,18.0,22.5,0.0
+139,2017,Chievo Verona,Italian Serie A,7,10,2.6550000000000002,15.903900000000002,0.37928571428571434,1.5903900000000002,0.9,10.8,47.62,Centre-Back,Striker,Centre-Back,0.45,0.3,0.045,0.0,0.0,0.0,0.0,0.36,0.0,0.9
+140,2017,Crystal Palace,English Premier League,4,1,44.059999999999995,2.7,11.014999999999999,2.7,25.38,2.7,59.95,Centre-Back,Centre-Back,Centre-Back,8.1,11.986666666666665,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+141,2017,Deportivo Alavés,Spanish La Liga,6,2,11.100000000000001,6.75,1.8500000000000003,3.375,2.7,4.5,65.69,Centre-Back,Right Winger,Left-Back,1.8,2.2199999999999998,0.0,1.8,2.7,0.0,0.0,0.36,0.0,0.0
+142,2017,Deportivo de La Coruña,Spanish La Liga,4,2,8.55,4.95,2.1375,2.475,4.05,3.15,62.13999999999999,Right-Back,Defensive Midfield,Right-Back,0.0,2.7,0.0,0.0,0.0,0.0,4.05,0.0,0.9,0.0
+143,2017,Derby County,English League Championship,5,4,11.043,19.151999999999997,2.2085999999999997,4.787999999999999,4.95,8.19,43.11,Right-Back,Central Midfield,Right Winger,1.53,0.513,0.0,0.0,4.95,0.0,1.98,0.0,2.07,0.0
+144,2017,Dijon FCO,French Ligue 1,4,3,4.95,13.5,1.2375,4.5,1.8,9.0,54.480000000000004,Centre-Back,Striker,Centre-Back,1.8,0.9,0.0,0.0,0.0,1.35,0.0,0.0,0.0,0.0
+145,2017,Dynamo Moscow,Russian Premier Liga,6,0,4.8020000000000005,0.0,0.8003333333333335,0.0,1.62,0.0,51.550000000000004,Striker,Striker,Striker,0.871,0.63,0.0,0.0,0.0,0.36,0.72,1.35,0.0,0.0
+146,2017,EA Guingamp,French Ligue 1,3,3,1.2380000000000002,1.305,0.41266666666666674,0.435,0.54,0.54,55.199999999999996,Left-Back,Left Winger,Defensive Midfield,0.0,0.0,0.0,0.0,0.54,0.0,0.203,0.495,0.0,0.0
+147,2017,Eintracht Frankfurt,German Bundesliga,10,2,17.279999999999998,4.4239999999999995,1.7279999999999998,2.2119999999999997,6.3,4.05,69.60000000000001,Striker,Striker,Striker,3.2399999999999998,1.4175,0.63,0.0,0.0,0.0,0.315,4.05,0.9,1.44
+148,2017,Estoril Praia,Portuguese Liga,6,4,0.8800000000000001,6.795,0.1466666666666667,1.69875,0.279,2.25,40.74,Right Winger,Left-Back,Attacking Midfield,0.068,0.0,0.113,0.0,0.0,0.1985,0.0,0.279,0.0,0.023
+149,2017,Everton FC,English Premier League,9,8,182.88,113.742,20.32,14.21775,44.46,76.23,60.22,Striker,Striker,Left Winger,12.825,25.65,24.3,25.65,7.2,20.25,0.0,0.0,0.0,27.09
+150,2017,FC Augsburg,German Bundesliga,4,7,6.795,7.110000000000001,1.69875,1.0157142857142858,4.95,1.8,67.38,Striker,Striker,Left-Back,2.9250000000000003,0.0,0.0,0.675,0.0,0.0,0.0,0.27,0.0,0.0
+151,2017,FC Barcelona,Spanish La Liga,7,4,348.75,209.25,49.82142857142857,52.3125,130.5,199.8,93.52,Centre-Back,Left Winger,Left Winger,0.0,7.56,36.0,0.0,10.8,124.2,0.0,0.0,32.13,130.5
+152,2017,FC Crotone,Italian Serie A,6,0,2.7,0.0,0.45,0.0,1.35,0.0,48.61000000000001,Central Midfield,Defensive Midfield,Left-Back,0.27,0.0,0.27,0.0,0.36,0.0,1.35,0.18,0.0,0.0
+153,2017,FC Girondins Bordeaux,French Ligue 1,8,9,29.339999999999996,25.429999999999996,3.6674999999999995,2.825555555555555,7.2,10.8,62.67000000000001,Striker,Right Winger,Centre-Back,3.87,1.8,3.15,0.0,0.0,6.75,4.5,0.0,3.6,0.0
+154,2017,FC Groningen,Dutch Eredivisie,1,5,0.338,3.825,0.338,0.765,0.338,1.8,37.25,Striker,Left Winger,Striker,0.338,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+155,2017,FC Metz,French Ligue 1,2,5,3.24,20.565000000000005,1.62,4.113000000000001,2.25,15.3,47.63,Striker,Right Winger,Defensive Midfield,0.99,2.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,2017,FC Nantes,French Ligue 1,4,3,10.17,9.0,2.5425,3.0,4.05,7.2,58.97000000000001,Centre-Back,Attacking Midfield,Goalkeeper,4.05,1.935,0.0,2.25,0.0,0.0,0.0,0.0,0.0,0.0
+157,2017,FC Paços de Ferreira,Portuguese Liga,1,1,0.086,0.45,0.086,0.45,0.086,0.45,39.16,Defensive Midfield,Centre-Back,Defensive Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.086,0.0,0.0,0.0
+158,2017,FC Porto,Portuguese Liga,3,7,19.125,63.18000000000001,6.375,9.025714285714287,18.0,34.2,77.5,Central Midfield,Striker,Striker,0.225,0.0,18.0,0.9,0.0,0.0,0.0,0.0,0.0,0.0
+159,2017,FC Schalke 04,German Bundesliga,7,5,44.37,6.39,6.338571428571428,1.278,17.1,3.15,73.56999999999998,Left Winger,Central Midfield,Striker,0.9,3.15,17.1,0.0,5.985,0.0,0.0,4.05,0.0,7.2
+160,2017,FC Toulouse,French Ligue 1,1,4,3.15,11.700000000000001,3.15,2.9250000000000003,3.15,10.17,56.89,Right Winger,Striker,Central Midfield,0.0,0.0,0.0,0.0,0.0,3.15,0.0,0.0,0.0,0.0
+161,2017,FC Utrecht,Dutch Eredivisie,3,2,0.99,9.9,0.33,4.95,0.54,6.3,44.28,Defensive Midfield,Striker,Defensive Midfield,0.315,0.0,0.0,0.0,0.0,0.0,0.135,0.0,0.0,0.54
+162,2017,FK Krasnodar,Russian Premier Liga,4,1,13.500000000000002,2.25,3.3750000000000004,2.25,7.2,2.25,64.16,Left Winger,Right Winger,Left Winger,0.0,0.0,0.0,0.0,2.25,7.2,0.0,0.0,0.0,1.8
+163,2017,FK Rostov,Russian Premier Liga,5,3,4.365,10.8,0.873,3.6,1.8,7.2,56.56,Striker,Centre-Back,Central Midfield,1.0350000000000001,1.0350000000000001,0.225,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+164,2017,FK Tosno,Russian Premier Liga,0,2,0.0,1.472,0.0,0.736,0.0,1.35,39.5,-1,Striker,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+165,2017,FK Ufa,Russian Premier Liga,1,0,0.54,0.0,0.54,0.0,0.54,0.0,53.27,Centre-Back,Centre-Back,Centre-Back,0.0,0.54,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+166,2017,Feyenoord Rotterdam,Dutch Eredivisie,6,5,24.120000000000005,29.969999999999995,4.0200000000000005,5.993999999999999,5.85,14.4,58.5,Central Midfield,Right-Back,Goalkeeper,0.0,4.32,3.6,0.0,3.6,5.85,0.0,5.4,0.0,1.35
+167,2017,Fulham FC,English League Championship,6,7,18.15,16.38,3.025,2.34,6.18,6.75,45.67,Striker,Striker,Centre-Back,3.36,0.72,0.0,0.0,0.0,5.4,2.25,0.0,3.06,0.0
+168,2017,GD Chaves,Portuguese Liga,3,0,1.125,0.0,0.375,0.0,0.45,0.0,42.06,Defensive Midfield,Defensive Midfield,Defensive Midfield,0.0,0.36,0.0,0.0,0.0,0.0,0.3825,0.0,0.0,0.0
+169,2017,Genoa CFC,Italian Serie A,10,7,12.753,42.044,1.2753,6.006285714285714,3.42,18.81,58.28,Central Midfield,Striker,Left-Back,0.225,1.1925,1.395,0.0,3.42,0.5715,0.0,0.0,0.0,0.0
+170,2017,Getafe CF,Spanish La Liga,10,1,11.614999999999998,1.44,1.1614999999999998,1.44,2.7,1.44,68.74,Centre-Back,Left Winger,Left-Back,0.63,1.395,0.0,1.13,1.8,1.125,0.0,0.6075,0.0,0.0
+171,2017,Girona FC,Spanish La Liga,3,0,7.88,0.0,2.6266666666666665,0.0,4.05,0.0,65.71,Striker,Centre-Back,Striker,1.915,4.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+172,2017,Hamburger SV,German Bundesliga,4,2,17.1,4.995,4.275,2.4975,5.85,4.95,60.36000000000001,Centre-Back,Centre-Back,Left Winger,0.0,4.275,0.0,3.15,0.0,5.4,0.0,0.0,0.0,0.0
+173,2017,Hannover 96,German Bundesliga,5,1,17.099999999999998,0.225,3.4199999999999995,0.225,8.1,0.225,60.800000000000004,Right-Back,Striker,Centre-Back,8.1,0.45,0.0,1.8,0.0,4.05,0.0,0.0,2.7,0.0
+174,2017,Heracles Almelo,Dutch Eredivisie,2,4,0.63,5.490000000000001,0.315,1.3725000000000003,0.405,2.43,33.800000000000004,Central Midfield,Centre-Back,Centre-Back,0.0,0.225,0.405,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+175,2017,Hertha BSC,German Bundesliga,4,2,12.6,16.2,3.15,8.1,7.2,15.3,65.22000000000001,Right Winger,Centre-Back,Right Winger,7.2,2.25,0.0,0.0,0.0,1.5750000000000002,0.0,0.0,0.0,0.0
+176,2017,Huddersfield Town,English Premier League,9,3,51.08,5.8100000000000005,5.6755555555555555,1.9366666666666668,11.7,4.86,47.330000000000005,Striker,Striker,Central Midfield,5.43,2.43,8.19,0.0,0.0,8.19,0.0,3.51,0.0,6.234999999999999
+177,2017,Hull City,English League Championship,7,7,17.866,40.653,2.552285714285714,5.807571428571428,4.05,14.67,40.92,Centre-Back,Central Midfield,Centre-Back,3.42,1.258,1.94,0.0,0.0,0.0,4.05,2.97,0.0,2.97
+178,2017,Inter Milan,Italian Serie A,7,19,123.795,71.31700000000001,17.685,3.753526315789474,30.6,13.5,77.20000000000002,Central Midfield,Centre-Back,Right-Back,0.0,19.665000000000003,15.299999999999999,0.0,0.0,0.0,0.0,18.9,0.0,0.0
+179,2017,Ipswich Town,English League Championship,5,1,3.1820000000000004,0.765,0.6364000000000001,0.765,1.04,0.765,33.34,Striker,Defensive Midfield,Right-Back,0.69,0.0,0.0,0.0,0.0,0.0,1.04,0.0,0.072,0.0
+180,2017,Juventus FC,Italian Serie A,13,23,147.96000000000006,131.14000000000001,11.381538461538467,5.701739130434783,36.0,37.8,86.88000000000001,Centre-Back,Centre-Back,Attacking Midfield,4.05,7.409999999999999,16.875,12.6,0.0,20.7,0.0,0.0,14.4,2.565
+181,2017,LOSC Lille,French Ligue 1,10,5,61.64999999999999,27.990000000000002,6.164999999999999,5.598000000000001,12.6,9.9,53.05999999999999,Defensive Midfield,Defensive Midfield,Goalkeeper,4.05,3.15,4.5,0.9,1.8,9.225,10.35,0.0,8.1,0.0
+182,2017,Leeds United,English League Championship,14,2,25.592000000000006,15.75,1.8280000000000005,7.875,4.59,14.76,36.73,Central Midfield,Striker,Goalkeeper,1.5046666666666664,2.052,2.208,0.45,1.44,1.53,0.0,1.8900000000000001,0.0,3.15
+183,2017,Leicester City,English Premier League,7,5,79.38,45.09,11.34,9.018,24.93,34.11,63.34000000000001,Central Midfield,Central Midfield,Attacking Midfield,24.93,7.29,18.0,2.07,0.0,1.8,0.0,0.0,0.0,0.0
+184,2017,Levante UD,Spanish La Liga,8,4,8.19,12.65,1.02375,3.1625,1.8,6.3,58.23,Striker,Central Midfield,Goalkeeper,1.35,0.0,1.35,0.36,0.0,1.08,1.44,0.0,0.0,0.9
+185,2017,Liverpool FC,English Premier League,5,7,156.495,175.04999999999998,31.299,25.007142857142856,76.19,130.5,84.12,Left-Back,Attacking Midfield,Left-Back,0.0,76.19,34.2,0.0,0.0,37.8,0.0,4.1525,0.0,0.0
+186,2017,Lokomotiv Moscow,Russian Premier Liga,2,2,3.83,0.63,1.915,0.315,2.25,0.45,65.38,Left-Back,Centre-Back,Defensive Midfield,0.0,2.25,0.0,0.0,0.0,0.0,0.0,1.58,0.0,0.0
+187,2017,Manchester City,English Premier League,10,12,285.75,82.22,28.575,6.851666666666667,58.5,24.93,89.74,Right-Back,Centre-Back,Centre-Back,3.42,58.5,0.0,36.0,3.6,45.0,10.8,51.75,37.215,2.25
+188,2017,Manchester United,English Premier League,4,3,178.56,40.95,44.64,13.65,76.23,30.6,81.5,Striker,Striker,Attacking Midfield,53.415000000000006,31.5,0.0,0.0,0.0,0.0,40.23,0.0,0.0,0.0
+189,2017,Middlesbrough FC,English League Championship,8,9,50.09,45.99,6.26125,5.11,15.39,12.15,46.22,Striker,Striker,Left-Back,10.71,2.88,5.09,5.04,2.43,0.0,0.0,0.0,2.52,0.0
+190,2017,Millwall FC,English League Championship,1,0,0.513,0.0,0.513,0.0,0.513,0.0,37.45,Central Midfield,Central Midfield,Central Midfield,0.0,0.0,0.513,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+191,2017,Montpellier HSC,French Ligue 1,3,3,5.130000000000001,18.72,1.7100000000000002,6.239999999999999,2.25,11.7,59.199999999999996,Centre-Back,Striker,Centre-Back,1.98,0.9,0.0,2.25,0.0,0.0,0.0,0.0,0.0,0.0
+192,2017,Moreirense FC,Portuguese Liga,0,3,0.0,2.6100000000000003,0.0,0.8700000000000001,0.0,1.8,37.13,-1,Striker,Left-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+193,2017,Málaga CF,Spanish La Liga,5,5,9.45,30.96,1.89,6.192,4.14,13.5,63.39,Centre-Back,Defensive Midfield,Goalkeeper,0.0,1.125,4.14,0.18,0.0,0.0,2.88,0.0,0.0,0.0
+194,2017,NAC Breda,Dutch Eredivisie,3,1,0.27,0.315,0.09000000000000001,0.315,0.09,0.315,28.67,Centre-Back,Striker,Centre-Back,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09
+195,2017,Newcastle United,English Premier League,8,7,41.85,19.098,5.23125,2.728285714285714,10.17,9.9,54.60000000000001,Striker,Right Winger,Right-Back,3.465,9.0,2.7,1.8,6.75,10.17,0.0,0.0,4.5,0.0
+196,2017,Norwich City,English League Championship,10,6,13.604,30.28,1.3603999999999998,5.046666666666667,3.42,11.12,38.77,Centre-Back,Attacking Midfield,Central Midfield,0.7965,2.121,0.43900000000000006,0.0,2.25,0.0,0.0,0.99,0.0,1.53
+197,2017,Nottingham Forest,English League Championship,7,1,6.53,15.39,0.9328571428571429,15.39,2.07,15.39,32.67,Striker,Striker,Centre-Back,1.5299999999999998,0.18,0.0,0.0,0.77,0.54,0.99,0.0,0.99,0.0
+198,2017,OGC Nice,French Ligue 1,6,3,23.669999999999998,24.749999999999996,3.945,8.249999999999998,9.0,18.9,61.400000000000006,Central Midfield,Left-Back,Defensive Midfield,0.0,0.0,4.5,0.0,9.0,0.0,0.72,3.15,0.0,1.8
+199,2017,Olympique Lyon,French Ligue 1,10,8,55.845,107.60000000000002,5.5845,13.450000000000003,9.9,47.7,74.51,Central Midfield,Striker,Central Midfield,7.2,3.3975,5.4,0.0,9.9,9.0,0.0,4.275,3.6,0.0
+200,2017,Olympique Marseille,French Ligue 1,8,2,55.8,2.475,6.975,1.2375,13.5,2.25,72.6,Striker,Striker,Right-Back,9.0,5.4,0.0,2.7,0.0,9.9,9.0,1.8,0.0,0.0
+201,2017,PSV Eindhoven,Dutch Eredivisie,4,8,25.11,39.015,6.2775,4.876875,11.25,15.3,67.64,Striker,Striker,Attacking Midfield,9.0,4.5,0.0,0.36,11.25,0.0,0.0,0.0,0.0,0.0
+202,2017,Paris Saint-Germain,French Ligue 1,2,5,214.20000000000002,88.56,107.10000000000001,17.712,199.8,25.56,90.52999999999999,Left-Back,Left Winger,Right-Back,0.0,0.0,0.0,0.0,199.8,0.0,0.0,14.4,0.0,0.0
+203,2017,Portimonense SC,Portuguese Liga,0,1,0.0,2.25,0.0,2.25,0.0,2.25,43.03,-1,Left-Back,Left-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+204,2017,Preston North End,English League Championship,3,2,1.885,9.584999999999999,0.6283333333333333,4.7924999999999995,1.02,9.18,40.0,Left Winger,Striker,Striker,0.46,0.0,0.0,1.02,0.405,0.0,0.0,0.0,0.0,0.0
+205,2017,Queens Park Rangers,English League Championship,2,0,0.63,0.0,0.315,0.0,0.486,0.0,35.67,Right Winger,Right Winger,Striker,0.144,0.0,0.0,0.0,0.0,0.486,0.0,0.0,0.0,0.0
+206,2017,RB Leipzig,German Bundesliga,6,4,57.15,22.09,9.525,5.5225,18.0,13.68,74.26,Central Midfield,Central Midfield,Centre-Back,14.4,0.0,12.15,4.5,6.975,0.0,0.0,0.0,0.0,0.0
+207,2017,RC Strasbourg Alsace,French Ligue 1,5,1,4.86,1.8,0.9720000000000001,1.8,1.35,1.8,47.11000000000001,Striker,Attacking Midfield,Left Winger,1.35,0.0,1.35,0.63,0.18,0.0,0.0,0.0,0.0,0.0
+208,2017,RCD Espanyol Barcelona,Spanish La Liga,6,5,15.344999999999999,6.9300000000000015,2.5574999999999997,1.3860000000000003,11.25,2.25,67.12,Centre-Back,Centre-Back,Defensive Midfield,0.0,6.75,0.27,0.0,1.17,0.0,0.18,0.225,0.0,0.0
+209,2017,Reading FC,English League Championship,5,3,12.69,1.859,2.538,0.6196666666666667,6.75,0.9,32.38,Central Midfield,Striker,Attacking Midfield,6.75,0.0,1.17,2.07,1.53,0.0,0.0,0.0,0.0,0.0
+210,2017,Real Betis Balompié,Spanish La Liga,8,9,34.65,24.360000000000003,4.33125,2.706666666666667,9.45,14.85,67.82,Central Midfield,Central Midfield,Centre-Back,3.15,5.85,4.275,0.0,3.6,0.0,1.35,0.0,0.0,6.3
+211,2017,Real Madrid,Spanish La Liga,2,8,36.45,115.65,18.225,14.45625,21.6,59.4,92.25,Left-Back,Striker,Centre-Back,0.0,0.0,14.85,0.0,0.0,0.0,0.0,21.6,0.0,0.0
+212,2017,Real Sociedad,Spanish La Liga,3,3,19.35,47.7,6.45,15.9,7.65,28.8,75.99,Centre-Back,Centre-Back,Right Winger,0.0,5.85,0.0,0.0,0.0,7.65,0.0,0.0,0.0,0.0
+213,2017,Rio Ave FC,Portuguese Liga,1,4,0.72,6.552,0.72,1.638,0.72,3.15,47.64,Right Winger,Attacking Midfield,Striker,0.0,0.0,0.0,0.0,0.0,0.72,0.0,0.0,0.0,0.0
+214,2017,Roda JC Kerkrade,Dutch Eredivisie,0,2,0.0,0.855,0.0,0.4275,0.0,0.63,24.42,-1,Goalkeeper,Right-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+215,2017,Rubin Kazan,Russian Premier Liga,2,6,2.16,23.849999999999998,1.08,3.9749999999999996,1.8,8.1,58.18,Central Midfield,Striker,Central Midfield,0.0,0.0,1.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+216,2017,SBV Excelsior Rotterdam,Dutch Eredivisie,1,0,0.27,0.0,0.27,0.0,0.27,0.0,31.18,Right Winger,Right Winger,Right Winger,0.0,0.0,0.0,0.0,0.0,0.27,0.0,0.0,0.0,0.0
+217,2017,SC Braga,Portuguese Liga,5,9,5.226,28.906,1.0452,3.211777777777778,1.8,6.75,60.13999999999999,Centre-Back,Left Winger,Defensive Midfield,0.266,1.35,1.13,0.0,0.0,0.0,0.0,0.0,1.13,0.0
+218,2017,SC Freiburg,German Bundesliga,10,5,18.135000000000005,25.019999999999996,1.8135000000000006,5.004,3.6,18.0,60.83000000000002,Striker,Striker,Defensive Midfield,1.935,2.025,0.0,0.0,1.35,3.15,0.315,0.0,3.6,0.45
+219,2017,SC Heerenveen,Dutch Eredivisie,5,4,4.1850000000000005,12.780000000000001,0.8370000000000001,3.1950000000000003,1.53,4.32,36.5,Central Midfield,Centre-Back,Goalkeeper,0.0,0.0,0.9,0.45,1.53,0.0,0.0,0.63,0.675,0.0
+220,2017,SCO Angers,French Ligue 1,5,3,11.160000000000002,16.2,2.232,5.3999999999999995,3.6,9.0,59.46,Central Midfield,Right Winger,Central Midfield,2.7,0.0,1.53,0.0,2.7,0.0,0.0,0.0,0.0,0.0
+221,2017,SD Eibar,Spanish La Liga,6,1,6.705000000000001,9.0,1.1175000000000002,9.0,3.6,9.0,70.98,Right Winger,Centre-Back,Right Winger,0.0,3.6,0.9,0.7875000000000001,0.0,0.315,0.0,0.0,0.0,0.0
+222,2017,SKA Khabarovsk,Russian Premier Liga,1,0,0.09,0.0,0.09,0.0,0.09,0.0,35.62,Striker,Striker,Striker,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+223,2017,SL Benfica,Portuguese Liga,8,13,8.955,123.485,1.119375,9.498846153846154,3.15,36.0,74.18000000000002,Goalkeeper,Goalkeeper,Goalkeeper,1.53,0.0,0.9,1.17,0.0,0.54,0.0,0.135,0.36,3.15
+224,2017,SM Caen,French Ligue 1,6,1,6.260000000000001,5.4,1.0433333333333334,5.4,1.8,5.4,53.85000000000001,Right-Back,Central Midfield,Defensive Midfield,0.0,1.8,1.22,0.0,0.9,0.54,0.45,0.0,1.35,0.0
+225,2017,SS Lazio,Italian Serie A,8,6,25.29,65.88000000000001,3.16125,10.980000000000002,6.75,27.0,75.80999999999997,Right Winger,Left Winger,Right Winger,2.25,0.54,3.6,0.0,4.275,2.6100000000000003,5.13,0.0,0.0,0.0
+226,2017,SSC Napoli,Italian Serie A,6,8,61.209999999999994,15.705,10.201666666666666,1.963125,18.9,8.82,83.70000000000002,Left-Back,Centre-Back,Central Midfield,10.8,18.9,12.15,0.0,0.0,10.8,0.0,4.279999999999999,0.0,0.0
+227,2017,SV Werder Bremen,German Bundesliga,7,5,15.749999999999998,8.01,2.2499999999999996,1.6019999999999999,6.3,7.2,67.94000000000001,Striker,Right Winger,Right-Back,0.36,0.9,1.08,2.7,6.3,0.0,0.0,4.05,0.0,0.0
+228,2017,Sevilla FC,Spanish La Liga,9,7,70.24499999999999,73.8,7.804999999999999,10.542857142857143,22.05,32.4,74.32,Defensive Midfield,Left Winger,Left-Back,22.05,11.25,6.3,0.0,6.3,0.0,4.815,5.1075,4.5,0.0
+229,2017,Sheffield United,English League Championship,9,0,5.076,0.0,0.564,0.0,0.81,0.0,38.46,Central Midfield,Centre-Back,Left Winger,0.513,0.5985,0.66,0.0,0.36,0.0,0.0,0.0,0.666,0.0
+230,2017,Sheffield Wednesday,English League Championship,3,0,13.68,0.0,4.56,0.0,10.53,0.0,36.74,Defensive Midfield,Striker,Defensive Midfield,10.53,2.7,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0
+231,2017,Southampton FC,English Premier League,4,2,55.129999999999995,88.52,13.782499999999999,44.26,19.8,76.19,60.59000000000001,Centre-Back,Centre-Back,Centre-Back,19.8,9.9,0.0,0.0,0.0,0.0,15.53,0.0,0.0,0.0
+232,2017,Spartak Moscow,Russian Premier Liga,4,0,19.8,0.0,4.95,0.0,10.8,0.0,65.66,Attacking Midfield,Left Winger,Left-Back,0.0,0.9,0.0,0.0,10.8,0.0,0.0,0.9,0.0,7.2
+233,2017,Sporting CP,Portuguese Liga,14,12,43.11,48.28000000000001,3.079285714285714,4.023333333333334,8.72,22.5,69.70000000000002,Central Midfield,Central Midfield,Centre-Back,1.2,0.0,4.426666666666667,0.0,0.36,0.0,0.0,3.926666666666667,1.7850000000000001,5.260000000000001
+234,2017,Stade Rennais FC,French Ligue 1,8,6,48.510000000000005,14.22,6.063750000000001,2.37,15.3,9.0,58.769999999999996,Striker,Right Winger,Defensive Midfield,5.85,0.0,3.15,2.7,0.0,15.3,0.0,6.3,2.16,7.2
+235,2017,Stoke City,English Premier League,6,6,51.93,31.626,8.655,5.271,17.46,20.07,56.01,Centre-Back,Striker,Left-Back,0.0,10.47,14.4,0.0,0.0,0.0,0.0,0.54,5.58,0.0
+236,2017,Sunderland AFC,English League Championship,3,5,1.265,29.826,0.42166666666666663,5.9652,0.509,25.65,35.21,Left Winger,Goalkeeper,Left Winger,0.509,0.0,0.0,0.504,0.252,0.0,0.0,0.0,0.0,0.0
+237,2017,Swansea City,English Premier League,6,6,66.047,72.99,11.007833333333332,12.165,20.52,44.46,52.62,Central Midfield,Attacking Midfield,Centre-Back,11.7,0.257,11.19,0.0,20.52,0.0,0.0,0.0,0.0,0.0
+238,2017,TSG 1899 Hoffenheim,German Bundesliga,4,8,13.23,41.175,3.3075,5.146875,7.2,18.0,72.04999999999998,Centre-Back,Centre-Back,Centre-Back,0.0,4.815,0.0,0.0,0.0,0.9,0.0,2.7,0.0,0.0
+239,2017,Torino FC,Italian Serie A,8,11,21.689999999999998,71.82000000000002,2.7112499999999997,6.529090909090911,6.3,22.5,63.400000000000006,Striker,Right-Back,Left Winger,1.5750000000000002,3.375,0.0,2.34,4.95,0.0,2.7,1.8,0.0,0.0
+240,2017,Tottenham Hotspur,English Premier League,5,6,109.35000000000001,93.42,21.87,15.57,36.0,47.43,83.99,Centre-Back,Right-Back,Striker,13.59,23.85,0.0,0.0,0.0,25.56,0.0,0.0,22.5,0.0
+241,2017,UC Sampdoria,Italian Serie A,10,7,45.905,64.30000000000001,4.5905000000000005,9.185714285714287,13.5,30.6,62.77000000000001,Striker,Centre-Back,Left-Back,6.150000000000001,1.1275,0.0,0.0,0.0,0.0,0.0,4.71,0.0,5.535
+242,2017,UD Las Palmas,Spanish La Liga,1,5,0.315,23.130000000000003,0.315,4.626,0.315,11.25,57.42000000000001,Left Winger,Central Midfield,Striker,0.0,0.0,0.0,0.0,0.315,0.0,0.0,0.0,0.0,0.0
+243,2017,US Sassuolo,Italian Serie A,9,7,31.950000000000003,17.325,3.5500000000000003,2.475,6.3,9.0,57.62,Centre-Back,Central Midfield,Attacking Midfield,2.7,3.0,5.4,0.0,0.45,2.7,0.0,0.0,6.3,0.0
+244,2017,Udinese Calcio,Italian Serie A,11,7,20.332,15.93,1.8483636363636364,2.275714285714286,4.95,5.4,60.150000000000006,Centre-Back,Attacking Midfield,Right-Back,4.95,1.2573333333333334,2.25,0.0,0.0,0.675,1.8,4.05,0.2925,0.0
+245,2017,Valencia CF,Spanish La Liga,7,9,49.50000000000001,14.895,7.071428571428572,1.655,14.4,5.4,75.94,Centre-Back,Striker,Goalkeeper,14.4,5.4,0.0,6.3,0.0,2.7,12.6,0.0,0.0,2.7
+246,2017,VfB Stuttgart,German Bundesliga,11,7,27.81,6.84,2.528181818181818,0.9771428571428571,5.4,2.7,60.989999999999995,Left Winger,Left Winger,Attacking Midfield,3.1500000000000004,0.0,1.62,1.98,2.0100000000000002,0.0,5.4,2.25,2.25,0.0
+247,2017,VfL Wolfsburg,German Bundesliga,12,5,66.38,32.4,5.531666666666666,6.4799999999999995,15.3,13.5,66.35,Striker,Centre-Back,Right Winger,6.1875,6.3,0.0,0.0,0.0,1.69,13.5,0.0,2.925,0.0
+248,2017,Villarreal CF,Spanish La Liga,7,4,41.49,60.57,5.927142857142857,15.1425,12.6,36.0,71.66999999999999,Striker,Striker,Striker,4.9799999999999995,12.6,0.0,1.8,0.0,0.0,1.35,0.0,0.0,10.8
+249,2017,Vitesse Arnhem,Dutch Eredivisie,5,5,4.005000000000001,18.990000000000002,0.8010000000000002,3.7980000000000005,1.35,6.48,47.92,Right-Back,Striker,Goalkeeper,0.0,0.0,0.0,0.405,0.9,0.9,0.45,0.0,1.35,0.0
+250,2017,Vitória Guimarães SC,Portuguese Liga,5,3,7.12,7.38,1.424,2.46,1.8,3.6,44.75,Striker,Right-Back,Attacking Midfield,1.8,1.8,0.0,0.0,0.0,1.49,1.58,0.0,0.0,0.45
+251,2017,Vitória Setúbal FC,Portuguese Liga,0,3,0.0,1.9800000000000002,0.0,0.66,0.0,1.35,36.58,-1,Centre-Back,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+252,2017,Watford FC,English Premier League,10,6,64.26,16.866,6.426,2.811,18.36,5.85,58.56,Central Midfield,Striker,Striker,14.76,0.0,8.28,3.51,0.9,2.7,5.67,2.7,0.0,0.0
+253,2017,West Bromwich Albion,English Premier League,9,2,48.15,1.85,5.35,0.925,13.68,1.58,54.13,Striker,Right Winger,Striker,6.960000000000001,1.9500000000000002,0.0,0.0,0.0,13.68,0.99,6.75,0.0,0.0
+254,2017,West Ham United,English Premier League,6,8,51.120000000000005,62.12,8.520000000000001,7.765,20.07,20.52,56.13999999999999,Striker,Left Winger,Central Midfield,15.090000000000002,0.0,1.08,2.07,2.7,0.0,0.0,0.0,0.0,0.0
+255,2017,Willem II Tilburg,Dutch Eredivisie,2,1,0.203,0.135,0.1015,0.135,0.113,0.135,30.350000000000005,Central Midfield,Defensive Midfield,Central Midfield,0.0,0.0,0.09,0.0,0.113,0.0,0.0,0.0,0.0,0.0
+256,2017,Wolverhampton Wanderers,English League Championship,5,4,22.153000000000002,5.688,4.4306,1.422,16.11,3.42,47.68,Central Midfield,Defensive Midfield,Central Midfield,1.8,2.7,0.513,0.0,0.0,0.0,16.11,1.03,0.0,0.0
+257,2017,Zenit St. Petersburg,Russian Premier Liga,12,7,85.05,14.148,7.0874999999999995,2.021142857142857,20.7,6.3,69.51,Central Midfield,Defensive Midfield,Striker,0.765,10.8,3.285,0.0,13.5,8.1,13.95,4.05,1.8,0.0
+258,2018,1.FC Nuremberg,German Bundesliga,6,0,4.365,0.0,0.7275,0.0,2.7,0.0,53.98,Right Winger,Right Winger,Attacking Midfield,0.45,0.0,0.0,0.45,0.0,1.5750000000000002,0.0,0.0,0.18,0.135
+259,2018,1.FSV Mainz 05,German Bundesliga,6,7,27.0,50.49,4.5,7.2128571428571435,7.2,25.2,60.53999999999999,Striker,Centre-Back,Attacking Midfield,4.5,5.4,6.75,0.0,0.0,0.0,0.0,2.7,0.0,3.15
+260,2018,AC Milan,Italian Serie A,9,9,169.01999999999998,76.14,18.779999999999998,8.46,34.56,31.5,75.15000000000002,Striker,Attacking Midfield,Central Midfield,20.31,31.5,0.0,0.0,4.95,19.17,4.5,13.41,0.0,34.56
+261,2018,ACF Fiorentina,Italian Serie A,16,11,51.407,36.778999999999996,3.2129375,3.3435454545454544,8.78,20.25,70.68,Centre-Back,Striker,Defensive Midfield,1.33,5.3,1.3973333333333333,7.2,1.395,0.675,3.15,0.0,1.44,8.1
+262,2018,ADO Den Haag,Dutch Eredivisie,0,1,0.0,2.07,0.0,2.07,0.0,2.07,38.33,-1,Striker,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+263,2018,AFC Bournemouth,English Premier League,5,3,80.19,18.18,16.038,6.06,25.2,10.26,65.69,Striker,Defensive Midfield,Left Winger,19.08,12.24,0.0,0.0,0.0,10.17,25.2,13.5,0.0,0.0
+264,2018,AS Monaco,French Ligue 1,15,12,133.96500000000003,297.235,8.931000000000003,24.769583333333333,27.0,130.5,62.96,Defensive Midfield,Striker,Defensive Midfield,1.08,2.25,8.1,0.0,14.4,2.7,6.495,9.45,11.7,27.0
+265,2018,AS Roma,Italian Serie A,12,16,147.69999999999996,135.41989999999998,12.30833333333333,8.463743749999999,37.8,56.25,76.73999999999998,Attacking Midfield,Goalkeeper,Defensive Midfield,25.65,0.0,4.5,4.05,15.53,0.0,23.99,0.0,8.55,10.56
+266,2018,AS Saint-Étienne,French Ligue 1,3,5,13.5,16.830000000000002,4.5,3.3660000000000005,6.3,5.4,64.74,Right Winger,Striker,Defensive Midfield,6.3,0.0,0.0,0.0,0.0,1.8,0.0,0.0,0.0,5.4
+267,2018,AZ Alkmaar,Dutch Eredivisie,5,4,6.125,27.203,1.225,6.80075,2.07,17.1,60.099999999999994,Central Midfield,Right Winger,Central Midfield,2.07,1.08,1.13,0.225,0.0,1.62,0.0,0.0,0.0,0.0
+268,2018,Ajax Amsterdam,Dutch Eredivisie,5,2,45.59,15.799999999999999,9.118,7.8999999999999995,14.4,15.53,82.56000000000002,Left Winger,Left Winger,Right-Back,0.0,11.25,0.0,0.0,8.844999999999999,0.0,0.0,0.0,0.0,5.4
+269,2018,Amiens SC,French Ligue 1,4,3,6.734999999999999,9.0,1.6837499999999999,3.0,3.6,7.2,53.37,Central Midfield,Central Midfield,Central Midfield,0.0,0.0,0.45,0.0,0.765,1.92,0.0,0.0,0.0,3.6
+270,2018,Anzhi Makhachkala,Russian Premier Liga,0,2,0.0,0.40499999999999997,0.0,0.20249999999999999,0.0,0.36,34.35,-1,Central Midfield,Central Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+271,2018,Arsenal FC,English Premier League,5,4,72.14,7.110000000000001,14.428,1.7775000000000003,25.79,3.96,80.61,Central Midfield,Defensive Midfield,Left Winger,0.0,14.4,7.2,22.5,0.0,0.0,25.79,0.0,0.0,2.25
+272,2018,Arsenal Tula,Russian Premier Liga,2,1,0.187,0.9,0.0935,0.9,0.18,0.9,52.13,Centre-Back,Central Midfield,Centre-Back,0.0,0.007,0.0,0.0,0.0,0.0,0.18,0.0,0.0,0.0
+273,2018,Aston Villa,English League Championship,5,3,17.19,14.0,3.438,4.666666666666667,5.4,9.0,57.1,Goalkeeper,Left-Back,Attacking Midfield,0.0,0.0,2.79,4.050000000000001,0.0,1.8,0.0,0.0,4.5,0.0
+274,2018,Atalanta BC,Italian Serie A,12,11,48.605,19.405,4.050416666666666,1.7640909090909092,12.6,4.77,77.97000000000001,Centre-Back,Striker,Centre-Back,8.55,3.15125,3.375,3.42,0.0,0.9,4.5,3.33,0.0,0.0
+275,2018,Athletic Bilbao,Spanish La Liga,5,1,29.61,72.0,5.922,72.0,21.6,72.0,75.2,Left-Back,Goalkeeper,Striker,0.81,0.0,0.0,0.0,0.0,3.6,0.0,11.25,2.7,0.0
+276,2018,Atlético Madrid,Spanish La Liga,9,6,144.45000000000002,58.41,16.05,9.735,63.0,18.45,86.35999999999997,Striker,Left Winger,Attacking Midfield,9.675,2.25,0.0,0.9,63.0,20.25,22.5,6.3,9.9,0.0
+277,2018,Bayer 04 Leverkusen,German Bundesliga,3,2,28.349999999999998,40.5,9.45,20.25,16.65,22.5,75.08,Right-Back,Goalkeeper,Striker,0.9,0.0,0.0,0.0,16.65,0.0,0.0,0.0,10.8,0.0
+278,2018,Bayern Munich,German Bundesliga,1,5,9.0,75.60000000000001,9.0,15.120000000000001,9.0,36.0,92.12,Left-Back,Right Winger,Left-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0.0
+279,2018,Belenenses SAD,Portuguese Liga,0,1,0.0,0.27,0.0,0.27,0.0,0.27,45.34,-1,Striker,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+280,2018,Birmingham City,English League Championship,1,0,2.25,0.0,2.25,0.0,2.25,0.0,49.91,Left-Back,Left-Back,Left-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.25,0.0,0.0
+281,2018,Blackburn Rovers,English League Championship,1,0,1.71,0.0,1.71,0.0,1.71,0.0,43.95,Striker,Striker,Striker,1.71,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+282,2018,Boavista FC,Portuguese Liga,1,3,0.36,1.935,0.36,0.645,0.36,0.9,42.09,Striker,Centre-Back,Striker,0.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+283,2018,Bologna FC 1909,Italian Serie A,9,11,28.093999999999998,39.31300000000001,3.121555555555555,3.573909090909092,8.1,22.05,58.410000000000004,Striker,Right Winger,Defensive Midfield,4.8,0.277,4.05,4.095,0.0,0.0,0.0,0.0,0.9,0.0
+284,2018,Bolton Wanderers,English League Championship,1,0,0.203,0.0,0.203,0.0,0.203,0.0,36.51,Striker,Striker,Striker,0.203,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+285,2018,Borussia Dortmund,German Bundesliga,6,9,81.45,102.78,13.575000000000001,11.42,25.2,57.6,80.51,Centre-Back,Left Winger,Defensive Midfield,1.8,19.575,18.0,0.0,0.0,4.5,18.0,0.0,0.0,0.0
+286,2018,Borussia Mönchengladbach,German Bundesliga,4,4,29.3,29.655,7.325,7.41375,20.7,22.5,69.83,Right-Back,Centre-Back,Central Midfield,20.7,0.0,0.0,0.0,2.03,0.0,0.0,4.05,2.52,0.0
+287,2018,Brentford FC,English League Championship,3,6,5.9,31.46,1.9666666666666668,5.243333333333333,2.57,12.24,56.07,Centre-Back,Centre-Back,Central Midfield,0.0,2.185,0.0,0.0,1.53,0.0,0.0,0.0,0.0,0.0
+288,2018,Brighton & Hove Albion,English Premier League,15,7,79.854,12.258000000000001,5.3236,1.7511428571428573,17.1,3.51,61.470000000000006,Striker,Right Winger,Centre-Back,3.66,1.6500000000000001,15.21,4.05,1.062,9.540000000000001,2.61,9.0,6.3,7.2
+289,2018,Bristol City,English League Championship,5,5,9.14,26.555000000000003,1.828,5.311000000000001,3.6,10.22,50.99,Right Winger,Striker,Striker,0.99,3.6,0.0,0.0,0.0,1.5099999999999998,0.0,0.0,1.53,0.0
+290,2018,Burnley FC,English Premier League,3,1,29.700000000000003,7.2,9.9,7.2,15.21,7.2,61.24,Goalkeeper,Centre-Back,Goalkeeper,10.98,15.21,0.0,3.51,0.0,0.0,0.0,0.0,0.0,0.0
+291,2018,CD Feirense,Portuguese Liga,2,1,0.248,6.48,0.124,6.48,0.18,6.48,37.24,Central Midfield,Central Midfield,Central Midfield,0.18,0.0,0.068,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+292,2018,CD Leganés,Spanish La Liga,11,2,16.83,20.7,1.5299999999999998,10.35,5.4,13.5,74.52,Central Midfield,Left-Back,Left-Back,3.1500000000000004,0.5625,0.8325,0.0,4.5,0.0,0.0,1.215,0.27,0.54
+293,2018,CD Nacional,Portuguese Liga,2,0,2.43,0.0,1.215,0.0,1.35,0.0,41.18,Right Winger,Right Winger,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,1.35,0.0,0.0,0.0,1.08
+294,2018,CD Santa Clara,Portuguese Liga,0,2,0.0,1.427,0.0,0.7135,0.0,1.35,42.3,-1,Left Winger,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+295,2018,CD Tondela,Portuguese Liga,0,2,0.0,2.25,0.0,1.125,0.0,1.8,40.35,-1,Centre-Back,Right Winger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+296,2018,CSKA Moscow,Russian Premier Liga,8,2,11.151000000000002,37.8,1.3938750000000002,18.9,3.6,27.0,70.76,Striker,Attacking Midfield,Centre-Back,0.342,1.2825,3.6,0.0,0.0,0.0,0.36,0.0,0.0,3.6
+297,2018,Cagliari Calcio,Italian Serie A,9,8,20.248,6.488999999999999,2.249777777777778,0.8111249999999999,5.31,2.25,58.34,Centre-Back,Central Midfield,Defensive Midfield,0.9,2.4850000000000003,5.31,0.248,0.0,3.15,5.31,0.0,0.09,0.27
+298,2018,Cardiff City,English Premier League,6,0,46.09,0.0,7.6816666666666675,0.0,15.3,0.0,58.42000000000001,Striker,Striker,Central Midfield,12.760000000000002,0.0,3.11,3.6,10.26,0.0,0.0,3.6,0.0,0.0
+299,2018,Celta de Vigo,Spanish La Liga,5,8,26.549999999999997,31.32,5.31,3.915,7.2,9.0,70.16999999999999,Central Midfield,Striker,Right-Back,3.15,6.3,5.85,0.0,0.0,0.0,5.4,0.0,0.0,0.0
+300,2018,Chelsea FC,English Premier League,4,11,187.92000000000002,65.03,46.980000000000004,5.911818181818182,72.0,31.5,85.57999999999998,Striker,Goalkeeper,Centre-Back,7.02,0.0,0.0,72.0,57.6,0.0,51.3,0.0,0.0,0.0
+301,2018,Chievo Verona,Italian Serie A,7,12,8.568,15.422999999999998,1.224,1.2852499999999998,2.7,5.31,52.87,Centre-Back,Central Midfield,Striker,1.215,1.3800000000000001,1.8,0.0,0.0,0.0,0.0,0.0,0.198,0.0
+302,2018,Crystal Palace,English Premier League,2,1,10.670000000000002,0.315,5.335000000000001,0.315,9.63,0.315,69.98,Striker,Defensive Midfield,Striker,1.04,0.0,0.0,0.0,0.0,0.0,9.63,0.0,0.0,0.0
+303,2018,Deportivo Alavés,Spanish La Liga,5,2,9.018,8.1,1.8036,4.05,3.6,4.5,70.97000000000001,Central Midfield,Striker,Left Winger,3.6,1.35,1.35,0.0,0.018,2.7,0.0,0.0,0.0,0.0
+304,2018,Derby County,English League Championship,5,2,12.582,13.01,2.5164,6.505,5.04,10.98,50.019999999999996,Right Winger,Striker,Central Midfield,4.05,0.0,0.702,0.0,0.0,1.8900000000000001,0.0,0.0,0.0,0.0
+305,2018,Desportivo Aves,Portuguese Liga,0,2,0.0,1.08,0.0,0.54,0.0,0.63,43.06,-1,Striker,Left Winger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+306,2018,Dijon FCO,French Ligue 1,4,1,8.28,3.6,2.07,3.6,3.6,3.6,55.4,Striker,Goalkeeper,Centre-Back,3.6,1.44,0.0,1.44,1.8,0.0,0.0,0.0,0.0,0.0
+307,2018,Dynamo Moscow,Russian Premier Liga,1,2,0.45,1.53,0.45,0.765,0.45,1.35,52.34,Right Winger,Right Winger,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0
+308,2018,EA Guingamp,French Ligue 1,2,1,3.15,3.6,1.575,3.6,2.25,3.6,54.72,Central Midfield,Central Midfield,Central Midfield,0.0,2.25,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+309,2018,Eintracht Frankfurt,German Bundesliga,12,6,23.805,17.009999999999998,1.98375,2.8349999999999995,4.95,7.92,72.79,Centre-Back,Centre-Back,Left Winger,2.7,2.9475000000000002,0.0,2.52,1.17,0.45,3.15,0.0,0.675,0.18
+310,2018,Enisey Krasnoyarsk,Russian Premier Liga,0,1,0.0,0.012,0.0,0.012,0.0,0.012,35.94,-1,Right-Back,Right-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,2018,Everton FC,English Premier League,5,5,89.83,25.785,17.966,5.157,35.28,12.15,70.34,Centre-Back,Striker,Right Winger,35.28,17.17,2.03,0.0,0.0,0.0,0.0,18.18,0.0,0.0
+312,2018,FC Augsburg,German Bundesliga,4,5,5.985,2.5650000000000004,1.49625,0.5130000000000001,2.7,1.35,62.239999999999995,Centre-Back,Right Winger,Defensive Midfield,0.0,0.45,0.0,0.135,0.0,2.7,0.0,0.0,0.0,2.7
+313,2018,FC Barcelona,Spanish La Liga,7,11,116.19000000000003,120.65499999999999,16.598571428571432,10.968636363636362,36.9,37.8,92.16000000000001,Centre-Back,Central Midfield,Centre-Back,0.0,11.43,22.049999999999997,0.0,0.0,36.9,0.0,0.0,0.0,0.9
+314,2018,FC Emmen,Dutch Eredivisie,1,0,0.045,0.0,0.045,0.0,0.045,0.0,32.05,Striker,Striker,Striker,0.045,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+315,2018,FC Empoli,Italian Serie A,8,5,15.57,20.609999999999996,1.94625,4.121999999999999,8.1,8.1,56.88,Striker,Striker,Right-Back,3.9,0.9,0.81,0.0,0.0,0.0,0.0,0.0,0.675,0.0
+316,2018,FC Girondins Bordeaux,French Ligue 1,6,4,19.16,45.63,3.1933333333333334,11.4075,7.65,36.9,60.04,Striker,Right Winger,Right Winger,1.3900000000000001,0.0,3.15,0.0,0.0,7.65,0.0,0.0,0.63,4.95
+317,2018,FC Groningen,Dutch Eredivisie,3,1,2.8800000000000003,2.25,0.9600000000000001,2.25,1.53,2.25,42.53,Right Winger,Central Midfield,Right-Back,0.0,1.08,0.0,0.0,0.0,1.53,0.0,0.0,0.27,0.0
+318,2018,FC Nantes,French Ligue 1,6,3,12.69,19.98,2.1149999999999998,6.66,7.2,15.3,62.95000000000001,Central Midfield,Striker,Centre-Back,0.0,0.27,1.485,0.0,7.2,0.0,0.0,0.45,1.8,0.0
+319,2018,FC Porto,Portuguese Liga,10,9,29.750000000000007,64.8,2.9750000000000005,7.199999999999999,6.3,19.8,78.53,Centre-Back,Right-Back,Attacking Midfield,4.68,4.096666666666667,1.8,0.0,1.35,0.0,0.0,1.35,2.79,2.7
+320,2018,FC Schalke 04,German Bundesliga,7,6,55.98,41.535,7.997142857142856,6.922499999999999,14.4,33.3,68.91999999999999,Right Winger,Right-Back,Right Winger,0.0,6.3,9.9,0.0,0.0,5.49,11.7,5.4,0.0,0.0
+321,2018,FC Toulouse,French Ligue 1,7,4,16.610000000000003,31.95,2.372857142857143,7.9875,4.5,22.5,56.33,Striker,Centre-Back,Central Midfield,2.815,2.7,0.63,3.6,1.8,2.25,0.0,0.0,0.0,0.0
+322,2018,FC Utrecht,Dutch Eredivisie,4,3,2.2950000000000004,5.76,0.5737500000000001,1.92,0.9,5.4,48.46999999999999,Left-Back,Attacking Midfield,Centre-Back,0.0,0.0,0.63,0.0,0.0,0.0,0.0,0.3825,0.0,0.9
+323,2018,FK Krasnodar,Russian Premier Liga,6,5,22.950000000000003,10.71,3.8250000000000006,2.1420000000000003,7.2,8.1,69.49,Centre-Back,Striker,Striker,0.0,2.97,4.05,0.0,0.0,0.0,0.0,3.96,1.8,7.2
+324,2018,FK Orenburg,Russian Premier Liga,3,1,0.396,0.54,0.132,0.54,0.27,0.54,49.21,Right Winger,Striker,Right Winger,0.0,0.063,0.27,0.0,0.0,0.063,0.0,0.0,0.0,0.0
+325,2018,FK Rostov,Russian Premier Liga,8,3,6.269,8.46,0.783625,2.8200000000000003,2.25,3.96,53.85,Central Midfield,Left-Back,Central Midfield,2.25,0.9,0.6749999999999999,0.0,0.45,0.0,0.54,0.0,0.0,0.104
+326,2018,FK Ufa,Russian Premier Liga,4,2,1.674,5.4,0.4185,2.7,0.9,3.6,47.9,Striker,Central Midfield,Left-Back,0.6525000000000001,0.0,0.225,0.0,0.0,0.0,0.0,0.144,0.0,0.0
+327,2018,Feyenoord Rotterdam,Dutch Eredivisie,1,6,1.8,8.06,1.8,1.3433333333333335,1.8,3.15,65.27,Left Winger,Attacking Midfield,Central Midfield,0.0,0.0,0.0,0.0,1.8,0.0,0.0,0.0,0.0,0.0
+328,2018,Fortuna Düsseldorf,German Bundesliga,7,2,6.755,0.54,0.965,0.27,1.8,0.45,57.20000000000001,Striker,Striker,Left-Back,1.4649999999999999,0.0,0.0,0.0,1.0125000000000002,0.27,0.0,0.0,0.81,0.72
+329,2018,Fortuna Sittard,Dutch Eredivisie,1,0,0.144,0.0,0.144,0.0,0.144,0.0,34.67,Left Winger,Left Winger,Left Winger,0.0,0.0,0.0,0.0,0.144,0.0,0.0,0.0,0.0,0.0
+330,2018,Frosinone Calcio,Italian Serie A,12,1,8.6,0.27,0.7166666666666667,0.27,1.35,0.27,50.92999999999999,Central Midfield,Left Winger,Central Midfield,0.63,0.835,0.51,0.585,1.35,1.35,0.27,0.0,0.0,0.0
+331,2018,Fulham FC,English Premier League,10,2,104.86000000000001,4.8149999999999995,10.486,2.4074999999999998,27.0,4.05,59.15,Centre-Back,Central Midfield,Left Winger,22.23,6.556666666666666,27.0,5.4,1.08,0.0,22.37,6.03,0.0,0.0
+332,2018,GD Chaves,Portuguese Liga,2,3,0.9450000000000001,7.470000000000001,0.47250000000000003,2.49,0.81,3.6,43.03,Attacking Midfield,Centre-Back,Attacking Midfield,0.0,0.81,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.135
+333,2018,Genoa CFC,Italian Serie A,17,14,52.493,71.96690000000001,3.087823529411765,5.140492857142858,9.9,31.5,60.569999999999986,Striker,Striker,Left-Back,5.482000000000001,1.971,1.3500000000000003,2.16,0.9,0.0,2.22,0.0,5.4,0.0
+334,2018,Getafe CF,Spanish La Liga,7,3,24.53,3.1500000000000004,3.5042857142857144,1.05,9.0,1.35,78.04999999999998,Central Midfield,Central Midfield,Goalkeeper,0.0,2.52,5.47,2.7,0.0,3.6,0.0,2.25,0.0,0.0
+335,2018,Girona FC,Spanish La Liga,3,3,9.18,2.9699999999999998,3.06,0.9899999999999999,4.5,1.35,71.17,Left-Back,Centre-Back,Left Winger,0.0,4.5,0.0,0.0,0.18,0.0,0.0,4.5,0.0,0.0
+336,2018,Hannover 96,German Bundesliga,9,7,16.668,12.190999999999997,1.8519999999999999,1.741571428571428,5.4,6.3,54.87,Centre-Back,Centre-Back,Goalkeeper,1.08,1.266,0.0,0.0,0.9,0.18,5.4,0.0,0.0,2.655
+337,2018,Heracles Almelo,Dutch Eredivisie,2,1,0.36,2.7,0.18,2.7,0.225,2.7,40.35,Left-Back,Central Midfield,Centre-Back,0.0,0.135,0.0,0.0,0.0,0.0,0.0,0.225,0.0,0.0
+338,2018,Hertha BSC,German Bundesliga,5,3,14.4,15.21,2.88,5.07,9.45,10.8,63.19,Right-Back,Right-Back,Right Winger,1.8,0.45,0.9,0.0,0.0,9.45,0.0,0.0,1.8,0.0
+339,2018,Huddersfield Town,English Premier League,8,3,45.63,11.097000000000001,5.70375,3.6990000000000003,18.0,10.08,57.5,Left Winger,Centre-Back,Centre-Back,1.53,18.0,2.25,2.25,5.7,0.0,0.0,0.0,4.5,0.0
+340,2018,Hull City,English League Championship,3,0,2.16,0.0,0.7200000000000001,0.0,1.53,0.0,46.85,Centre-Back,Centre-Back,Left Winger,0.0,0.9450000000000001,0.0,0.0,0.27,0.0,0.0,0.0,0.0,0.0
+341,2018,Inter Milan,Italian Serie A,9,17,87.84000000000002,77.94,9.760000000000002,4.584705882352941,34.2,19.8,81.28,Right-Back,Attacking Midfield,Centre-Back,22.5,5.49,0.0,0.0,4.5,5.175,0.0,4.5,3.15,34.2
+342,2018,Ipswich Town,English League Championship,3,3,3.087,9.9,1.0290000000000001,3.3000000000000003,1.62,5.04,35.9,Striker,Striker,Left Winger,1.1880000000000002,0.0,0.0,0.0,0.711,0.0,0.0,0.0,0.0,0.0
+343,2018,Juventus FC,Italian Serie A,8,17,233.73,98.82,29.21625,5.812941176470588,105.3,31.5,87.94,Centre-Back,Left Winger,Right-Back,6.75,12.18,0.0,12.78,105.3,36.0,0.0,0.0,36.36,0.0
+344,2018,Krylya Sovetov Samara,Russian Premier Liga,3,0,0.855,0.0,0.285,0.0,0.36,0.0,42.25,Central Midfield,Central Midfield,Centre-Back,0.0,0.18,0.36,0.0,0.315,0.0,0.0,0.0,0.0,0.0
+345,2018,LOSC Lille,French Ligue 1,3,11,8.01,62.82000000000001,2.67,5.710909090909092,4.5,15.21,65.46000000000001,Right-Back,Central Midfield,Goalkeeper,1.26,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.25,4.5
+346,2018,Leeds United,English League Championship,3,2,10.26,6.569999999999999,3.42,3.2849999999999997,7.11,6.39,58.96,Left-Back,Striker,Central Midfield,7.11,0.0,0.09,0.0,0.0,0.0,0.0,3.06,0.0,0.0
+347,2018,Leicester City,English Premier League,7,4,103.13999999999997,86.22,14.73428571428571,21.555,22.5,61.02,71.53999999999999,Centre-Back,Right Winger,Striker,0.0,11.88,0.0,12.6,0.0,12.6,0.0,0.0,19.8,22.5
+348,2018,Levante UD,Spanish La Liga,7,2,23.400000000000002,29.7,3.342857142857143,14.85,8.01,25.2,65.62,Right-Back,Defensive Midfield,Goalkeeper,5.58,1.8,0.0,0.9,4.5,0.0,8.01,0.0,1.35,1.26
+349,2018,Liverpool FC,English Premier League,4,6,163.98,37.19,40.995,6.198333333333333,56.25,19.08,91.72,Central Midfield,Goalkeeper,Central Midfield,0.0,0.0,54.0,56.25,0.0,13.23,40.5,0.0,0.0,0.0
+350,2018,Lokomotiv Moscow,Russian Premier Liga,6,0,15.839999999999998,0.0,2.6399999999999997,0.0,8.1,0.0,64.17,Striker,Striker,Left Winger,4.2749999999999995,4.5,0.0,0.0,0.09,1.35,1.35,0.0,0.0,0.0
+351,2018,Manchester City,English Premier League,5,7,70.731,51.84,14.146199999999999,7.405714285714287,61.02,15.3,93.55999999999999,Centre-Back,Right Winger,Left Winger,0.0,1.62,0.0,0.0,0.801,61.02,5.67,0.0,0.0,0.0
+352,2018,Manchester United,English Premier League,3,3,74.43,27.5,24.810000000000002,9.166666666666666,53.1,14.4,79.38,Central Midfield,Central Midfield,Goalkeeper,0.0,0.0,53.1,1.53,0.0,0.0,0.0,0.0,19.8,0.0
+353,2018,Middlesbrough FC,English League Championship,3,6,19.35,43.276999999999994,6.45,7.212833333333332,7.2,18.0,55.95,Central Midfield,Right Winger,Striker,0.0,7.2,7.02,0.0,0.0,0.0,5.13,0.0,0.0,0.0
+354,2018,Millwall FC,English League Championship,3,1,2.88,7.02,0.96,7.02,0.99,7.02,49.14,Central Midfield,Central Midfield,Left Winger,0.99,0.0,0.99,0.0,0.9,0.0,0.0,0.0,0.0,0.0
+355,2018,Montpellier HSC,French Ligue 1,6,4,9.135000000000002,22.95,1.5225000000000002,5.7375,2.7,14.4,64.58000000000001,Defensive Midfield,Right-Back,Left Winger,2.7,0.0,0.0,0.0,0.54,0.0,1.35,0.0,0.855,2.34
+356,2018,Moreirense FC,Portuguese Liga,0,2,0.0,2.515,0.0,1.2575,0.0,2.29,44.35,-1,Defensive Midfield,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+357,2018,NAC Breda,Dutch Eredivisie,0,2,0.0,0.81,0.0,0.405,0.0,0.54,29.02,-1,Attacking Midfield,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+358,2018,Newcastle United,English Premier League,8,9,53.78,45.941,6.7225,5.104555555555556,21.6,22.23,65.59,Striker,Striker,Striker,5.805000000000001,4.815,6.3,3.6,0.0,0.0,0.0,1.04,0.0,21.6
+359,2018,Norwich City,English League Championship,5,4,4.905,33.84,0.9810000000000001,8.46,1.53,22.5,54.9,Right Winger,Attacking Midfield,Centre-Back,0.0,0.0,1.35,0.0,0.0,1.44,0.0,0.225,0.45,0.0
+360,2018,Nottingham Forest,English League Championship,5,3,24.687,1.085,4.9374,0.36166666666666664,13.5,0.504,48.06,Centre-Back,Attacking Midfield,Goalkeeper,6.12,1.1835,0.0,0.0,0.0,2.7,0.0,0.0,0.0,13.5
+361,2018,OGC Nice,French Ligue 1,4,5,25.2,55.53000000000001,6.3,11.106000000000002,9.0,27.0,61.97,Right-Back,Central Midfield,Left Winger,9.0,4.5,0.0,0.0,0.0,0.0,9.0,0.0,2.7,0.0
+362,2018,Olympique Lyon,French Ligue 1,5,9,41.81,81.09,8.362,9.01,19.8,19.35,74.62,Striker,Striker,Centre-Back,12.15,5.155,7.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+363,2018,Olympique Marseille,French Ligue 1,4,3,59.400000000000006,29.570000000000004,14.850000000000001,9.856666666666667,22.5,22.37,69.55,Central Midfield,Central Midfield,Centre-Back,0.0,17.1,22.5,0.0,10.8,0.0,0.0,9.0,0.0,0.0
+364,2018,PEC Zwolle,Dutch Eredivisie,5,2,1.958,4.73,0.3916,2.365,0.675,2.48,35.46,Central Midfield,Central Midfield,Striker,0.394,0.0,0.2925,0.0,0.0,0.585,0.0,0.0,0.0,0.0
+365,2018,PSV Eindhoven,Dutch Eredivisie,5,6,19.130000000000003,15.795,3.8260000000000005,2.6325,5.4,9.9,76.96000000000001,Left-Back,Right-Back,Centre-Back,0.0,0.0,3.9400000000000004,0.0,0.0,0.0,0.0,3.1500000000000004,4.95,0.0
+366,2018,Paris Saint-Germain,French Ligue 1,4,8,204.3,102.60000000000001,51.075,12.825000000000001,130.5,36.0,89.42,Right-Back,Striker,Defensive Midfield,130.5,0.0,0.0,0.0,0.0,0.0,36.0,4.5,33.3,0.0
+367,2018,Portimonense SC,Portuguese Liga,2,5,2.72,41.85,1.36,8.370000000000001,2.27,31.5,45.730000000000004,Left Winger,Left Winger,Left Winger,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,0.0,2.27
+368,2018,Preston North End,English League Championship,4,1,3.267,3.6,0.81675,3.6,1.44,3.6,48.6,Striker,Left-Back,Striker,0.531,0.765,1.44,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+369,2018,Queens Park Rangers,English League Championship,0,1,0.0,3.6,0.0,3.6,0.0,3.6,45.81,-1,Goalkeeper,Goalkeeper,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+370,2018,RB Leipzig,German Bundesliga,6,8,59.07,65.475,9.845,8.184375,17.1,54.0,77.22000000000001,Right-Back,Central Midfield,Defensive Midfield,13.5,0.0,17.1,0.0,0.0,0.0,2.37,10.8,14.4,0.9
+371,2018,RC Strasbourg Alsace,French Ligue 1,6,1,14.175000000000002,12.6,2.3625000000000003,12.6,3.6,12.6,60.32,Striker,Defensive Midfield,Left-Back,2.7,2.7,0.0,3.6,0.0,0.0,1.8,0.675,0.0,0.0
+372,2018,RCD Espanyol Barcelona,Spanish La Liga,5,4,20.34,27.72,4.068,6.93,9.0,18.0,73.25,Striker,Striker,Defensive Midfield,5.49,0.0,7.2,0.0,1.8,0.0,0.36,0.0,0.0,0.0
+373,2018,Rayo Vallecano,Spanish La Liga,9,2,11.07,11.7,1.23,5.85,4.05,7.2,66.63,Attacking Midfield,Central Midfield,Right-Back,0.9,0.9,0.0,0.63,2.3625,0.0,0.0,0.0,0.315,1.4849999999999999
+374,2018,Reading FC,English League Championship,2,2,4.7299999999999995,5.27,2.3649999999999998,2.635,3.51,3.11,37.92,Striker,Striker,Striker,2.3649999999999998,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+375,2018,Real Betis Balompié,Spanish La Liga,5,4,34.65,43.43,6.93,10.8575,14.4,27.0,74.27,Central Midfield,Central Midfield,Right-Back,0.0,4.05,2.7,0.0,12.6,0.0,14.4,0.0,0.9,0.0
+376,2018,Real Madrid,Spanish La Liga,8,6,146.48,120.69000000000001,18.31,20.115000000000002,40.5,105.3,88.89000000000001,Defensive Midfield,Left Winger,Attacking Midfield,19.35,0.0,0.0,19.575,40.5,0.0,2.59,0.0,27.0,15.3
+377,2018,Real Sociedad,Spanish La Liga,1,2,10.8,27.72,10.8,13.86,10.8,27.0,76.74,Central Midfield,Right-Back,Centre-Back,0.0,0.0,10.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+378,2018,Real Valladolid CF,Spanish La Liga,7,0,9.09,0.0,1.2985714285714285,0.0,2.7,0.0,67.61,Striker,Striker,Striker,1.6500000000000001,0.99,0.675,0.0,0.0,0.0,0.0,0.0,0.0,1.8
+379,2018,Rio Ave FC,Portuguese Liga,1,2,0.45,7.83,0.45,3.915,0.45,6.48,44.830000000000005,Striker,Defensive Midfield,Striker,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+380,2018,Rubin Kazan,Russian Premier Liga,3,3,2.016,13.41,0.672,4.47,0.9,10.8,53.06,Attacking Midfield,Striker,Central Midfield,0.0,0.9,0.306,0.0,0.0,0.0,0.0,0.0,0.0,0.81
+381,2018,SBV Excelsior Rotterdam,Dutch Eredivisie,0,1,0.0,0.675,0.0,0.675,0.0,0.675,30.94,-1,Striker,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+382,2018,SC Braga,Portuguese Liga,5,6,5.630000000000001,18.584999999999997,1.1260000000000001,3.0974999999999997,2.7,9.0,62.59000000000001,Attacking Midfield,Defensive Midfield,Left-Back,0.0,2.7,0.0,0.0,0.0,0.36,0.0,0.09,0.0,1.24
+383,2018,SC Freiburg,German Bundesliga,7,8,16.560000000000002,20.407999999999998,2.365714285714286,2.5509999999999997,4.5,18.99,59.27999999999999,Centre-Back,Centre-Back,Right-Back,4.5,2.25,1.17,1.8,0.54,4.05,0.0,0.0,0.0,0.0
+384,2018,SC Heerenveen,Dutch Eredivisie,2,4,1.251,9.27,0.6255,2.3175,0.756,4.95,44.28,Central Midfield,Right-Back,Centre-Back,0.0,0.0,0.756,0.0,0.0,0.0,0.0,0.0,0.495,0.0
+385,2018,SCO Angers,French Ligue 1,5,2,4.005,18.9,0.8009999999999999,9.45,1.44,16.2,60.37,Central Midfield,Striker,Centre-Back,0.0,0.045,1.44,0.0,0.72,0.9,0.9,0.0,0.0,0.0
+386,2018,SD Eibar,Spanish La Liga,3,3,7.2,6.9750000000000005,2.4,2.325,3.6,3.6,78.27,Right Winger,Central Midfield,Left Winger,0.0,0.0,3.6,0.0,1.8,1.8,0.0,0.0,0.0,0.0
+387,2018,SD Huesca,Spanish La Liga,5,1,7.200000000000001,0.36,1.4400000000000002,0.36,2.7,0.36,68.90999999999998,Striker,Striker,Right Winger,1.5750000000000002,0.0,0.0,0.9,0.0,2.25,0.0,0.9,0.0,0.0
+388,2018,SL Benfica,Portuguese Liga,7,13,23.049999999999997,61.90500000000001,3.2928571428571423,4.761923076923077,7.2,17.28,75.67000000000002,Striker,Attacking Midfield,Right Winger,3.81,3.15,7.2,2.16,0.0,0.0,2.29,0.0,0.63,0.0
+389,2018,SM Caen,French Ligue 1,6,3,8.955,13.05,1.4925,4.3500000000000005,2.7,5.85,52.19,Striker,Right Winger,Striker,1.7850000000000001,0.0,1.35,0.0,1.8,0.0,0.45,0.0,0.0,0.0
+390,2018,SS Lazio,Italian Serie A,6,2,42.510000000000005,34.74,7.085000000000001,17.37,13.77,34.2,76.4,Central Midfield,Left Winger,Centre-Back,13.77,9.45,6.84,0.0,0.0,2.93,0.0,6.75,2.77,0.0
+391,2018,SSC Napoli,Italian Serie A,4,8,63.449999999999996,92.51999999999998,15.862499999999999,11.564999999999998,27.0,51.3,83.09000000000002,Central Midfield,Defensive Midfield,Centre-Back,3.6,0.0,27.0,0.0,0.0,22.05,0.0,0.0,10.8,0.0
+392,2018,SV Werder Bremen,German Bundesliga,8,8,23.225,24.165000000000003,2.903125,3.0206250000000003,12.15,18.0,67.34,Central Midfield,Central Midfield,Central Midfield,4.05,0.0,6.525,0.27,0.0,2.03,0.9,0.225,2.7,0.0
+393,2018,Sevilla FC,Spanish La Liga,10,7,71.145,82.13,7.1145,11.732857142857142,18.0,32.31,81.31,Central Midfield,Centre-Back,Central Midfield,3.42,8.1,2.9250000000000003,5.4,18.0,4.6575,12.96,0.0,0.0,0.0
+394,2018,Sheffield United,English League Championship,2,2,6.029999999999999,11.16,3.0149999999999997,5.58,4.05,10.17,57.95,Central Midfield,Right Winger,Central Midfield,0.0,4.05,1.98,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+395,2018,Sheffield Wednesday,English League Championship,0,1,0.0,1.53,0.0,1.53,0.0,1.53,45.75,-1,Right-Back,Right-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+396,2018,Southampton FC,English Premier League,4,3,56.03,21.419999999999998,14.0075,7.14,22.5,10.71,66.55,Centre-Back,Centre-Back,Right-Back,0.0,22.5,0.0,10.17,16.2,0.0,0.0,0.0,0.0,7.16
+397,2018,Spartak Moscow,Russian Premier Liga,6,3,16.290000000000003,19.125,2.7150000000000003,6.375,7.2,18.0,62.39,Right Winger,Left Winger,Defensive Midfield,0.0,7.2,0.9,0.0,0.0,0.81,0.27,6.3,0.0,0.0
+398,2018,Sporting CP,Portuguese Liga,12,14,29.524999999999995,71.51900000000002,2.4604166666666663,5.108500000000001,5.85,20.25,68.41,Goalkeeper,Right Winger,Attacking Midfield,0.45,2.16,0.0,0.975,0.0,4.949999999999999,3.06,2.88,2.545,0.0
+399,2018,Stade Reims,French Ligue 1,5,2,13.95,9.9,2.79,4.95,3.6,8.1,56.88999999999999,Right-Back,Striker,Central Midfield,2.7,0.0,0.9,0.0,3.6,0.0,0.0,3.6,3.15,0.0
+400,2018,Stade Rennais FC,French Ligue 1,4,2,16.2,16.65,4.05,8.325,8.1,12.15,63.800000000000004,Central Midfield,Centre-Back,Right Winger,8.1,0.0,3.6,0.0,0.0,1.8,0.0,2.7,0.0,0.0
+401,2018,Stoke City,English League Championship,8,6,56.620000000000005,27.135,7.077500000000001,4.5225,12.15,13.23,55.35000000000001,Central Midfield,Right Winger,Central Midfield,9.675,3.11,6.255000000000001,0.0,5.04,10.08,6.53,0.0,0.0,0.0
+402,2018,Swansea City,English League Championship,4,7,6.4350000000000005,44.779999999999994,1.6087500000000001,6.397142857142856,3.06,15.17,52.43999999999999,Striker,Centre-Back,Left Winger,2.07,0.0,0.0,0.0,0.504,0.0,0.0,0.801,0.0,3.06
+403,2018,TSG 1899 Hoffenheim,German Bundesliga,7,13,28.799999999999997,5.508000000000001,4.114285714285714,0.42369230769230776,7.2,0.9,74.81999999999998,Centre-Back,Centre-Back,Centre-Back,4.95,4.95,0.0,0.0,4.95,0.45,0.0,0.0,3.15,5.4
+404,2018,Torino FC,Italian Serie A,10,7,47.835,15.485000000000001,4.7835,2.212142857142857,10.8,9.0,68.4,Centre-Back,Striker,Centre-Back,6.300000000000001,4.53375,5.625,0.0,0.0,0.0,5.31,0.0,0.54,0.0
+405,2018,Tottenham Hotspur,English Premier League,0,1,0.0,4.82,0.0,4.82,0.0,4.82,84.76,-1,Central Midfield,Central Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+406,2018,UC Sampdoria,Italian Serie A,14,9,49.680000000000014,81.122,3.5485714285714294,9.013555555555556,16.65,37.8,66.20000000000002,Striker,Striker,Right-Back,7.2,2.07,6.39,0.585,0.0,0.0,2.34,0.9,0.0,1.8
+407,2018,US Sassuolo,Italian Serie A,11,11,35.72999999999999,43.989,3.248181818181817,3.9989999999999997,6.3,13.5,63.180000000000014,Striker,Striker,Striker,4.5,3.5250000000000004,1.2375,0.0,4.5,0.0,0.0,0.18,0.0,0.0
+408,2018,Udinese Calcio,Italian Serie A,12,11,44.46000000000001,12.1699,3.7050000000000005,1.1063545454545454,18.0,4.05,57.83999999999999,Striker,Defensive Midfield,Defensive Midfield,2.5875,1.53,0.0,3.6,0.0,7.2,9.225,0.27,0.0,0.0
+409,2018,VVV-Venlo,Dutch Eredivisie,0,2,0.0,0.8999999999999999,0.0,0.44999999999999996,0.0,0.585,35.12,-1,Right Winger,Central Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+410,2018,Valencia CF,Spanish La Liga,10,8,116.27999999999999,61.92,11.627999999999998,7.74,36.0,36.36,81.06,Striker,Right-Back,Centre-Back,7.2,12.15,10.89,0.0,36.0,0.0,0.0,0.0,6.300000000000001,0.0
+411,2018,VfB Stuttgart,German Bundesliga,9,6,42.3,15.525,4.699999999999999,2.5875,9.9,12.6,59.710000000000015,Right Winger,Striker,Defensive Midfield,0.0,9.9,4.5,0.0,4.095000000000001,1.305,0.0,5.4,8.1,3.6
+412,2018,VfL Wolfsburg,German Bundesliga,6,4,36.0,4.319999999999999,6.0,1.0799999999999998,12.6,3.6,65.13,Striker,Striker,Defensive Midfield,11.024999999999999,6.3,0.0,0.45,0.0,2.7,0.0,4.5,0.0,0.0
+413,2018,Villarreal CF,Spanish La Liga,8,5,83.61,53.82,10.45125,10.764,18.0,22.5,73.69000000000003,Striker,Defensive Midfield,Central Midfield,13.4775,8.1,9.0,0.0,0.0,3.6,9.0,0.0,0.0,0.0
+414,2018,Vitesse Arnhem,Dutch Eredivisie,3,0,3.5050000000000003,0.0,1.1683333333333334,0.0,1.8,0.0,51.52,Right Winger,Right Winger,Centre-Back,0.0,0.225,1.48,0.0,0.0,1.8,0.0,0.0,0.0,0.0
+415,2018,Vitória Guimarães SC,Portuguese Liga,4,5,2.86,12.245,0.715,2.449,1.15,5.85,51.85,Striker,Right Winger,Attacking Midfield,0.63,0.0,0.0,0.0,0.72,0.36,0.0,0.0,0.0,1.15
+416,2018,Vitória Setúbal FC,Portuguese Liga,0,3,0.0,0.765,0.0,0.255,0.0,0.45,44.28,-1,Centre-Back,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+417,2018,Watford FC,English Premier League,8,8,27.1,46.656,3.3875,5.832,11.7,35.28,69.44,Left Winger,Striker,Right Winger,2.03,1.53,0.99,2.52,6.864999999999999,0.0,0.0,4.5,1.8,0.0
+418,2018,West Bromwich Albion,English League Championship,5,5,13.676,23.94,2.7352,4.788,6.62,10.8,57.580000000000005,Striker,Left Winger,Right Winger,1.8,4.05,0.0,6.62,0.0,0.45,0.0,0.756,0.0,0.0
+419,2018,West Ham United,English Premier League,7,5,90.80999999999999,13.379,12.97285714285714,2.6757999999999997,34.2,9.63,65.56999999999998,Centre-Back,Left Winger,Centre-Back,3.96,13.05,0.0,7.2,34.2,9.675,0.0,0.0,0.0,0.0
+420,2018,Wigan Athletic,English League Championship,4,2,5.081,6.26,1.27025,3.13,2.52,3.2,42.68,Striker,Centre-Back,Left-Back,1.26,0.99,0.0,0.0,0.0,0.0,0.0,0.311,0.0,2.52
+421,2018,Willem II Tilburg,Dutch Eredivisie,1,1,0.09,3.15,0.09,3.15,0.09,3.15,40.72,Central Midfield,Striker,Central Midfield,0.0,0.0,0.09,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+422,2018,Wolverhampton Wanderers,English Premier League,11,7,101.03,20.975,9.184545454545455,2.9964285714285714,18.45,12.15,68.59999999999998,Striker,Left-Back,Central Midfield,5.52,10.8,5.04,16.2,12.6,18.0,1.35,10.24,0.0,0.0
+423,2018,Zenit St. Petersburg,Russian Premier Liga,3,2,33.3,36.9,11.1,18.45,13.5,36.0,68.94,Centre-Back,Defensive Midfield,Right Winger,10.8,9.0,0.0,0.0,0.0,0.0,13.5,0.0,0.0,0.0
+424,2019,1.FC Union Berlin,German Bundesliga,6,2,6.660000000000001,1.125,1.11,0.5625,1.8,0.9,62.03,Striker,Centre-Back,Attacking Midfield,1.125,1.8,0.9,0.0,0.36,1.35,0.0,0.0,0.0,0.0
+425,2019,1.FSV Mainz 05,German Bundesliga,7,2,26.145000000000003,24.3,3.7350000000000003,12.15,7.2,22.5,63.20000000000001,Left-Back,Defensive Midfield,Striker,0.3825,7.2,6.75,0.0,0.0,0.0,0.0,3.24,4.95,0.0
+426,2019,AC Milan,Italian Serie A,7,6,94.05000000000001,54.18,13.435714285714287,9.03,21.6,21.6,74.23,Central Midfield,Central Midfield,Left-Back,20.7,9.0,14.4,0.0,0.0,3.15,14.4,18.0,0.0,0.0
+427,2019,ACF Fiorentina,Italian Serie A,12,8,40.71999999999999,13.716,3.3933333333333326,1.7145,9.9,4.95,67.74,Striker,Striker,Right-Back,4.500000000000001,0.81,5.6450000000000005,0.0,0.0,0.0,4.815,1.53,1.8,1.35
+428,2019,ADO Den Haag,Dutch Eredivisie,0,2,0.0,2.0700000000000003,0.0,1.0350000000000001,0.0,1.53,37.08,-1,Attacking Midfield,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+429,2019,AFC Bournemouth,English Premier League,5,3,50.809999999999995,31.05,10.161999999999999,10.35,16.2,20.07,66.6,Central Midfield,Centre-Back,Right Winger,0.0,0.0,14.85,0.0,16.2,2.43,0.0,13.32,4.01,0.0
+430,2019,AS Monaco,French Ligue 1,14,8,180.0,75.375,12.857142857142858,9.421875,36.0,40.5,69.15000000000003,Centre-Back,Central Midfield,Left Winger,19.8,11.4,13.5,9.225,12.15,27.0,9.45,9.0,7.2,0.0
+431,2019,AS Roma,Italian Serie A,12,15,102.69,94.3,8.5575,6.286666666666666,26.55,32.4,74.44,Central Midfield,Centre-Back,Striker,1.8,2.4,7.8,21.15,0.0,0.9,18.9,26.55,0.0,2.79
+432,2019,AS Saint-Étienne,French Ligue 1,5,5,11.700000000000001,41.26499999999999,2.3400000000000003,8.252999999999998,4.05,27.0,59.69000000000001,Right-Back,Centre-Back,Left Winger,0.0,0.0,1.8,0.0,4.05,0.0,0.0,0.9,1.8,3.15
+433,2019,AZ Alkmaar,Dutch Eredivisie,3,3,5.85,15.57,1.95,5.19,2.25,14.4,63.40999999999999,Right Winger,Attacking Midfield,Central Midfield,0.0,0.0,2.25,0.0,0.0,1.8,0.0,0.0,0.0,1.8
+434,2019,Ajax Amsterdam,Dutch Eredivisie,8,10,53.330000000000005,186.345,6.666250000000001,18.6345,14.13,76.95,81.44,Centre-Back,Centre-Back,Right Winger,0.0,5.4,11.25,1.125,7.765000000000001,0.0,13.5,0.0,0.0,0.0
+435,2019,Amiens SC,French Ligue 1,9,2,16.340000000000003,4.892,1.815555555555556,2.446,5.4,4.86,47.86000000000001,Striker,Striker,Right-Back,3.6,0.18,2.25,0.0,0.45,0.0,1.49,0.0,1.8,1.485
+436,2019,Arsenal FC,English Premier League,6,8,144.35999999999999,48.285,24.06,6.035625,72.0,27.36,77.59000000000002,Centre-Back,Right Winger,Left-Back,0.0,14.01,0.0,0.0,6.03,72.0,0.0,24.3,0.0,0.0
+437,2019,Arsenal Tula,Russian Premier Liga,5,0,3.06,0.0,0.612,0.0,1.8,0.0,51.779999999999994,Attacking Midfield,Attacking Midfield,Right Winger,0.36,0.0,0.45,0.0,0.0,0.225,0.0,0.0,0.0,1.0125
+438,2019,Aston Villa,English Premier League,13,2,143.19,3.6,11.014615384615384,1.8,22.5,2.7,63.63999999999999,Centre-Back,Striker,Central Midfield,15.975,10.575000000000001,0.0,7.92,9.0,6.074999999999999,12.96,13.95,0.0,0.0
+439,2019,Atalanta BC,Italian Serie A,7,11,51.129999999999995,86.40009,7.304285714285713,7.854553636363637,18.09,31.5,77.36999999999999,Striker,Right Winger,Centre-Back,14.445,2.7,0.0,0.0,0.0,0.0,0.46,4.14,0.0,12.24
+440,2019,Atlético Madrid,Spanish La Liga,7,8,219.15,281.52,31.307142857142857,35.19,113.4,108.0,85.01,Striker,Striker,Striker,56.925000000000004,20.25,0.0,0.0,0.0,0.0,27.0,18.0,19.8,0.0
+441,2019,Barnsley FC,English League Championship,9,3,5.630999999999999,7.48,0.6256666666666666,2.4933333333333336,1.22,3.02,39.24,Centre-Back,Centre-Back,Attacking Midfield,1.08,0.5176666666666666,0.45,0.0,0.99,1.22,0.0,0.0,0.203,0.135
+442,2019,Bayer 04 Leverkusen,German Bundesliga,6,2,86.39999999999999,30.15,14.399999999999999,15.075,28.8,22.5,81.03,Central Midfield,Central Midfield,Left-Back,0.0,16.2,22.05,0.0,13.5,0.0,0.0,4.5,0.0,8.1
+443,2019,Bayern Munich,German Bundesliga,6,3,129.15,48.6,21.525000000000002,16.2,72.0,27.45,93.77,Right-Back,Centre-Back,Striker,2.7,72.0,10.8,0.0,4.5,0.0,0.0,0.0,31.5,7.65
+444,2019,Belenenses SAD,Portuguese Liga,0,1,0.0,2.7,0.0,2.7,0.0,2.7,38.69,-1,Left-Back,Left-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+445,2019,Birmingham City,English League Championship,3,4,9.252,21.419999999999998,3.084,5.3549999999999995,7.2,15.03,46.410000000000004,Attacking Midfield,Striker,Attacking Midfield,1.35,0.0,0.0,0.0,0.0,0.0,7.2,0.0,0.0,0.702
+446,2019,Blackburn Rovers,English League Championship,1,1,5.85,3.02,5.85,3.02,5.85,3.02,47.93,Striker,Striker,Goalkeeper,5.85,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+447,2019,Boavista FC,Portuguese Liga,0,1,0.0,2.7,0.0,2.7,0.0,2.7,44.13,-1,Centre-Back,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+448,2019,Bologna FC 1909,Italian Serie A,13,7,64.434,24.3,4.9564615384615385,3.4714285714285715,13.5,9.0,63.25,Central Midfield,Right Winger,Centre-Back,0.0,2.734666666666667,5.843333333333334,0.0,4.05,6.8999999999999995,1.8,0.0,8.1,0.0
+449,2019,Borussia Dortmund,German Bundesliga,7,12,133.65,111.38,19.092857142857145,9.281666666666666,27.45,28.8,84.27,Striker,Centre-Back,Defensive Midfield,18.45,27.45,22.5,0.0,22.95,0.0,0.9,22.95,0.0,0.0
+450,2019,Borussia Mönchengladbach,German Bundesliga,4,3,36.45,34.29,9.1125,11.43,11.25,22.95,74.45,Right-Back,Left Winger,Right-Back,9.9,0.0,0.0,0.0,8.1,0.0,0.0,7.2,11.25,0.0
+451,2019,Brentford FC,English League Championship,10,4,31.205000000000002,36.83,3.1205000000000003,9.2075,5.85,20.0,62.679999999999986,Central Midfield,Striker,Left Winger,2.7,4.28,2.7249999999999996,3.02,0.675,3.8249999999999997,3.15,0.0,0.0,0.0
+452,2019,Brescia Calcio,Italian Serie A,8,1,16.79,0.09,2.09875,0.09,4.5,0.09,51.25,Left Winger,Goalkeeper,Centre-Back,1.8,1.44,0.0,4.5,2.95,0.0,0.0,0.72,1.62,0.81
+453,2019,Brighton & Hove Albion,English Premier League,6,4,67.45,6.75,11.241666666666667,1.6875,20.0,4.05,68.76,Centre-Back,Centre-Back,Left-Back,20.0,11.754999999999999,2.97,0.0,18.0,0.0,0.0,0.0,2.97,0.0
+454,2019,Bristol City,English League Championship,8,5,30.11,43.864000000000004,3.76375,8.7728,8.1,20.0,48.65999999999998,Attacking Midfield,Centre-Back,Attacking Midfield,4.28,8.1,7.2,1.98,0.0,0.0,2.25,2.16,0.0,2.07
+455,2019,Burnley FC,English Premier League,4,2,17.47,12.2,4.3675,6.1,9.0,7.92,69.72000000000001,Central Midfield,Central Midfield,Left-Back,5.0,0.0,9.0,2.48,0.0,0.0,0.0,0.99,0.0,0.0
+456,2019,CA Osasuna,Spanish La Liga,8,1,12.785,0.27,1.598125,0.27,2.93,0.27,69.71,Striker,Attacking Midfield,Centre-Back,2.1599999999999997,0.225,0.9,0.0,0.45,1.8,0.0,0.0,0.0,2.93
+457,2019,CD Leganés,Spanish La Liga,6,8,14.76,36.738,2.46,4.59225,4.5,18.0,67.96000000000001,Striker,Striker,Attacking Midfield,2.925,4.5,0.0,0.0,0.0,0.0,0.0,2.43,1.08,0.9
+458,2019,CD Santa Clara,Portuguese Liga,0,2,0.0,2.835,0.0,1.4175,0.0,2.7,45.19,-1,Centre-Back,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+459,2019,CD Tondela,Portuguese Liga,0,2,0.0,1.0350000000000001,0.0,0.5175000000000001,0.0,0.675,40.39,-1,Striker,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+460,2019,CS Marítimo,Portuguese Liga,1,0,0.225,0.0,0.225,0.0,0.225,0.0,39.04,Centre-Back,Centre-Back,Centre-Back,0.0,0.225,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+461,2019,CSKA Moscow,Russian Premier Liga,7,4,16.722,2.3579999999999997,2.3888571428571432,0.5894999999999999,14.13,1.8,65.01,Centre-Back,Attacking Midfield,Goalkeeper,0.45,0.4905,0.0,0.0,0.18,0.0,0.0,0.0,0.0,14.13
+462,2019,Cagliari Calcio,Italian Serie A,9,5,38.16,16.92,4.239999999999999,3.3840000000000003,16.2,10.8,58.44000000000002,Central Midfield,Central Midfield,Right-Back,5.4,0.0,9.0,1.8,0.0,0.0,4.5,0.0,0.63,1.8
+463,2019,Cardiff City,English League Championship,6,3,16.224000000000004,17.82,2.7040000000000006,5.94,5.4,8.01,51.46,Striker,Striker,Central Midfield,3.6900000000000004,4.01,0.734,0.0,0.0,1.98,2.12,0.0,0.0,0.0
+464,2019,Celta de Vigo,Spanish La Liga,6,7,22.139999999999997,35.685,3.6899999999999995,5.097857142857143,11.61,18.0,68.71000000000001,Centre-Back,Defensive Midfield,Right Winger,0.63,4.05,0.45,0.0,0.0,0.0,0.0,0.0,0.0,6.4799999999999995
+465,2019,Charlton Athletic,English League Championship,1,1,0.203,1.98,0.203,1.98,0.203,1.98,37.89,Striker,Right-Back,Striker,0.203,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+466,2019,Chelsea FC,English Premier League,1,9,40.5,141.539,40.5,15.726555555555555,40.5,103.5,85.44000000000001,Central Midfield,Left Winger,Right Winger,0.0,0.0,40.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+467,2019,Crystal Palace,English Premier League,3,2,6.84,49.838,2.28,24.919,2.97,49.5,69.86,Central Midfield,Right-Back,Striker,2.52,0.0,2.16,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+468,2019,Deportivo Alavés,Spanish La Liga,5,3,9.7,20.25,1.94,6.75,2.07,16.2,65.4,Striker,Centre-Back,Striker,2.033333333333333,0.0,0.0,0.0,1.8,0.0,1.8,0.0,0.0,0.0
+469,2019,Derby County,English League Championship,1,1,7.38,1.22,7.38,1.22,7.38,1.22,47.8,Defensive Midfield,Defensive Midfield,Right Winger,0.0,0.0,0.0,0.0,0.0,0.0,7.38,0.0,0.0,0.0
+470,2019,Desportivo Aves,Portuguese Liga,0,1,0.0,0.36,0.0,0.36,0.0,0.36,37.53,-1,Attacking Midfield,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+471,2019,Dijon FCO,French Ligue 1,6,6,7.470000000000001,22.95,1.245,3.8249999999999997,3.15,7.2,50.76,Left-Back,Right Winger,Left-Back,0.9,1.8,0.0,0.9,3.15,0.0,0.0,0.36,0.0,0.0
+472,2019,Dynamo Moscow,Russian Premier Liga,9,2,38.699999999999996,0.99,4.3,0.495,18.0,0.63,48.61000000000001,Striker,Striker,Defensive Midfield,6.975,0.0,0.45,0.0,0.0,4.95,0.0,1.8,0.0,0.0
+473,2019,Eintracht Frankfurt,German Bundesliga,10,6,69.75,100.62,6.975,16.77,20.25,54.0,72.32,Central Midfield,Striker,Central Midfield,10.05,8.1,6.45,6.3,5.4,0.0,0.45,0.0,0.0,0.0
+474,2019,Everton FC,English Premier League,7,5,108.89999999999999,72.45,15.557142857142855,14.49,27.36,27.0,77.64,Central Midfield,Left Winger,Centre-Back,24.75,0.99,15.525,0.0,27.36,0.0,22.5,0.0,2.25,0.0
+475,2019,FC Augsburg,German Bundesliga,10,5,28.349999999999998,17.549999999999997,2.835,3.5099999999999993,6.75,8.1,61.64999999999999,Centre-Back,Centre-Back,Striker,2.25,1.3500000000000003,0.0,6.75,3.6,1.53,3.6,3.2849999999999997,0.0,0.0
+476,2019,FC Barcelona,Spanish La Liga,7,13,245.7,143.01000000000002,35.1,11.000769230769233,108.0,36.0,89.80999999999999,Striker,Striker,Right Winger,62.1,0.0,67.5,23.4,3.6,0.0,0.0,16.2,10.8,0.0
+477,2019,FC Emmen,Dutch Eredivisie,1,2,0.45,1.395,0.45,0.6975,0.45,1.35,34.29,Striker,Goalkeeper,Right Winger,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+478,2019,FC Girondins Bordeaux,French Ligue 1,3,6,15.3,47.025,5.1000000000000005,7.8374999999999995,9.0,22.5,57.489999999999995,Right Winger,Centre-Back,Right Winger,1.8,4.5,0.0,0.0,0.0,9.0,0.0,0.0,0.0,0.0
+479,2019,FC Groningen,Dutch Eredivisie,1,4,0.135,14.36,0.135,3.59,0.135,6.75,43.37,Attacking Midfield,Right Winger,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.135
+480,2019,FC Metz,French Ligue 1,5,2,12.915000000000001,2.34,2.583,1.17,5.4,1.62,53.25,Central Midfield,Central Midfield,Central Midfield,0.0,3.6,2.8575000000000004,0.0,0.0,0.0,0.9,0.0,2.7,0.0
+481,2019,FC Nantes,French Ligue 1,7,6,17.145000000000003,34.650000000000006,2.4492857142857147,5.775000000000001,7.2,13.5,62.01,Right-Back,Centre-Back,Striker,3.6,1.35,0.0,0.72,0.0,2.7,0.9,0.0,0.675,7.2
+482,2019,FC Paços de Ferreira,Portuguese Liga,1,1,0.045,0.9,0.045,0.9,0.045,0.9,41.94,Left Winger,Centre-Back,Left Winger,0.0,0.0,0.0,0.0,0.045,0.0,0.0,0.0,0.0,0.0
+483,2019,FC Porto,Portuguese Liga,8,6,56.79,79.20000000000002,7.09875,13.200000000000003,10.8,45.0,76.21000000000001,Left Winger,Centre-Back,Centre-Back,9.68,2.63,8.55,6.93,8.65,0.0,6.75,0.0,4.95,0.0
+484,2019,FC Schalke 04,German Bundesliga,5,10,23.400000000000002,17.235000000000003,4.680000000000001,1.7235000000000003,13.5,9.9,68.33000000000001,Centre-Back,Centre-Back,Striker,0.45,7.425,0.0,0.0,5.85,2.25,0.0,0.0,0.0,0.0
+485,2019,FC Sochi,Russian Premier Liga,8,0,12.510000000000002,0.0,1.5637500000000002,0.0,3.6,0.0,44.78,Striker,Centre-Back,Striker,1.395,2.7,0.45,0.0,0.0,0.0,0.72,2.7,0.0,0.45
+486,2019,FC Toulouse,French Ligue 1,3,5,12.6,15.440000000000001,4.2,3.088,7.2,7.2,51.92,Right Winger,Right Winger,Centre-Back,3.15,2.25,0.0,0.0,0.0,7.2,0.0,0.0,0.0,0.0
+487,2019,FC Utrecht,Dutch Eredivisie,2,3,1.3050000000000002,3.285,0.6525000000000001,1.095,0.675,2.79,51.83,Right Winger,Left-Back,Striker,0.63,0.0,0.0,0.0,0.0,0.675,0.0,0.0,0.0,0.0
+488,2019,FK Krasnodar,Russian Premier Liga,6,5,27.36,18.270000000000003,4.56,3.654000000000001,10.8,6.3,68.77999999999999,Centre-Back,Attacking Midfield,Defensive Midfield,0.0,3.1500000000000004,8.1,0.0,0.0,0.0,0.36,0.0,0.0,6.300000000000001
+489,2019,FK Orenburg,Russian Premier Liga,5,2,0.9530000000000001,2.88,0.19060000000000002,1.44,0.378,1.8,46.82999999999999,Centre-Back,Right Winger,Centre-Back,0.135,0.1975,0.171,0.252,0.0,0.0,0.0,0.0,0.0,0.0
+490,2019,FK Rostov,Russian Premier Liga,9,2,1.258,4.005,0.13977777777777778,2.0025,0.45,3.6,52.5,Striker,Left Winger,Striker,0.032999999999999995,0.169,0.0,0.27,0.0,0.0,0.0,0.1405,0.0,0.0
+491,2019,FK Tambov,Russian Premier Liga,0,3,0.0,0.698,0.0,0.23266666666666666,0.0,0.36,42.36,-1,Centre-Back,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+492,2019,FK Ufa,Russian Premier Liga,3,5,0.594,7.02,0.19799999999999998,1.404,0.252,2.25,46.9,Attacking Midfield,Right-Back,Striker,0.162,0.0,0.0,0.0,0.0,0.0,0.252,0.0,0.0,0.18
+493,2019,Feyenoord Rotterdam,Dutch Eredivisie,3,4,10.17,20.16,3.39,5.04,6.3,8.1,57.11000000000001,Centre-Back,Central Midfield,Centre-Back,3.6,3.285,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+494,2019,Fortuna Düsseldorf,German Bundesliga,5,2,9.68,7.199999999999999,1.936,3.5999999999999996,6.08,5.85,60.050000000000004,Right Winger,Striker,Right Winger,6.08,0.0,0.0,0.0,1.485,0.315,0.0,0.0,0.0,0.0
+495,2019,Fulham FC,English League Championship,5,2,33.3,25.650000000000002,6.659999999999999,12.825000000000001,10.62,24.3,59.86000000000001,Left Winger,Left Winger,Central Midfield,8.01,5.31,0.0,0.0,7.965,4.05,0.0,0.0,0.0,0.0
+496,2019,Genoa CFC,Italian Serie A,11,8,44.14509,52.29,4.013190000000001,6.53625,14.85,23.4,58.04,Central Midfield,Centre-Back,Centre-Back,6.3,1.125045,7.5,7.2,0.0,0.0,0.6975,3.6,0.9,0.0
+497,2019,Getafe CF,Spanish La Liga,6,3,19.35,10.125,3.225,3.375,7.2,8.1,77.57,Striker,Centre-Back,Left Winger,3.375,4.275,1.35,0.0,0.0,0.0,0.0,0.0,2.7,0.0
+498,2019,Gil Vicente FC,Portuguese Liga,3,1,0.336,1.13,0.112,1.13,0.27,1.13,44.69,Goalkeeper,Centre-Back,Goalkeeper,0.045,0.0,0.0,0.021,0.0,0.0,0.0,0.0,0.0,0.27
+499,2019,Granada CF,Spanish La Liga,5,1,7.875,0.27,1.575,0.27,2.7,0.27,69.02999999999999,Central Midfield,Left Winger,Attacking Midfield,1.35,2.7,0.9,0.0,2.7,0.0,0.0,0.0,0.0,0.225
+500,2019,Heracles Almelo,Dutch Eredivisie,0,4,0.0,7.515,0.0,1.87875,0.0,4.14,40.99,-1,Left-Back,Left Winger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+501,2019,Hertha BSC,German Bundesliga,9,3,99.63,21.101,11.07,7.033666666666666,22.5,20.16,65.71000000000001,Striker,Defensive Midfield,Goalkeeper,13.410000000000002,0.0,4.05,0.0,0.0,9.9,15.75,0.0,0.0,0.0
+502,2019,Huddersfield Town,English League Championship,3,7,11.7,26.195,3.9,3.742142857142857,11.25,14.85,49.34000000000001,Right-Back,Central Midfield,Centre-Back,0.0,0.18,0.0,0.0,11.25,0.0,0.0,0.0,0.27,0.0
+503,2019,Hull City,English League Championship,3,2,3.326,20.025000000000002,1.1086666666666667,10.012500000000001,1.58,19.17,46.56,Left-Back,Right Winger,Attacking Midfield,1.58,0.0,0.0,0.0,0.0,0.0,0.0,1.35,0.0,0.396
+504,2019,Inter Milan,Italian Serie A,12,13,171.28399999999996,61.83,14.273666666666664,4.756153846153846,66.6,15.71,80.16,Right Winger,Striker,Right Winger,37.169999999999995,0.0,6.390000000000001,7.47,1.53,13.114666666666666,4.05,0.0,0.0,24.3
+505,2019,Juventus FC,Italian Serie A,6,12,201.15,181.30500000000004,33.525,15.108750000000002,76.95,58.5,85.40000000000002,Centre-Back,Centre-Back,Centre-Back,0.0,38.85,0.0,0.0,0.0,31.5,0.0,19.8,33.3,0.0
+506,2019,Krylya Sovetov Samara,Russian Premier Liga,4,3,0.738,2.7150000000000003,0.1845,0.9050000000000001,0.45,2.25,42.63,Centre-Back,Centre-Back,Striker,0.018,0.2925,0.0,0.0,0.0,0.0,0.135,0.0,0.0,0.0
+507,2019,LOSC Lille,French Ligue 1,11,5,90.0,128.7,8.181818181818182,25.74,20.16,72.0,70.73,Central Midfield,Right Winger,Centre-Back,14.58,2.52,12.15,5.4,0.0,0.0,1.8,4.275,0.0,15.75
+508,2019,Leeds United,English League Championship,0,9,0.0,27.371000000000002,0.0,3.0412222222222223,0.0,9.9,66.94,-1,Right Winger,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+509,2019,Leicester City,English Premier League,4,2,93.87,79.64999999999999,23.4675,39.824999999999996,40.5,78.3,80.65999999999998,Central Midfield,Centre-Back,Left-Back,0.0,0.0,28.89,0.0,0.0,30.06,0.0,0.0,6.03,0.0
+510,2019,Levante UD,Spanish La Liga,3,6,11.34,13.1,3.78,2.183333333333333,4.5,7.2,63.79999999999999,Central Midfield,Centre-Back,Centre-Back,3.6,4.5,3.24,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+511,2019,Liverpool FC,English Premier League,2,6,9.36,37.44,4.68,6.239999999999999,7.65,19.98,92.75,Left Winger,Striker,Striker,0.0,1.71,0.0,0.0,7.65,0.0,0.0,0.0,0.0,0.0
+512,2019,Lokomotiv Moscow,Russian Premier Liga,4,1,17.55,0.63,4.3875,0.63,10.8,0.63,62.75,Right-Back,Defensive Midfield,Striker,2.25,2.25,0.0,0.0,0.0,0.0,10.8,0.0,2.25,0.0
+513,2019,Luton Town,English League Championship,2,2,1.6340000000000001,10.04,0.8170000000000001,5.02,1.53,6.03,36.07,Right-Back,Right-Back,Right-Back,0.0,0.0,0.0,1.53,0.0,0.0,0.0,0.0,0.104,0.0
+514,2019,Manchester City,English Premier League,6,5,150.14000000000001,62.1,25.023333333333337,12.42,63.0,33.3,94.87999999999998,Right-Back,Defensive Midfield,Attacking Midfield,0.0,0.0,0.0,6.14,0.0,0.0,63.0,10.8,34.65,0.9
+515,2019,Manchester United,English Premier League,4,4,192.6,73.06,48.15,18.265,78.3,66.6,82.99,Right-Back,Centre-Back,Left Winger,0.0,78.3,0.0,0.0,15.3,0.0,0.0,0.0,49.5,49.5
+516,2019,Middlesbrough FC,English League Championship,3,3,3.168,12.74,1.056,4.246666666666667,1.98,4.5,46.63999999999999,Goalkeeper,Striker,Attacking Midfield,0.0,0.0,0.0,0.99,0.0,0.0,0.0,0.0,1.98,0.198
+517,2019,Millwall FC,English League Championship,2,0,1.755,0.0,0.8775,0.0,0.99,0.0,48.46,Right Winger,Right Winger,Striker,0.765,0.0,0.0,0.0,0.0,0.99,0.0,0.0,0.0,0.0
+518,2019,Montpellier HSC,French Ligue 1,5,4,18.270000000000003,36.0,3.654000000000001,9.0,8.55,12.15,62.27000000000001,Central Midfield,Goalkeeper,Goalkeeper,4.05,0.0,5.175000000000001,1.35,0.0,0.0,0.0,0.0,2.52,0.0
+519,2019,Moreirense FC,Portuguese Liga,2,1,1.8050000000000002,3.6,0.9025000000000001,3.6,1.58,3.6,43.59,Attacking Midfield,Striker,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9025000000000001
+520,2019,Newcastle United,English Premier League,7,2,65.61,32.08,9.372857142857143,16.04,39.6,30.06,64.52,Left-Back,Striker,Left-Back,39.6,0.0,0.9,0.0,16.2,1.35,0.0,1.35,4.86,0.0
+521,2019,Norwich City,English Premier League,5,3,7.939000000000001,1.98,1.5878,0.66,3.74,0.9,60.07,Central Midfield,Left-Back,Striker,0.0,0.0,0.376,2.7,0.0,0.0,0.0,3.74,0.747,0.0
+522,2019,Nottingham Forest,English League Championship,6,5,7.2,15.979999999999999,1.2,3.1959999999999997,1.98,7.97,49.18999999999999,Right-Back,Right Winger,Centre-Back,1.8,0.45,0.0,1.89,0.0,0.0,0.63,0.45,1.98,0.0
+523,2019,OGC Nice,French Ligue 1,5,6,47.25,20.8,9.45,3.466666666666667,18.45,16.2,58.65,Central Midfield,Striker,Left Winger,18.45,0.0,3.6,0.0,11.7,2.25,0.0,11.25,0.0,0.0
+524,2019,Olympique Lyon,French Ligue 1,9,9,113.39999999999999,142.493,12.6,15.832555555555555,22.5,54.0,73.69,Central Midfield,Central Midfield,Central Midfield,7.2,21.6,12.375,0.0,0.0,0.0,19.8,8.1,0.0,0.0
+525,2019,Olympique Marseille,French Ligue 1,2,4,24.299999999999997,24.525,12.149999999999999,6.13125,12.6,13.5,66.83,Central Midfield,Right Winger,Right Winger,12.6,0.0,11.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+526,2019,PEC Zwolle,Dutch Eredivisie,3,3,1.215,5.3100000000000005,0.405,1.7700000000000002,0.54,1.8,35.63,Centre-Back,Attacking Midfield,Left-Back,0.0,0.36,0.0,0.54,0.0,0.0,0.0,0.315,0.0,0.0
+527,2019,PSV Eindhoven,Dutch Eredivisie,6,7,33.08,86.265,5.513333333333333,12.323571428571428,13.5,34.2,67.55999999999997,Left-Back,Left Winger,Left-Back,1.13,9.0,0.0,0.0,13.5,6.75,0.0,1.35,0.0,0.0
+528,2019,Paris Saint-Germain,French Ligue 1,4,11,85.5,95.30999999999999,21.375,8.664545454545454,28.8,19.8,88.06999999999996,Defensive Midfield,Centre-Back,Goalkeeper,0.0,28.8,0.0,13.5,0.0,16.2,27.0,0.0,0.0,0.0
+529,2019,Portimonense SC,Portuguese Liga,1,0,1.98,0.0,1.98,0.0,1.98,0.0,45.26,Attacking Midfield,Attacking Midfield,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.98
+530,2019,Preston North End,English League Championship,1,1,1.98,7.02,1.98,7.02,1.98,7.02,49.33,Central Midfield,Left Winger,Central Midfield,0.0,0.0,1.98,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+531,2019,Queens Park Rangers,English League Championship,1,3,0.054,7.5600000000000005,0.054,2.52,0.054,5.04,48.26,Goalkeeper,Attacking Midfield,Goalkeeper,0.0,0.0,0.0,0.054,0.0,0.0,0.0,0.0,0.0,0.0
+532,2019,RB Leipzig,German Bundesliga,8,6,68.85,45.0,8.60625,7.5,18.9,16.2,85.11999999999999,Attacking Midfield,Attacking Midfield,Goalkeeper,3.15,0.585,0.0,0.315,16.2,0.0,0.0,7.2,0.0,13.799999999999999
+533,2019,RC Strasbourg Alsace,French Ligue 1,5,4,9.9,19.35,1.98,4.8375,4.05,13.5,61.900000000000006,Central Midfield,Central Midfield,Centre-Back,0.0,2.7,1.35,0.0,1.8,0.0,0.0,0.0,0.0,0.0
+534,2019,RCD Espanyol Barcelona,Spanish La Liga,6,3,55.35,53.1,9.225,17.7,20.25,25.2,68.41,Centre-Back,Striker,Goalkeeper,20.25,7.65,0.0,1.35,9.45,9.0,0.0,0.0,0.0,0.0
+535,2019,RCD Mallorca,Spanish La Liga,5,0,6.750000000000001,0.0,1.35,0.0,1.98,0.0,61.6,Striker,Striker,Left-Back,1.575,1.35,0.0,0.0,0.0,1.8,0.0,0.45,0.0,0.0
+536,2019,RKC Waalwijk,Dutch Eredivisie,1,1,0.09,0.45,0.09,0.45,0.09,0.45,29.37,Attacking Midfield,Attacking Midfield,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.09
+537,2019,Reading FC,English League Championship,2,1,11.61,0.765,5.805,0.765,6.75,0.765,44.51,Striker,Striker,Striker,5.805,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+538,2019,Real Betis Balompié,Spanish La Liga,8,9,90.23,63.0,11.27875,7.0,25.2,21.15,70.75,Central Midfield,Striker,Central Midfield,25.2,0.0,19.8,4.5,0.0,7.2,4.05,6.3,5.4,17.78
+539,2019,Real Madrid,Spanish La Liga,8,5,317.25,117.0,39.65625,23.4,103.5,40.5,88.49,Right Winger,Left Winger,Goalkeeper,54.0,45.0,0.0,1.8,103.5,21.375,0.0,43.2,0.0,27.0
+540,2019,Real Sociedad,Spanish La Liga,4,2,19.125,8.55,4.78125,4.275,9.0,7.2,75.94,Striker,Right Winger,Left-Back,5.85,4.05,0.0,0.0,0.0,9.0,0.0,0.225,0.0,0.0
+541,2019,Real Valladolid CF,Spanish La Liga,2,1,1.26,7.2,0.63,7.2,0.9,7.2,63.15,Right Winger,Centre-Back,Striker,0.36,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0
+542,2019,Rio Ave FC,Portuguese Liga,2,1,1.5750000000000002,5.4,0.7875000000000001,5.4,0.9,5.4,53.19,Right Winger,Goalkeeper,Right Winger,0.0,0.0,0.0,0.9,0.0,0.675,0.0,0.0,0.0,0.0
+543,2019,Rubin Kazan,Russian Premier Liga,10,4,12.104999999999999,7.110000000000001,1.2105,1.7775000000000003,6.3,3.6,43.63999999999999,Centre-Back,Striker,Left-Back,6.3,0.69,0.0,0.0,0.0,0.7800000000000001,0.0,0.045,0.9,0.45
+544,2019,SC Braga,Portuguese Liga,4,6,4.955,26.909999999999997,1.23875,4.484999999999999,3.15,9.9,62.04,Centre-Back,Left Winger,Centre-Back,0.0,0.7449999999999999,0.0,0.0,3.15,0.0,0.0,0.315,0.0,0.0
+545,2019,SC Freiburg,German Bundesliga,5,7,16.650000000000002,7.291,3.3300000000000005,1.0415714285714286,6.3,2.7,62.6,Right Winger,Left Winger,Left Winger,0.0,0.0,0.0,0.0,6.3,2.25,0.0,2.25,3.6,0.0
+546,2019,SC Heerenveen,Dutch Eredivisie,4,4,2.97,11.565,0.7425,2.89125,1.8,6.21,41.66,Striker,Attacking Midfield,Striker,0.3375,0.0,0.0,0.0,1.8,0.0,0.495,0.0,0.0,0.0
+547,2019,SC Paderborn 07,German Bundesliga,3,3,0.675,5.04,0.225,1.68,0.36,2.25,56.029999999999994,Central Midfield,Right Winger,Central Midfield,0.18,0.0,0.135,0.0,0.0,0.0,0.36,0.0,0.0,0.0
+548,2019,SCO Angers,French Ligue 1,5,2,9.36,30.6,1.8719999999999999,15.3,3.15,22.5,60.87,Left Winger,Central Midfield,Goalkeeper,0.0,0.0,1.35,0.81,2.0250000000000004,3.15,0.0,0.0,0.0,0.0
+549,2019,SD Eibar,Spanish La Liga,6,4,15.39,24.3,2.565,6.075,3.6,12.6,70.89,Central Midfield,Central Midfield,Right Winger,2.97,2.7,3.06,0.0,1.8,0.0,0.0,0.0,0.0,0.0
+550,2019,SL Benfica,Portuguese Liga,5,11,57.15,215.10000000000002,11.43,19.55454545454546,18.0,113.4,75.07,Striker,Striker,Goalkeeper,9.7875,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0.0,0.0
+551,2019,SS Lazio,Italian Serie A,11,6,41.0789,30.599999999999998,3.734445454545454,5.1,12.38,16.11,73.25,Central Midfield,Left Winger,Left-Back,0.117,4.799499999999999,1.944,0.0,5.605,12.38,1.94,0.0009,0.0,0.0
+552,2019,SSC Napoli,Italian Serie A,14,9,176.85,47.34,12.632142857142856,5.260000000000001,34.2,18.9,78.72000000000001,Goalkeeper,Left Winger,Centre-Back,8.1,22.5,7.65,9.299999999999999,34.2,2.25,14.4,0.0,7.2,0.0
+553,2019,SV Werder Bremen,German Bundesliga,7,0,12.555000000000001,0.0,1.7935714285714288,0.0,5.85,0.0,64.69,Centre-Back,Striker,Right-Back,3.375,1.575,0.0,0.0,0.0,0.0,0.0,0.0,0.54,0.54
+554,2019,Sevilla FC,Spanish La Liga,13,10,159.98,117.76,12.306153846153846,11.776,22.5,36.0,79.81999999999998,Striker,Striker,Central Midfield,12.8825,15.15,7.6499999999999995,0.0,0.0,18.0,4.05,0.0,0.0,0.0
+555,2019,Sheffield United,English Premier League,6,2,64.35,0.315,10.725,0.1575,21.6,0.18,69.45,Striker,Defensive Midfield,Striker,13.59,0.0,0.0,0.0,5.265,0.0,21.6,0.0,0.0,5.04
+556,2019,Sheffield Wednesday,English League Championship,1,1,0.99,4.86,0.99,4.86,0.99,4.86,48.61,Central Midfield,Striker,Central Midfield,0.0,0.0,0.99,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+557,2019,Southampton FC,English Premier League,4,4,52.74,24.569999999999997,13.185,6.142499999999999,19.98,13.95,69.46,Striker,Striker,Defensive Midfield,17.505,3.6,0.0,0.0,14.13,0.0,0.0,0.0,0.0,0.0
+558,2019,Spartak Moscow,Russian Premier Liga,7,6,36.45000000000001,27.679999999999996,5.207142857142858,4.613333333333332,14.4,9.68,55.15999999999998,Striker,Attacking Midfield,Striker,2.2500000000000004,0.0,0.0,0.0,2.25,0.0,10.8,0.0,0.0,14.4
+559,2019,Sporting CP,Portuguese Liga,6,11,25.65,93.983,4.2749999999999995,8.543909090909091,6.75,49.5,63.64000000000001,Striker,Attacking Midfield,Striker,6.075,0.0,0.0,0.0,1.8,4.5,2.7,0.0,4.5,0.0
+560,2019,Stade Brest 29,French Ligue 1,4,1,6.75,0.45,1.6875,0.45,1.8,0.45,53.82000000000001,Striker,Centre-Back,Centre-Back,1.35,1.8,0.0,0.0,0.0,0.0,1.8,1.8,0.0,0.0
+561,2019,Stade Reims,French Ligue 1,6,4,16.830000000000002,20.700000000000003,2.805,5.175000000000001,4.5,9.0,57.239999999999995,Striker,Right Winger,Striker,2.25,3.1500000000000004,0.0,4.5,0.0,1.53,0.0,0.0,0.0,0.0
+562,2019,Stade Rennais FC,French Ligue 1,6,5,49.050000000000004,49.05,8.175,9.809999999999999,18.9,27.0,63.61000000000001,Striker,Right Winger,Striker,7.425,0.0,3.6,3.6,8.1,18.9,0.0,0.0,0.0,0.0
+563,2019,Stoke City,English League Championship,2,2,6.039999999999999,1.148,3.0199999999999996,0.574,4.01,0.99,52.23,Right-Back,Right-Back,Central Midfield,0.0,2.03,0.0,0.0,0.0,0.0,0.0,0.0,4.01,0.0
+564,2019,Swansea City,English League Championship,1,3,0.495,35.010000000000005,0.495,11.670000000000002,0.495,17.19,49.76,Left Winger,Striker,Left Winger,0.0,0.0,0.0,0.0,0.495,0.0,0.0,0.0,0.0,0.0
+565,2019,TSG 1899 Hoffenheim,German Bundesliga,7,11,50.26500000000001,109.08,7.180714285714287,9.916363636363636,12.6,39.6,70.63000000000001,Defensive Midfield,Striker,Central Midfield,10.8,0.0,0.0,0.0,4.725,8.325,6.6825,0.0,0.0,0.0
+566,2019,Torino FC,Italian Serie A,6,4,26.28,21.96,4.38,5.49,10.8,13.5,59.11999999999999,Left-Back,Striker,Left-Back,10.8,2.7,0.0,0.0,0.0,1.26,0.0,1.35,8.82,0.0
+567,2019,Tottenham Hotspur,English Premier League,6,5,133.65000000000003,58.05,22.275000000000006,11.61,54.0,24.3,80.87,Central Midfield,Central Midfield,Left-Back,0.0,0.0,24.150000000000002,0.0,25.65,9.9,0.0,0.0,0.0,0.0
+568,2019,UC Sampdoria,Italian Serie A,10,12,58.455,67.046,5.8454999999999995,5.5871666666666675,18.0,21.6,61.319999999999986,Central Midfield,Centre-Back,Right Winger,0.0,6.18,5.445,18.0,0.0,0.45,0.0,0.0,4.05,1.08
+569,2019,US Lecce,Italian Serie A,7,2,5.535,0.405,0.7907142857142857,0.2025,1.8,0.225,51.01,Striker,Right-Back,Centre-Back,1.125,0.09,0.0,0.0,0.0,0.0,0.45,0.4725,1.8,0.0
+570,2019,US Sassuolo,Italian Serie A,13,15,55.4,44.7417,4.2615384615384615,2.98278,11.25,18.99,62.14000000000002,Centre-Back,Right Winger,Striker,4.5,2.91,8.775,6.3,0.0,0.0,0.0,2.7600000000000002,2.7699999999999996,0.0
+571,2019,Udinese Calcio,Italian Serie A,5,10,11.34,51.547000000000004,2.268,5.1547,5.4,23.4,58.299999999999976,Centre-Back,Goalkeeper,Right Winger,1.35,1.395,0.0,0.0,0.0,0.0,5.4,1.8,0.0,0.0
+572,2019,VVV-Venlo,Dutch Eredivisie,1,1,0.45,2.25,0.45,2.25,0.45,2.25,30.06,Striker,Striker,Striker,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+573,2019,Valencia CF,Spanish La Liga,6,4,67.49999999999999,50.67,11.249999999999998,12.6675,31.5,23.4,71.33000000000001,Left Winger,Goalkeeper,Centre-Back,13.05,1.8,0.0,31.5,5.175000000000001,0.0,0.0,0.0,10.8,0.0
+574,2019,VfL Wolfsburg,German Bundesliga,5,6,34.92,12.87,6.984,2.145,13.5,4.5,72.89999999999999,Central Midfield,Central Midfield,Defensive Midfield,0.0,9.0,13.5,0.0,3.15,0.0,0.0,0.99,8.28,0.0
+575,2019,Villarreal CF,Spanish La Liga,5,9,40.31999999999999,62.37,8.063999999999998,6.93,20.7,25.2,73.27,Left Winger,Attacking Midfield,Left Winger,20.7,4.5,0.0,0.0,3.96,0.0,0.0,0.0,7.2,0.0
+576,2019,Vitesse Arnhem,Dutch Eredivisie,3,3,2.25,7.74,0.75,2.58,1.35,7.2,52.29,Central Midfield,Right-Back,Centre-Back,0.0,0.36,0.9450000000000001,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+577,2019,Vitória Guimarães SC,Portuguese Liga,2,2,0.72,18.36,0.36,9.18,0.54,16.2,58.35,Striker,Centre-Back,Striker,0.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+578,2019,Vitória Setúbal FC,Portuguese Liga,1,1,0.9,2.25,0.9,2.25,0.9,2.25,39.48,Striker,Striker,Striker,0.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+579,2019,Watford FC,English Premier League,4,3,43.2,22.86,10.8,7.62,27.0,18.0,69.0,Right Winger,Right Winger,Left-Back,3.6,5.4,0.0,0.0,0.0,17.1,0.0,0.0,0.0,0.0
+580,2019,West Bromwich Albion,English League Championship,7,4,19.354999999999997,29.540000000000003,2.7649999999999997,7.385000000000001,8.01,16.44,58.49,Striker,Striker,Right Winger,5.9399999999999995,1.49,2.88,0.0,0.855,0.72,0.0,0.0,1.53,0.0
+581,2019,West Ham United,English Premier League,7,8,108.18,49.487,15.454285714285716,6.185875,45.0,22.5,67.29999999999998,Striker,Striker,Right-Back,26.415,2.7,0.0,4.23,0.0,19.17,4.05,0.0,0.0,25.2
+582,2019,Wigan Athletic,English League Championship,4,0,7.133,0.0,1.78325,0.0,2.43,0.0,44.16,Left-Back,Striker,Left-Back,2.43,0.0,0.0,0.0,0.0,0.0,0.0,1.1365,0.0,0.0
+583,2019,Willem II Tilburg,Dutch Eredivisie,1,1,0.225,0.702,0.225,0.702,0.225,0.702,39.78,Striker,Attacking Midfield,Striker,0.225,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+584,2019,Wolverhampton Wanderers,English Premier League,8,4,109.62,21.689999999999998,13.7025,5.422499999999999,34.2,10.62,77.08000000000001,Striker,Striker,Striker,18.150000000000002,0.0,8.01,0.0,16.875,0.0,12.42,0.0,0.99,0.0
+585,2019,Zenit St. Petersburg,Russian Premier Liga,7,12,60.480000000000004,18.63,8.64,1.5525,36.0,3.6,75.90000000000002,Right Winger,Right Winger,Striker,0.0,0.9,0.0,0.63,0.0,19.35,0.0,6.525,7.2,0.0
+586,2020,1.FC Union Berlin,German Bundesliga,2,3,1.53,6.182999999999999,0.765,2.0609999999999995,1.35,5.85,68.8,Left Winger,Striker,Centre-Back,0.18,0.0,0.0,0.0,1.35,0.0,0.0,0.0,0.0,0.0
+587,2020,1.FSV Mainz 05,German Bundesliga,1,3,1.8,12.33,1.8,4.11,1.8,9.0,62.58,Centre-Back,Right-Back,Goalkeeper,0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+588,2020,AC Milan,Italian Serie A,8,5,25.631999999999998,44.1,3.2039999999999997,8.82,9.0,18.9,77.56999999999996,Centre-Back,Right Winger,Centre-Back,0.0,1.791,0.45,0.45,4.5,3.15,9.0,0.0,0.0,0.0
+589,2020,ACF Fiorentina,Italian Serie A,6,6,43.379999999999995,48.78,7.2299999999999995,8.13,13.5,14.4,65.51,Central Midfield,Central Midfield,Central Midfield,6.975,5.4,7.065,0.0,0.0,0.0,0.0,0.0,9.9,0.0
+590,2020,AFC Bournemouth,English League Championship,0,4,0.0,84.2,0.0,21.05,0.0,40.77,60.43,-1,Centre-Back,Central Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+591,2020,AS Monaco,French Ligue 1,6,7,54.45,13.616999999999997,9.075000000000001,1.9452857142857138,18.0,4.05,73.04999999999998,Right Winger,Right Winger,Left Winger,13.95,11.7,0.0,0.0,0.0,10.125,1.35,7.2,0.0,0.0
+592,2020,AS Roma,Italian Serie A,7,7,54.089999999999996,41.400000000000006,7.727142857142857,5.9142857142857155,14.4,23.85,76.5,Centre-Back,Striker,Right-Back,1.8,9.299999999999999,14.4,0.0,0.0,9.9,0.0,0.0,0.09,0.0
+593,2020,AS Saint-Étienne,French Ligue 1,3,5,4.95,39.690000000000005,1.6500000000000001,7.938000000000001,4.05,31.5,57.77,Centre-Back,Centre-Back,Goalkeeper,0.0,2.295,0.0,0.0,0.0,0.0,0.36,0.0,0.0,0.0
+594,2020,AZ Alkmaar,Dutch Eredivisie,1,2,2.34,11.565000000000001,2.34,5.782500000000001,2.34,10.8,61.830000000000005,Left Winger,Left Winger,Striker,0.0,0.0,0.0,0.0,2.34,0.0,0.0,0.0,0.0,0.0
+595,2020,Ajax Amsterdam,Dutch Eredivisie,5,4,56.26,90.9,11.251999999999999,22.725,20.25,36.0,79.68,Central Midfield,Right Winger,Centre-Back,20.25,0.0,9.9,0.0,0.0,14.18,0.0,0.0,3.83,8.1
+596,2020,Arminia Bielefeld,German Bundesliga,1,1,0.45,0.09,0.45,0.09,0.45,0.09,57.76,Defensive Midfield,Defensive Midfield,Centre-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0
+597,2020,Arsenal FC,English Premier League,5,3,75.6,16.785,15.12,5.595,45.0,15.66,80.77,Centre-Back,Defensive Midfield,Centre-Back,0.0,13.5,0.0,1.8,0.0,0.0,45.0,0.0,0.0,1.8
+598,2020,Arsenal Tula,Russian Premier Liga,2,1,0.81,1.62,0.405,1.62,0.54,1.62,43.84,Left Winger,Left Winger,Striker,0.27,0.0,0.0,0.0,0.54,0.0,0.0,0.0,0.0,0.0
+599,2020,Aston Villa,English Premier League,5,1,88.34,2.49,17.668,2.49,27.72,2.49,74.3,Right-Back,Striker,Striker,27.72,0.0,14.22,15.66,0.0,16.56,0.0,0.0,14.18,0.0
+600,2020,Atalanta BC,Italian Serie A,9,7,54.27,63.9,6.03,9.128571428571428,13.5,21.6,82.28,Central Midfield,Right-Back,Left-Back,8.1,1.8,9.9,0.0,0.0,0.0,0.0,0.45,5.220000000000001,6.840000000000001
+601,2020,Athletic Bilbao,Spanish La Liga,1,0,10.8,0.0,10.8,0.0,10.8,0.0,73.26,Left Winger,Left Winger,Left Winger,0.0,0.0,0.0,0.0,10.8,0.0,0.0,0.0,0.0,0.0
+602,2020,Atlético Madrid,Spanish La Liga,5,6,73.79999999999998,65.97000000000001,14.759999999999996,10.995000000000003,31.5,45.0,85.48,Striker,Defensive Midfield,Centre-Back,16.425,0.0,13.5,3.15,24.3,0.0,0.0,0.0,0.0,0.0
+603,2020,Barnsley FC,English League Championship,3,1,2.7,1.98,0.9,1.98,1.26,1.98,50.16,Right Winger,Right Winger,Right Winger,0.0,0.72,1.26,0.0,0.0,0.72,0.0,0.0,0.0,0.0
+604,2020,Bayer 04 Leverkusen,German Bundesliga,6,2,41.58,85.95,6.93,42.975,23.85,72.0,78.96,Right-Back,Attacking Midfield,Right-Back,23.85,0.0,0.0,1.8,1.8,0.0,0.0,0.0,4.71,0.0
+605,2020,Bayern Munich,German Bundesliga,3,1,55.800000000000004,19.8,18.6,19.8,40.5,19.8,91.69,Right-Back,Left Winger,Right-Back,0.0,0.0,0.0,0.0,40.5,0.0,8.1,0.0,7.2,0.0
+606,2020,Benevento Calcio,Italian Serie A,8,1,10.620000000000001,0.9,1.3275000000000001,0.9,3.6,0.9,53.19,Central Midfield,Striker,Striker,1.935,2.7,0.99,0.0,1.17,0.45,0.0,0.45,0.0,0.0
+607,2020,Birmingham City,English League Championship,4,2,7.51,23.13,1.8775,11.565,2.49,20.7,41.94,Striker,Central Midfield,Right Winger,2.26,0.0,0.0,2.0,0.0,0.99,0.0,0.0,0.0,0.0
+608,2020,Blackburn Rovers,English League Championship,3,0,0.9450000000000001,0.0,0.315,0.0,0.45,0.0,51.35999999999999,Goalkeeper,Goalkeeper,Goalkeeper,0.0,0.0,0.0,0.315,0.0,0.0,0.0,0.0,0.0,0.0
+609,2020,Boavista FC,Portuguese Liga,3,1,3.6,1.35,1.2,1.35,2.25,1.35,42.25,Right Winger,Right-Back,Centre-Back,0.0,0.45,0.0,0.0,0.0,0.9,0.0,0.0,2.25,0.0
+610,2020,Bologna FC 1909,Italian Serie A,3,1,2.97,3.15,0.9900000000000001,3.15,1.8,3.15,60.01,Left-Back,Centre-Back,Centre-Back,0.72,0.45,0.0,0.0,0.0,0.0,0.0,1.8,0.0,0.0
+611,2020,Borussia Dortmund,German Bundesliga,2,3,43.2,4.95,21.6,1.6500000000000001,22.5,3.6,84.48,Central Midfield,Defensive Midfield,Defensive Midfield,0.0,0.0,20.7,0.0,0.0,0.0,22.5,0.0,0.0,0.0
+612,2020,Borussia Mönchengladbach,German Bundesliga,4,0,12.149999999999999,0.0,3.0374999999999996,0.0,8.1,0.0,76.48,Central Midfield,Central Midfield,Right Winger,0.0,0.0,8.1,0.0,0.0,1.08,0.0,0.0,1.62,1.35
+613,2020,Brentford FC,English League Championship,3,4,6.57,52.92,2.19,13.23,5.04,27.72,62.37,Defensive Midfield,Striker,Central Midfield,5.04,0.99,0.0,0.0,0.0,0.0,0.54,0.0,0.0,0.0
+614,2020,Brighton & Hove Albion,English Premier League,6,5,25.650000000000002,18.539999999999996,4.275,3.7079999999999993,9.9,10.53,74.59000000000002,Central Midfield,Right Winger,Centre-Back,3.6,1.35,7.2,0.0,0.0,0.0,0.0,4.95,0.0,0.0
+615,2020,Bristol City,English League Championship,0,2,0.0,3.6900000000000004,0.0,1.8450000000000002,0.0,2.7,41.69,-1,Left Winger,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+616,2020,Burnley FC,English Premier League,1,0,0.99,0.0,0.99,0.0,0.99,0.0,67.4,Central Midfield,Central Midfield,Central Midfield,0.0,0.0,0.99,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+617,2020,CA Osasuna,Spanish La Liga,4,2,6.305,3.1050000000000004,1.57625,1.5525000000000002,2.48,2.7,68.69,Striker,Defensive Midfield,Centre-Back,1.8,0.225,0.0,0.0,0.0,0.0,1.8,2.48,0.0,0.0
+618,2020,CD Nacional,Portuguese Liga,1,1,0.45,0.9,0.45,0.9,0.45,0.9,39.12,Defensive Midfield,Attacking Midfield,Defensive Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0
+619,2020,CD Santa Clara,Portuguese Liga,0,2,0.0,5.4,0.0,2.7,0.0,3.6,47.63,-1,Left-Back,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+620,2020,CD Tondela,Portuguese Liga,1,0,0.167,0.0,0.167,0.0,0.167,0.0,39.82,Left-Back,Left-Back,Left-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.167,0.0,0.0
+621,2020,CS Marítimo,Portuguese Liga,0,1,0.0,0.9,0.0,0.9,0.0,0.9,40.94,-1,Striker,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+622,2020,CSKA Moscow,Russian Premier Liga,4,3,27.0,0.72,6.75,0.24,10.35,0.27,64.98,Striker,Left Winger,Defensive Midfield,7.65,7.2,0.0,0.0,10.35,0.0,0.0,0.0,0.0,1.8
+623,2020,Cagliari Calcio,Italian Serie A,5,5,26.999999999999996,32.85,5.3999999999999995,6.57,11.7,25.2,55.57000000000001,Central Midfield,Central Midfield,Left Winger,10.8,0.0,6.3,0.0,0.0,0.9,0.0,2.7,0.0,0.0
+624,2020,Cardiff City,English League Championship,2,2,3.15,2.495,1.575,1.2475,1.98,2.0,53.28,Right Winger,Goalkeeper,Striker,1.98,0.0,0.0,0.0,0.0,1.17,0.0,0.0,0.0,0.0
+625,2020,Celta de Vigo,Spanish La Liga,2,1,2.7,2.25,1.35,2.25,2.25,2.25,72.39,Right Winger,Attacking Midfield,Right Winger,0.0,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.0,2.25
+626,2020,Chelsea FC,English Premier League,5,6,222.48,51.57,44.495999999999995,8.595,72.0,31.5,86.88,Striker,Attacking Midfield,Right Winger,47.7,0.0,0.0,21.6,0.0,36.0,0.0,45.18,0.0,72.0
+627,2020,Coventry City,English League Championship,1,0,1.35,0.0,1.35,0.0,1.35,0.0,40.34,Defensive Midfield,Defensive Midfield,Defensive Midfield,0.0,0.0,0.0,0.0,0.0,0.0,1.35,0.0,0.0,0.0
+628,2020,Crystal Palace,English Premier League,3,1,20.159999999999997,18.0,6.719999999999999,18.0,16.02,18.0,64.83,Goalkeeper,Striker,Goalkeeper,3.15,0.0,0.0,0.99,0.0,0.0,0.0,0.0,0.0,16.02
+629,2020,Cádiz CF,Spanish La Liga,7,0,9.18,0.0,1.3114285714285714,0.0,2.43,0.0,62.89999999999999,Striker,Striker,Left Winger,2.34,0.0,0.0,0.54,0.18,1.35,0.0,0.0,0.0,1.08
+630,2020,Deportivo Alavés,Spanish La Liga,0,2,0.0,3.96,0.0,1.98,0.0,3.33,64.36,-1,Striker,Right Winger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+631,2020,Derby County,English League Championship,1,3,3.87,7.654,3.87,2.5513333333333335,3.87,3.47,45.24,Left Winger,Left Winger,Right Winger,0.0,0.0,0.0,0.0,3.87,0.0,0.0,0.0,0.0,0.0
+632,2020,Dijon FCO,French Ligue 1,6,4,14.22,15.3,2.37,3.825,3.6,9.0,47.64,Striker,Goalkeeper,Left Winger,2.88,3.06,0.0,1.8,0.9,0.0,0.0,0.0,0.0,2.7
+633,2020,Dynamo Moscow,Russian Premier Liga,5,3,14.369000000000002,2.3850000000000002,2.8738,0.795,7.65,1.8,54.04,Defensive Midfield,Defensive Midfield,Goalkeeper,1.8,0.0,0.0,0.149,1.62,0.0,5.4,0.0,0.0,0.0
+634,2020,Eintracht Frankfurt,German Bundesliga,5,5,9.0,14.4,1.8,2.88,2.7,4.5,74.72,Striker,Left Winger,Attacking Midfield,1.8,0.0,0.0,0.0,2.7,0.0,0.0,0.0,0.0,0.9
+635,2020,Elche CF,Spanish La Liga,3,2,5.4,2.93,1.8,1.465,4.5,2.48,57.27,Right Winger,Central Midfield,Left Winger,0.0,0.0,4.5,0.0,0.45,0.45,0.0,0.0,0.0,0.0
+636,2020,Everton FC,English Premier League,4,2,67.383,3.98,16.84575,1.99,24.75,2.0,73.77,Central Midfield,Centre-Back,Left-Back,0.0,24.75,21.195,0.0,0.0,0.0,0.0,0.243,0.0,0.0
+637,2020,FC Augsburg,German Bundesliga,3,4,9.27,7.74,3.09,1.935,6.3,7.2,60.480000000000004,Centre-Back,Left-Back,Defensive Midfield,0.0,3.735,0.0,0.0,0.0,0.0,0.0,0.0,1.8,0.0
+638,2020,FC Barcelona,Spanish La Liga,3,6,53.099999999999994,113.85,17.7,18.974999999999998,27.9,64.8,90.98,Right Winger,Central Midfield,Central Midfield,0.0,0.0,0.0,0.0,0.0,27.9,6.3,0.0,18.9,0.0
+639,2020,FC Crotone,Italian Serie A,5,0,5.58,0.0,1.116,0.0,2.16,0.0,49.3,Centre-Back,Attacking Midfield,Centre-Back,0.0,0.675,0.72,0.0,0.0,0.0,1.35,0.0,0.0,2.16
+640,2020,FC Emmen,Dutch Eredivisie,1,1,0.315,0.023,0.315,0.023,0.315,0.023,31.53,Central Midfield,Central Midfield,Centre-Back,0.0,0.0,0.315,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+641,2020,FC Famalicão,Portuguese Liga,5,1,4.5,5.85,0.9,5.85,2.7,5.85,45.13999999999999,Central Midfield,Right Winger,Central Midfield,0.0,0.0,0.27,0.9,0.0,0.0,2.7,0.0,0.36,0.0
+642,2020,FC Girondins Bordeaux,French Ligue 1,0,4,0.0,15.299999999999999,0.0,3.8249999999999997,0.0,6.75,58.33,-1,Goalkeeper,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+643,2020,FC Groningen,Dutch Eredivisie,3,2,1.868,4.5,0.6226666666666667,2.25,0.99,3.6,42.38,Right-Back,Right-Back,Right-Back,0.99,0.0,0.0,0.0,0.54,0.0,0.0,0.0,0.338,0.0
+644,2020,FC Lorient,French Ligue 1,6,1,23.85,5.85,3.975,5.85,8.1,5.85,52.93,Striker,Striker,Attacking Midfield,7.65,0.0,0.0,0.0,0.0,2.475,1.8,0.0,0.0,1.8
+645,2020,FC Metz,French Ligue 1,6,1,13.23,9.0,2.205,9.0,4.05,9.0,56.65999999999998,Right Winger,Striker,Defensive Midfield,1.8,3.15,0.0,0.0,0.0,1.8,2.34,0.0,0.0,0.0
+646,2020,FC Nantes,French Ligue 1,1,2,4.5,1.8,4.5,0.9,4.5,1.35,56.669999999999995,Left Winger,Left Winger,Goalkeeper,0.0,0.0,0.0,0.0,4.5,0.0,0.0,0.0,0.0,0.0
+647,2020,FC Paços de Ferreira,Portuguese Liga,2,1,2.34,1.8,1.17,1.8,2.25,1.8,47.77,Striker,Defensive Midfield,Striker,0.09,0.0,0.0,0.0,0.0,0.0,2.25,0.0,0.0,0.0
+648,2020,FC Porto,Portuguese Liga,4,8,16.65,68.44500000000001,4.1625,8.555625000000001,6.75,36.0,75.30999999999999,Striker,Striker,Centre-Back,5.625,1.8,0.0,0.0,0.0,0.0,0.0,3.6,0.0,0.0
+649,2020,FC Schalke 04,German Bundesliga,1,3,1.8,5.265,1.8,1.755,1.8,4.05,52.49,Striker,Central Midfield,Centre-Back,1.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+650,2020,FC Sochi,Russian Premier Liga,2,0,1.26,0.0,0.63,0.0,0.81,0.0,53.56,Central Midfield,Central Midfield,Striker,0.45,0.0,0.81,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+651,2020,FC Utrecht,Dutch Eredivisie,0,2,0.0,4.37,0.0,2.185,0.0,3.83,52.98,-1,Right-Back,Left Winger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+652,2020,FK Khimki,Russian Premier Liga,0,1,0.0,0.297,0.0,0.297,0.0,0.297,42.54,-1,Left Winger,Left Winger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+653,2020,FK Krasnodar,Russian Premier Liga,4,2,6.380999999999999,1.08,1.5952499999999998,0.54,3.15,0.63,61.59000000000001,Left-Back,Right Winger,Left-Back,0.27,0.0,0.0,0.0,0.0,3.15,0.0,1.4805000000000001,0.0,0.0
+654,2020,FK Rostov,Russian Premier Liga,9,7,8.421,16.425000000000004,0.9356666666666666,2.346428571428572,3.38,6.75,51.88,Striker,Striker,Right-Back,1.6366666666666667,0.10600000000000001,0.0,0.0,0.0,0.0,1.4849999999999999,0.0,0.1645,0.0
+655,2020,FK Ufa,Russian Premier Liga,3,5,1.116,6.750000000000001,0.37200000000000005,1.35,0.63,3.15,41.11,Central Midfield,Defensive Midfield,Striker,0.243,0.0,0.243,0.0,0.0,0.0,0.63,0.0,0.0,0.0
+656,2020,Feyenoord Rotterdam,Dutch Eredivisie,5,0,5.3100000000000005,0.0,1.062,0.0,1.98,0.0,58.88000000000001,Attacking Midfield,Attacking Midfield,Left Winger,0.0,0.45,1.08,0.0,0.36,0.0,0.0,0.0,0.0,1.71
+657,2020,Fortuna Sittard,Dutch Eredivisie,3,2,0.54,2.16,0.18000000000000002,1.08,0.36,1.08,35.13,Left-Back,Central Midfield,Left-Back,0.0,0.0,0.135,0.0,0.36,0.0,0.0,0.045,0.0,0.0
+658,2020,Fulham FC,English Premier League,10,0,33.53,0.0,3.353,0.0,10.53,0.0,65.9,Centre-Back,Right Winger,Centre-Back,0.0,2.1166666666666667,5.85,0.0,1.8,10.53,1.98,1.89,2.565,0.0
+659,2020,Genoa CFC,Italian Serie A,8,8,51.525,41.629999999999995,6.440625,5.203749999999999,17.55,16.2,55.41,Striker,Striker,Left Winger,8.2125,3.15,6.3,0.0,0.225,0.0,0.0,0.0,0.0,9.0
+660,2020,Getafe CF,Spanish La Liga,3,5,18.23,7.875,6.076666666666667,1.575,9.0,3.6,72.19,Right Winger,Left Winger,Left-Back,8.1,0.0,0.0,0.0,9.0,1.13,0.0,0.0,0.0,0.0
+661,2020,Granada CF,Spanish La Liga,5,0,18.45,0.0,3.69,0.0,6.3,0.0,66.64,Central Midfield,Striker,Right-Back,6.3,0.0,4.5,0.0,0.0,2.25,3.6,0.0,1.8,0.0
+662,2020,Heracles Almelo,Dutch Eredivisie,2,1,0.459,3.6,0.2295,3.6,0.261,3.6,41.78,Left Winger,Striker,Centre-Back,0.0,0.198,0.0,0.0,0.261,0.0,0.0,0.0,0.0,0.0
+663,2020,Hertha BSC,German Bundesliga,5,5,30.15,9.405,6.029999999999999,1.8809999999999998,13.5,6.3,68.16999999999999,Right-Back,Striker,Goalkeeper,13.5,5.85,0.9,6.3,0.0,0.0,0.0,0.0,3.6,0.0
+664,2020,Huddersfield Town,English League Championship,1,4,0.63,27.810000000000002,0.63,6.952500000000001,0.63,14.85,44.45,Right-Back,Striker,Right-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.63,0.0
+665,2020,Inter Milan,Italian Serie A,6,10,90.0,74.295,15.0,7.4295,36.0,45.0,84.08,Central Midfield,Striker,Central Midfield,4.725,0.0,21.6,0.0,0.0,36.0,0.0,1.35,0.0,0.0
+666,2020,Juventus FC,Italian Serie A,7,6,115.38,41.85,16.482857142857142,6.9750000000000005,64.8,22.5,82.99,Central Midfield,Central Midfield,Striker,9.0,0.0,34.425,2.7,0.0,9.0,12.915,0.0,0.0,0.0
+667,2020,LOSC Lille,French Ligue 1,4,3,36.27,89.10000000000001,9.0675,29.700000000000003,24.3,63.0,74.68999999999998,Striker,Striker,Right Winger,24.3,7.2,0.0,4.5,0.0,0.27,0.0,0.0,0.0,0.0
+668,2020,Leeds United,English Premier League,7,0,96.10000000000001,0.0,13.72857142857143,0.0,27.0,0.0,69.02,Striker,Striker,Striker,13.95,14.85,0.0,5.85,0.0,16.325,0.0,0.0,0.0,0.0
+669,2020,Leicester City,English Premier League,3,3,55.800000000000004,48.4,18.6,16.133333333333333,31.5,45.18,79.2,Right Winger,Left-Back,Right Winger,0.0,31.5,0.0,0.0,0.0,2.7,0.0,0.0,21.6,0.0
+670,2020,Levante UD,Spanish La Liga,2,1,3.6,4.5,1.8,4.5,1.8,4.5,66.8,Right Winger,Left Winger,Right Winger,1.8,0.0,0.0,0.0,0.0,1.8,0.0,0.0,0.0,0.0
+671,2020,Liverpool FC,English Premier League,5,4,73.233,38.88,14.646600000000001,9.72,40.23,23.4,88.7,Centre-Back,Left Winger,Centre-Back,0.0,0.7515000000000001,19.8,0.0,40.23,0.0,0.0,11.7,0.0,0.0
+672,2020,Lokomotiv Moscow,Russian Premier Liga,7,1,15.507,13.05,2.2152857142857143,13.05,4.95,13.05,59.74,Striker,Attacking Midfield,Attacking Midfield,3.1500000000000004,1.575,0.0,0.0,4.95,0.882,0.0,0.0,0.0,0.225
+673,2020,Manchester City,English Premier League,8,3,154.61999999999998,55.49,19.327499999999997,18.496666666666666,61.2,40.5,93.44000000000001,Right-Back,Centre-Back,Centre-Back,7.425,50.985,0.0,0.0,7.65,20.7,0.0,0.0,4.725,0.0
+674,2020,Manchester United,English Premier League,4,3,75.15,16.56,18.7875,5.52,35.1,13.5,85.5,Right Winger,Central Midfield,Right-Back,0.0,0.0,35.1,0.0,0.0,13.274999999999999,0.0,13.5,0.0,0.0
+675,2020,Middlesbrough FC,English League Championship,1,1,2.7,0.396,2.7,0.396,2.7,0.396,50.39,Striker,Striker,Goalkeeper,2.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+676,2020,Montpellier HSC,French Ligue 1,3,0,11.790000000000001,0.0,3.93,0.0,5.67,0.0,58.15,Striker,Striker,Striker,3.195,0.0,0.0,5.4,0.0,0.0,0.0,0.0,0.0,0.0
+677,2020,Moreirense FC,Portuguese Liga,0,1,0.0,2.25,0.0,2.25,0.0,2.25,41.11,-1,Striker,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+678,2020,Newcastle United,English Premier League,2,1,34.88,0.248,17.44,0.248,20.03,0.248,63.85,Left-Back,Striker,Central Midfield,20.03,0.0,0.0,0.0,0.0,0.0,0.0,14.85,0.0,0.0
+679,2020,Norwich City,English League Championship,6,2,9.887,39.6,1.6478333333333335,19.8,2.97,24.75,60.86,Left-Back,Centre-Back,Right-Back,2.97,0.0,0.0,0.0,2.7,0.0,0.0,0.9450000000000001,0.347,1.98
+680,2020,Nottingham Forest,English League Championship,5,1,13.442999999999998,14.18,2.6885999999999997,14.18,4.95,14.18,45.27,Centre-Back,Right-Back,Left-Back,0.0,3.7199999999999998,4.95,0.0,0.0,0.0,0.603,0.45,0.0,0.0
+681,2020,OGC Nice,French Ligue 1,6,7,25.4,18.450000000000003,4.233333333333333,2.635714285714286,7.2,5.4,57.179999999999986,Left Winger,Centre-Back,Right Winger,0.0,7.2,0.0,0.0,3.6,0.0,2.0,3.6,5.4,0.0
+682,2020,Olympique Lyon,French Ligue 1,4,9,29.925000000000004,45.09,7.481250000000001,5.010000000000001,18.0,16.56,77.14999999999999,Striker,Attacking Midfield,Goalkeeper,10.35,1.35,0.0,0.225,0.0,0.0,0.0,0.0,0.0,18.0
+683,2020,Olympique Marseille,French Ligue 1,4,3,18.900000000000002,28.62,4.7250000000000005,9.540000000000001,7.2,14.22,64.44,Centre-Back,Central Midfield,Centre-Back,0.0,2.25,0.0,0.0,7.2,0.0,0.0,0.0,0.0,7.2
+684,2020,PEC Zwolle,Dutch Eredivisie,0,1,0.0,1.35,0.0,1.35,0.0,1.35,38.24,-1,Defensive Midfield,Defensive Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+685,2020,PSV Eindhoven,Dutch Eredivisie,3,4,15.75,10.26,5.25,2.565,8.1,8.1,66.17,Left-Back,Defensive Midfield,Goalkeeper,0.0,0.0,0.0,0.45,0.0,0.0,8.1,7.2,0.0,0.0
+686,2020,Paris Saint-Germain,French Ligue 1,4,1,54.9,4.5,13.725,4.5,45.0,4.5,86.14,Right-Back,Striker,Right-Back,45.0,0.0,0.0,5.4,0.0,0.0,3.6,0.0,0.9,0.0
+687,2020,Portimonense SC,Portuguese Liga,0,3,0.0,2.25,0.0,0.75,0.0,0.9,46.74,-1,Goalkeeper,Right Winger,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+688,2020,Preston North End,English League Championship,2,1,2.85,0.513,1.425,0.513,1.5,0.513,46.15,Central Midfield,Central Midfield,Centre-Back,1.35,0.0,1.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+689,2020,Queens Park Rangers,English League Championship,3,3,6.390000000000001,16.637,2.1300000000000003,5.5456666666666665,2.43,16.02,46.97,Striker,Attacking Midfield,Left-Back,1.98,2.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+690,2020,RB Leipzig,German Bundesliga,6,3,47.7,50.85,7.95,16.95,18.0,47.7,84.97,Striker,Striker,Attacking Midfield,13.05,0.0,0.0,2.25,9.45,0.0,0.0,0.0,0.0,0.45
+691,2020,RC Lens,French Ligue 1,4,0,17.099999999999998,0.0,4.2749999999999995,0.0,7.65,0.0,61.62,Striker,Central Midfield,Striker,3.1500000000000004,3.15,7.65,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+692,2020,RC Strasbourg Alsace,French Ligue 1,2,1,10.8,2.25,5.4,2.25,9.0,2.25,60.85,Striker,Striker,Striker,5.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+693,2020,Reading FC,English League Championship,1,1,3.51,1.44,3.51,1.44,3.51,1.44,48.95,Central Midfield,Central Midfield,Left Winger,0.0,0.0,3.51,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+694,2020,Real Betis Balompié,Spanish La Liga,0,4,0.0,37.94,0.0,9.485,0.0,28.8,72.84,-1,Central Midfield,Central Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+695,2020,Real Madrid,Spanish La Liga,0,12,0.0,90.46,0.0,7.538333333333333,0.0,36.0,87.35000000000001,-1,Right Winger,Striker,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+696,2020,Real Sociedad,Spanish La Liga,1,3,9.0,22.725,9.0,7.575,9.0,18.0,81.42,Striker,Centre-Back,Centre-Back,9.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+697,2020,Real Valladolid CF,Spanish La Liga,6,2,9.77,10.89,1.6283333333333332,5.445,3.6,10.8,62.23,Centre-Back,Centre-Back,Striker,3.6,1.915,0.0,0.0,0.0,0.0,0.0,0.315,1.71,0.0
+698,2020,Rio Ave FC,Portuguese Liga,0,3,0.0,9.45,0.0,3.15,0.0,4.5,48.89000000000001,-1,Striker,Attacking Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+699,2020,Rotherham United,English League Championship,1,0,0.248,0.0,0.248,0.0,0.248,0.0,44.23,Central Midfield,Central Midfield,Central Midfield,0.0,0.0,0.248,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+700,2020,Rotor Volgograd,Russian Premier Liga,2,0,0.20900000000000002,0.0,0.10450000000000001,0.0,0.11,0.0,35.5,Goalkeeper,Goalkeeper,Goalkeeper,0.0,0.0,0.0,0.10450000000000001,0.0,0.0,0.0,0.0,0.0,0.0
+701,2020,Rubin Kazan,Russian Premier Liga,4,1,5.8500000000000005,0.9,1.4625000000000001,0.9,2.25,0.9,51.05,Central Midfield,Central Midfield,Defensive Midfield,0.0,0.0,2.025,0.0,0.0,0.0,0.45,0.0,1.35,0.0
+702,2020,SC Braga,Portuguese Liga,3,4,10.8,44.235,3.6,11.05875,7.2,27.9,63.12,Left-Back,Right Winger,Defensive Midfield,7.2,0.0,0.0,0.9,0.0,0.0,0.0,2.7,0.0,0.0
+703,2020,SC Freiburg,German Bundesliga,4,6,12.915,34.02,3.22875,5.670000000000001,9.0,13.5,66.26,Striker,Striker,Goalkeeper,3.33,0.0,0.0,0.18,0.0,0.0,9.0,0.0,0.0,0.405
+704,2020,SC Heerenveen,Dutch Eredivisie,5,2,4.545000000000001,10.98,0.9090000000000001,5.49,1.35,10.35,40.56,Striker,Left Winger,Attacking Midfield,1.35,1.26,0.0,0.0,0.0,0.0,1.35,0.45,0.0,0.135
+705,2020,SCO Angers,French Ligue 1,3,2,9.899999999999999,9.63,3.2999999999999994,4.815,6.75,9.0,58.39,Left-Back,Defensive Midfield,Left-Back,0.0,0.0,0.0,6.75,0.0,0.0,0.0,1.5750000000000002,0.0,0.0
+706,2020,SD Eibar,Spanish La Liga,1,1,1.8,0.135,1.8,0.135,1.8,0.135,68.47,Right Winger,Right Winger,Right Winger,0.0,0.0,0.0,0.0,0.0,1.8,0.0,0.0,0.0,0.0
+707,2020,SD Huesca,Spanish La Liga,5,0,4.05,0.0,0.8099999999999999,0.0,1.89,0.0,64.19,Centre-Back,Attacking Midfield,Centre-Back,0.0,0.5625,0.0,0.45,0.585,0.0,0.0,0.0,0.0,1.89
+708,2020,SL Benfica,Portuguese Liga,9,8,94.5,69.22800000000001,10.5,8.653500000000001,21.6,61.2,74.75,Centre-Back,Centre-Back,Right Winger,17.55,7.05,0.0,1.35,18.0,16.2,0.0,0.0,2.7,0.0
+709,2020,SS Lazio,Italian Serie A,3,2,24.749999999999996,4.5,8.249999999999998,2.25,16.65,3.78,72.36,Centre-Back,Striker,Centre-Back,16.65,0.9,0.0,0.0,7.2,0.0,0.0,0.0,0.0,0.0
+710,2020,SSC Napoli,Italian Serie A,3,12,66.14999999999999,100.51899999999999,22.049999999999997,8.376583333333333,63.0,22.5,79.25,Striker,Striker,Left Winger,32.175,0.0,0.0,0.0,0.0,0.0,1.8,0.0,0.0,0.0
+711,2020,SV Werder Bremen,German Bundesliga,2,1,9.9,9.9,4.95,9.9,6.3,9.9,63.45000000000001,Centre-Back,Central Midfield,Centre-Back,0.0,3.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.3
+712,2020,Sevilla FC,Spanish La Liga,8,3,63.0,17.55,7.875,5.8500000000000005,18.9,9.0,81.37,Central Midfield,Right Winger,Central Midfield,4.95,1.8,1.35,3.6,10.8,18.9,0.0,9.45,0.0,12.15
+713,2020,Sheffield United,English Premier League,6,0,56.43999999999999,0.0,9.406666666666665,0.0,23.4,0.0,63.01,Right-Back,Striker,Central Midfield,23.4,0.0,1.8,18.45,0.0,5.85,0.0,3.47,3.47,0.0
+714,2020,Sheffield Wednesday,English League Championship,2,0,0.999,0.0,0.4995,0.0,0.504,0.0,40.88,Striker,Attacking Midfield,Striker,0.495,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.504
+715,2020,Southampton FC,English Premier League,3,4,36.269999999999996,23.669999999999998,12.089999999999998,5.9174999999999995,13.5,14.94,71.45,Centre-Back,Central Midfield,Centre-Back,0.0,10.8,0.0,0.0,0.0,0.0,13.5,0.0,11.97,0.0
+716,2020,Spartak Moscow,Russian Premier Liga,4,2,5.8500000000000005,4.455,1.4625000000000001,2.2275,4.05,4.05,61.34000000000001,Striker,Striker,Right Winger,4.05,0.0,0.0,0.0,0.0,0.27,0.63,0.0,0.0,0.9
+717,2020,Spezia Calcio,Italian Serie A,6,2,4.959,1.6110000000000002,0.8264999999999999,0.8055000000000001,2.25,1.35,54.74,Defensive Midfield,Centre-Back,Central Midfield,0.0,2.25,0.189,1.35,0.45,0.45,0.27,0.0,0.0,0.0
+718,2020,Sporting CP,Portuguese Liga,5,6,25.97,44.33,5.194,7.388333333333333,14.4,18.27,67.49,Right Winger,Central Midfield,Right-Back,14.4,1.94,0.0,0.0,3.33,3.15,0.0,0.0,0.0,0.0
+719,2020,Stade Brest 29,French Ligue 1,6,1,14.489999999999998,13.5,2.4149999999999996,13.5,4.5,13.5,56.36000000000001,Left Winger,Defensive Midfield,Central Midfield,4.5,3.6,0.36,0.0,0.765,4.5,0.0,0.0,0.0,0.0
+720,2020,Stade Reims,French Ligue 1,4,2,9.81,15.299999999999999,2.4525,7.6499999999999995,3.78,11.7,55.51,Striker,Centre-Back,Left-Back,2.7,0.0,3.78,0.0,0.0,0.0,0.0,0.63,0.0,0.0
+721,2020,Stade Rennais FC,French Ligue 1,7,7,63.900000000000006,45.34000000000001,9.12857142857143,6.477142857142859,23.4,21.6,66.71000000000001,Centre-Back,Right Winger,Central Midfield,13.5,2.475,0.0,9.0,10.8,23.4,0.0,2.25,0.0,0.0
+722,2020,Stoke City,English League Championship,1,3,1.98,1.688,1.98,0.5626666666666666,1.98,0.99,52.49,Right Winger,Right Winger,Striker,0.0,0.0,0.0,0.0,0.0,1.98,0.0,0.0,0.0,0.0
+723,2020,Swansea City,English League Championship,3,3,1.7650000000000001,13.995,0.5883333333333334,4.665,0.801,10.89,51.300000000000004,Right Winger,Centre-Back,Left-Back,0.0,0.0,0.0,0.0,0.0,0.7575000000000001,0.0,0.25,0.0,0.0
+724,2020,TSG 1899 Hoffenheim,German Bundesliga,2,4,3.1500000000000004,13.095,1.5750000000000002,3.27375,2.7,6.3,72.55,Striker,Attacking Midfield,Striker,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.7
+725,2020,Torino FC,Italian Serie A,7,6,42.75,25.200000000000003,6.107142857142857,4.2,19.8,10.8,59.85000000000001,Attacking Midfield,Attacking Midfield,Right Winger,3.825,0.0,6.75,0.0,0.0,0.0,0.0,2.7,4.95,10.35
+726,2020,Tottenham Hotspur,English Premier League,6,1,99.45,11.97,16.575,11.97,28.8,11.97,79.85000000000001,Central Midfield,Central Midfield,Striker,2.7,10.89,21.87,0.0,0.0,0.0,0.0,27.0,15.12,0.0
+727,2020,UC Sampdoria,Italian Serie A,8,6,14.579999999999998,10.709999999999999,1.8224999999999998,1.785,5.85,6.75,60.789999999999985,Striker,Central Midfield,Centre-Back,0.84,2.25,2.25,0.0,3.105,0.0,0.0,1.35,0.0,0.0
+728,2020,US Sassuolo,Italian Serie A,7,5,25.65,50.4,3.664285714285714,10.08,8.1,18.0,65.29999999999998,Centre-Back,Central Midfield,Left-Back,8.1,4.6499999999999995,0.0,0.0,1.26,0.0,0.0,1.08,0.0,0.0
+729,2020,Udinese Calcio,Italian Serie A,2,6,4.05,24.575,2.025,4.095833333333333,3.15,9.63,63.79,Central Midfield,Defensive Midfield,Central Midfield,0.0,0.9,3.15,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+730,2020,VVV-Venlo,Dutch Eredivisie,1,1,0.18,0.54,0.18,0.54,0.18,0.54,29.69,Striker,Central Midfield,Striker,0.18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+731,2020,Valencia CF,Spanish La Liga,0,4,0.0,67.05000000000001,0.0,16.762500000000003,0.0,27.0,66.42,-1,Striker,Defensive Midfield,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+732,2020,VfB Stuttgart,German Bundesliga,5,2,10.125,6.75,2.025,3.375,3.6,3.6,67.73,Centre-Back,Centre-Back,Centre-Back,0.0,1.9125,0.0,3.6,0.0,0.0,1.53,0.0,1.17,0.0
+733,2020,VfL Wolfsburg,German Bundesliga,4,3,19.8,9.99,4.95,3.33,9.0,6.3,76.17,Striker,Right-Back,Striker,3.15,4.5,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0
+734,2020,Villarreal CF,Spanish La Liga,6,6,30.29,23.985,5.048333333333333,3.9975,14.76,10.35,79.11,Defensive Midfield,Left-Back,Goalkeeper,0.0,2.25,0.0,4.5,0.0,1.13,3.8249999999999997,14.76,0.0,0.0
+735,2020,Vitória Guimarães SC,Portuguese Liga,4,4,2.6550000000000002,5.400000000000001,0.6637500000000001,1.3500000000000003,1.08,2.7,51.54,Central Midfield,Central Midfield,Centre-Back,1.08,0.225,0.27,1.08,0.0,0.0,0.0,0.0,0.0,0.0
+736,2020,Watford FC,English League Championship,0,5,0.0,44.54999999999999,0.0,8.909999999999998,0.0,19.89,60.55,-1,Central Midfield,Right-Back,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+737,2020,West Bromwich Albion,English Premier League,7,2,37.929,6.84,5.418428571428572,3.42,14.85,5.85,56.88,Striker,Striker,Right Winger,8.135,0.99,0.0,0.99,12.15,3.7645,0.0,0.0,0.0,0.0
+738,2020,West Ham United,English Premier League,6,6,47.7,40.86899999999999,7.95,6.811499999999999,20.79,20.25,74.77,Left Winger,Left Winger,Right Winger,0.0,1.44,0.0,0.0,12.375,1.53,14.58,0.0,5.4,0.0
+739,2020,Willem II Tilburg,Dutch Eredivisie,4,1,0.9680000000000001,0.338,0.24200000000000002,0.338,0.45,0.338,36.43,Goalkeeper,Attacking Midfield,Goalkeeper,0.0,0.0,0.0,0.11249999999999999,0.0,0.0,0.0,0.0,0.293,0.45
+740,2020,Wolverhampton Wanderers,English Premier League,5,3,74.52,71.28,14.904,23.76,36.0,40.23,74.0,Right-Back,Left Winger,Centre-Back,36.0,0.9,0.0,0.0,0.0,0.0,0.0,1.8,17.91,0.0
+741,2020,Zenit St. Petersburg,Russian Premier Liga,3,4,29.43,5.2,9.81,1.3,18.27,4.03,75.96,Centre-Back,Central Midfield,Right-Back,0.0,5.58,18.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0
