@@ -50,7 +50,7 @@ I have custom functions for visualizing data in the EDA step of each project, bu
 
 I kept things pretty simple and used a residuals plot and a prediction error plot to visualize each algorithm. 
 
-Here's an example: ![RandomForest - Yellowbrick](https://github.com/tdraths/spi_transfers_global/blob/main/Screenshot%202021-08-10%2011.45.25%20PM.png)
+![RandomForest - Yellowbrick](https://github.com/tdraths/spi_transfers_global/blob/main/Screenshot%202021-08-10%2011.45.25%20PM.png)
 
 
 ## Shapley Values for Explaining Predictability
