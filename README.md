@@ -38,6 +38,14 @@ Str_A = 'FuzzyWuzzy solves problems!'
 Str_B = 'fuzzy wuzzy solves PROBLEMS.'
 
 ratio = fuzz.ratio(Str_A.lower(), Str_B.lower())
-print('Similarity score: {}'.format(ratio))```
-
+print('Similarity score: {}'.format(ratio))
+```
 This will return a similarity score of 95.
+
+Aside from using the `ratio()` function, FuzzyWuzzy uses functions to teokenize strings and manipulate them before running `ratio()`. [Using FuzzyWuzzy](https://github.com/tdraths/spi_transfers_global/blob/main/notebooks/full_data/Fuzzy_Wuzzy_team_names.ipynb), I created a function that compares the team names from each of my datasets, using one of them as the base name and the other as a comparison, and standardizes them based on a ratio score. It returns a dictionary that I used to replace the team names in both datasets, and was ridiculously faster than my Verion I solution to this problem!
+
+### Using YellowBrick to visualize the algorithms
+I have custom functions for visualizing data in the EDA step of each project, but I really wanted to see what the model is telling me about testing algorithms. YellowBrick has a seemingly unending series of visualizations available to the user, and I recommend checking out the project's [documentation](https://www.scikit-yb.org/en/latest/).
+
+I kept things pretty simple and used a residuals plot and a prediction error plot to visualize each algorithm. Here's an example: ![RandomForest - Yellowbrick](https://github.com/tdraths/spi_transfers_global/blob/main/Screenshot%202021-08-10%2011.45.25%20PM.png)
+
