@@ -39,3 +39,5 @@ Str_B = 'fuzzy wuzzy solves PROBLEMS.'
 
 ratio = fuzz.ratio(Str_A.lower(), Str_B.lower())
 print('Similarity score: {}'.format(ratio))```
+
+This will return a similarity score of 95.
