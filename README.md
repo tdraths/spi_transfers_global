@@ -11,7 +11,7 @@ I sourced data from:
 https://github.com/ewenme/transfers
 https://github.com/fivethirtyeight/data/tree/master/soccer-spi
 
-### Modeling Soccer Team Strength, Version II
+## Modeling Soccer Team Strength, Version II
 In my first attempt modeling soccer team strength, I limited my data to Premier League teams over the last five season. It was my first project, and I was nervous about getting the code exactly right. It took me ages; there was (and still is, a bit) a good deal of imposter syndrome at play - I didn't want to think of myself as a data scientist, because I just wasn't good enough. I'm still not using that description for myself - I'm a data **something**, but I know I'm still new.
 
 For version II of this project, I committed to going back to my original work and expanding my horizons. I did the following things:
@@ -23,7 +23,7 @@ For version II of this project, I committed to going back to my original work an
 Something I'd like to quickly note: my conclusions aren't exactly revolutionary. They are probably already part and parcel of every top club's strategy. For those clubs who are trying to improve their strategy, or trying to understand where they are going wrong in their transfer windows each season, there might be a nugget or two of useful analysis here.
 
 
-### Using FuzzyWuzzy to Standardize Team Names
+## Using FuzzyWuzzy to Standardize Team Names
 I was dreading this part of the project when adding the other leagues to the dataset. I had two datasets, each with different naming conventions for the teams, but in this version of the project, I had nine leagues' worth of names, instead of just the Premier League. In Version I, I took each dataset individually, created a dictionary of team names from their unique values, and added a new column to the dataset with a shortened 'acronym' of the name that I used across both datasets.
 
 Even typing out the explanation is more work that it should be.
@@ -44,8 +44,19 @@ This will return a similarity score of 95.
 
 Aside from using the `ratio()` function, FuzzyWuzzy uses functions to teokenize strings and manipulate them before running `ratio()`. [Using FuzzyWuzzy](https://github.com/tdraths/spi_transfers_global/blob/main/notebooks/full_data/Fuzzy_Wuzzy_team_names.ipynb), I created a function that compares the team names from each of my datasets, using one of them as the base name and the other as a comparison, and standardizes them based on a ratio score. It returns a dictionary that I used to replace the team names in both datasets, and was ridiculously faster than my Verion I solution to this problem!
 
-### Using YellowBrick to visualize the algorithms
+## Using YellowBrick to visualize the algorithms
 I have custom functions for visualizing data in the EDA step of each project, but I really wanted to see what the model is telling me about testing algorithms. YellowBrick has a seemingly unending series of visualizations available to the user, and I recommend checking out the project's [documentation](https://www.scikit-yb.org/en/latest/).
 
-I kept things pretty simple and used a residuals plot and a prediction error plot to visualize each algorithm. Here's an example: ![RandomForest - Yellowbrick](https://github.com/tdraths/spi_transfers_global/blob/main/Screenshot%202021-08-10%2011.45.25%20PM.png)
+I kept things pretty simple and used a residuals plot and a prediction error plot to visualize each algorithm. 
 
+Here's an example: ![RandomForest - Yellowbrick](https://github.com/tdraths/spi_transfers_global/blob/main/Screenshot%202021-08-10%2011.45.25%20PM.png)
+
+
+## Shapley Values for Explaining Predictability
+I have used Shapley values before, and the [SHAP project](https://shap.readthedocs.io/en/latest/index.html#) is one of the most interesting I have explored. The good folks building out the `shap` library are brilliant, and they have developed code that uses game theory concepts to explain feature importances in a clear, meaningful way.
+
+A few examples to show you what the shap library can do.
+
+First, have a look at the beeswarm plot that shows the impact of the value of each feature on the model. In my project, the most impactful feature is `average_fee_spend`, the average amount a soccer team spends on transfers into the club each transfer window. What the beeswarm shows is that while the average fee spent is highly impactful, it is most positively impactful, improving a team's strength, when they have a very high average fee spent.
+
+Interestingly, if you look a few features down in the chart at `total_transfers_in` and `total_transfer_out`, you'll see that high values for those features have a more negative impact on the team's strength. Lots of transfer activity, in or out, isn't good for a club. Focusing their efforts on smaller numbers of players in and out each season has a more beneficial impact on their season strength. I can't think of a chart that shows this more clearly, and for someone who is still pretty new to machine learning and predictive analysis, the `shap` beeswarm plot is amazingly helpful.
