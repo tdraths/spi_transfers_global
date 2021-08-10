@@ -69,6 +69,7 @@ Interestingly, if you look a few features down in the chart at `total_transfers_
 To understand this waterfall, first have a look at the bottom right corner. That `E[f(x)]` is the baseline strength score for the dataset, according to the final RandomForest model. On the left side of the chart, you see the values of each feature for this specific team during a specific season. In this case, the extremely low average fee the club spent on transfers had a large negative impact of nearly ten points from the baseline strength score. They also didn't spend very much on any one player, and that had another large negative impact on their strength.
 
 Here's a stronger team.
+
 ![SHAP-Beeswarm](https://github.com/tdraths/spi_transfers_global/blob/main/Screenshot%202021-08-11%2012.11.39%20AM.png)
 It's easy to see the positive impact that spending a lot on average and a lot on a single player has on a team's overall strenght. Those two feature values alone improved this team's strength by over 17 points!
 
